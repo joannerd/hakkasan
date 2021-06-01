@@ -14,7 +14,7 @@ jobs:
       - name: Install packages
         run: yarn
       - name: Run prettier
-        run: yarn check:format
+        run: yarn check:prettier
       - name: Run linter
         run: yarn check:lint
       - name: Run typecheck
