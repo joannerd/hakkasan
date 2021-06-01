@@ -4,7 +4,7 @@ import { HakkasanResponse } from '../lib/hakkasan';
 
 const Home = (): JSX.Element => {
   const { data, error, isLoading } = useFetch<HakkasanResponse>(
-    `/api/hakkasan?ref=artists&ref=events&ref=venues`
+    `/api/hakkasan?ref=events` // TODO: Change to ref=artists&ref=events&ref=venues
   );
   console.log('data', data);
   return isLoading ? <>Loading...</> : <Layout>hello</Layout>;

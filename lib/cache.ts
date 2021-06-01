@@ -37,17 +37,13 @@ export class Cache<T = string> {
     return this.length;
   }
 
-  getAllValues(): Array<T> {
-    let values: Array<T> = [];
-    Array.from(this.cache.keys()).forEach((key) => {
-      const { value } = this.cache.get(key);
-      values = [...values, value];
-    });
-    return values;
-  }
-
   getValue(key: string): T {
-    const { value } = this.cache.get(key);
+    const cacheValue = this.cache.get(key);
+    if (!cacheValue) {
+      return null;
+    }
+
+    const { value } = cacheValue;
     this.set(key, value);
     return value;
   }
@@ -71,7 +67,7 @@ export class Cache<T = string> {
     return leastUsedKey;
   }
 
-  getValues(keys: string[]): { [key: string]: string } {
+  getValues(keys: string[]): { [key: string]: T } {
     const cacheValue = {};
     keys.forEach((key) => {
       cacheValue[key] = this.getValue(key);

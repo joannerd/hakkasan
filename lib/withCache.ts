@@ -27,16 +27,23 @@ export const conditionallyUpdateCache = async (
   ref: string,
   routeCache: Cache<HakkasanByRefResponse>
 ): Promise<void> => {
-  if (!routeCache.has(ref)) {
-    const res = await fetchHakkasanByRef(ref);
-    routeCache.set(ref, res as HakkasanByRefResponse);
+  if (routeCache.has(ref)) {
+    return;
   }
+
+  const res = await fetchHakkasanByRef(ref);
+
+  if (!res.data.length) {
+    return;
+  }
+
+  routeCache.set(ref, res as HakkasanByRefResponse);
 };
 
 const withCache = (handler: Handler): Handler => async (req, res) => {
-    cron.start();
-    req.cache = cache;
-    return handler(req, res);
-  };
+  cron.start();
+  req.cache = cache;
+  return handler(req, res);
+};
 
 export default withCache;
