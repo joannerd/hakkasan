@@ -67,9 +67,9 @@ export type Venue = {
 }
 
 export type HakkasanResponse = {
-  artists: Response<Artist>; // TODO
+  artists: Response<Artist>;
   events: Response<Event>;
-  venues: Response<Venue>; // TODO
+  venues: Response<Venue>;
 };
 
 export type HakkasanByRefResponse = Response<Artist> | Response<Event> | Response<Venue>;
