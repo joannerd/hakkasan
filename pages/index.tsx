@@ -1,45 +1,13 @@
-import type { FC } from 'react';
 import Layout from '../components/Layout';
-import { fetchHakkasanByRef, HakkasanRefType } from '../lib';
+import { useFetch } from '../lib/hooks';
+import { HakkasanResponse } from '../lib/hakkasan';
 
-type Event = {
-  id: number;
-  venue_id: number;
-  dayOfTheWeek: number;
-  headliner: number;
-  active: boolean;
-  show_in_calendars: boolean;
-  public_reservations: boolean;
-  public_guestlists: boolean;
-  has_public_tickets: boolean;
-  title: string;
-  location: string;
-  venue_title: string;
-  date: string;
-  open: string;
-  close: string;
-  tickets_URL: string;
-  flyer_url: string;
-  tag_list: string[];
+const Home = (): JSX.Element => {
+  const { data, error, isLoading } = useFetch<HakkasanResponse>(
+    `/api/hakkasan?ref=artists&ref=events&ref=venues`
+  );
+  console.log('data', data);
+  return isLoading ? <>Loading...</> : <Layout>hello</Layout>;
 };
-
-type Props = {
-  events: Event[];
-};
-
-const Home: FC<Props> = ({ events }) => {
-  console.log('events', events);
-  return <Layout>hello</Layout>;
-};
-
-export const getStaticProps = async () => {
-  const events = await fetchHakkasanByRef<Event>(HakkasanRefType.events);
-
-  return {
-    props: {
-      events,
-    },
-  };
-}
 
 export default Home;

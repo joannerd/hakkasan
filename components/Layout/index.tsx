@@ -1,7 +1,9 @@
-import type { FC, ReactNode } from 'react';
+import type { ReactNode } from 'react';
 import Head from 'next/head';
 
-const Layout: FC<{ children: ReactNode }> = ({ children }) => (
+type Props = { children: ReactNode };
+
+const Layout = ({ children }: Props): JSX.Element => (
   <div>
     <Head>
       <title>title</title>
