@@ -1,4 +1,5 @@
 {
+  "parser": "@typescript-eslint/parser",
   "parserOptions": {
     "ecmaVersion": 2020,
     "sourceType": "module",
@@ -19,11 +20,13 @@
   "extends": [
     "plugin:react/recommended",
     "airbnb",
-    "prettier"
+    "prettier",
+    "plugin:@typescript-eslint/recommended",
   ],
   "plugins": [
     "react",
-    "prettier"
+    "prettier",
+    "@typescript-eslint",
   ],
   "globals": {
     "React": "writable"
