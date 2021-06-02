@@ -1,5 +1,6 @@
 import { NextApiResponse } from 'next';
 import withCache, { conditionallyUpdateCache } from '../../lib/withCache';
+import delay from '../../lib/utils';
 import artists from '../../data/artists.json';
 import events from '../../data/events.json';
 import venues from '../../data/venues.json';
@@ -11,18 +12,13 @@ const handler = async (
 ): Promise<void> => {
   const {
     method,
-    query: { ref },
+    query: { ref: refParam },
   } = req;
   switch (method) {
-    case 'POST':
-      break;
-    case 'PUT':
-      break;
-    case 'PATCH':
-      break;
-    default: {
+    case 'GET': {
       try {
         if (process.env.NODE_ENV !== 'production') {
+          delay(2000);
           res.status(200).send({
             artists,
             events,
@@ -32,9 +28,9 @@ const handler = async (
         }
 
         const hakkasanRefs =
-          typeof ref === 'string' ? [ref] : [...new Set(ref)];
-        const promises = hakkasanRefs.map(async (account) =>
-          conditionallyUpdateCache(account, req.cache)
+          typeof refParam === 'string' ? [refParam] : [...new Set(refParam)];
+        const promises = hakkasanRefs.map((ref) =>
+          conditionallyUpdateCache(ref, req.cache)
         );
         await Promise.all(promises);
 
@@ -48,6 +44,8 @@ const handler = async (
       }
       break;
     }
+    default:
+      break;
   }
 };
 

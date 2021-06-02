@@ -9,42 +9,42 @@ interface Response<T> {
   dataType: string;
 }
 
-export type Artist = {
+export interface Artist {
   id: number;
   createdAt: string;
   dataType: string;
   friendly_id: string;
   name: string;
   updatedAt: string;
-};
+}
 
-export type Event = {
+export interface Event {
   id: number;
-  venue_id: number;
-  dayOfTheWeek: number;
   headliner: number;
-  active: boolean;
-  show_in_calendars: boolean;
-  public_reservations: boolean;
-  public_guestlists: boolean;
   has_public_tickets: boolean;
-  title: string;
-  location: string;
+  close: string;
+  show_in_calendars: boolean;
+  active: boolean;
+  venue_id: number;
   venue_title: string;
+  title: string;
+  dayOfTheWeek: number;
   date: string;
   open: string;
-  close: string;
-  tickets_URL: string;
+  location: string;
+  public_reservations: boolean;
   flyer_url: string;
-  tag_list: string[];
-};
+  artist_event?: unknown[] | null;
+  tag_list?: unknown[] | null;
+  tickets_URL?: string | null;
+}
 
-type VenueArea = {
+interface VenueArea {
   id: number;
   title: string;
-};
+}
 
-export type Venue = {
+export interface Venue {
   id: number;
   length: number;
   time_zone_offset: number;
@@ -66,11 +66,11 @@ export type Venue = {
   zip: string;
 }
 
-export type HakkasanResponse = {
+export interface HakkasanResponse {
   artists: Response<Artist>;
   events: Response<Event>;
   venues: Response<Venue>;
-};
+}
 
 export type HakkasanByRefResponse = Response<Artist> | Response<Event> | Response<Venue>;
 
@@ -78,7 +78,7 @@ export const parseHakkasanData = async <T>(text: string): Promise<Response<T>> =
   try {
     const dataString = text.split('retrieveJSONP(')[1];
     const trimmedDataString = dataString.slice(0, dataString.length - 2);
-    const data = await JSON.parse(trimmedDataString);
+    const data = JSON.parse(trimmedDataString);
     return data;
   } catch (err) {
     throw new Error(err.message);

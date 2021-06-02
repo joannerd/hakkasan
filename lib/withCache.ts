@@ -15,9 +15,9 @@ export interface HakkasanRequest extends NextApiRequest {
 type Handler = (req: HakkasanRequest, res: NextApiResponse) => Promise<void>;
 
 const cron = new CronJob(
-  '00 00 00 * * *',
+  '0 0 0 * * *',
   // '* * * * * *', // Cron job every second for testing purposes
-  async () => cache.clear(),
+  cache.clear,
   null,
   false,
   'America/Los_Angeles'

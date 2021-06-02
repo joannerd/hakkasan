@@ -3,11 +3,11 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "node server.js",
+    "dev": "next dev",
     "build": "next build",
-    "start": "NODE_ENV=production node server.js",
+    "start": "next start",
     "check:lint": "eslint './**/*.ts*' --fix",
-    "check:type": "$(npm bin)/tsc --noEmit",
+    "check:type": "tsc --noEmit",
     "check:prettier": "prettier --write pages components",
     "check:all": "yarn check:lint && yarn check:type && yarn check:prettier"
   },
