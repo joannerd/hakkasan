@@ -1,3 +1,4 @@
+/* istanbul ignore file */
 import { NextApiRequest, NextApiResponse } from 'next';
 import { CronJob } from 'cron';
 import cache from './cache';
@@ -40,10 +41,12 @@ export const conditionallyUpdateCache = async (
   routeCache.set(ref, res as HakkasanByRefResponse);
 };
 
-const withCache = (handler: Handler): Handler => async (req, res) => {
-  cron.start();
-  req.cache = cache;
-  return handler(req, res);
-};
+const withCache =
+  (handler: Handler): Handler =>
+  async (req, res) => {
+    cron.start();
+    req.cache = cache;
+    return handler(req, res);
+  };
 
 export default withCache;
