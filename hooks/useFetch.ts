@@ -6,7 +6,7 @@ export interface UseFetchResponse<T> {
   isLoading: boolean;
 }
 
-const useFetch = <T>(endpoint: string): UseFetchResponse<T> => {
+export const useFetch = <T>(endpoint: string): UseFetchResponse<T> => {
   const [data, setData] = useState<T>();
   const [error, setError] = useState<string>('');
   const [isLoading, setIsLoading] = useState<boolean>(true);
@@ -30,5 +30,3 @@ const useFetch = <T>(endpoint: string): UseFetchResponse<T> => {
     isLoading,
   };
 };
-
-export default useFetch;

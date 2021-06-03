@@ -1,2 +1,2 @@
-/* eslint-disable import/prefer-default-export */
-export { default as useFetch } from './useFetch';
+export { useFetch } from './useFetch';
+export type { UseFetchResponse } from './useFetch';
