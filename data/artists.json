@@ -1,0 +1,6158 @@
+{
+  "ref": "artists.json",
+  "data": [
+    {
+      "friendly_id": "above-beyond",
+      "id": 1,
+      "name": "Above & Beyond",
+      "createdAt": "2020-12-12T14:01:06.350Z",
+      "updatedAt": "2020-12-12T14:01:06.350Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "adventure-club",
+      "id": 2,
+      "name": "Adventure Club",
+      "createdAt": "2020-12-12T14:01:06.371Z",
+      "updatedAt": "2020-12-12T14:01:06.371Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "afrojack",
+      "id": 3,
+      "name": "Afrojack",
+      "createdAt": "2020-12-12T14:01:06.380Z",
+      "updatedAt": "2020-12-12T14:01:06.380Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "alvaro",
+      "id": 4,
+      "name": "Alvaro",
+      "createdAt": "2020-12-12T14:01:06.389Z",
+      "updatedAt": "2020-12-12T14:01:06.389Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "arty",
+      "id": 5,
+      "name": "Arty",
+      "createdAt": "2020-12-12T14:01:06.403Z",
+      "updatedAt": "2020-12-12T14:01:06.403Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "benny-benassi",
+      "id": 7,
+      "name": "Benny Benassi",
+      "createdAt": "2020-12-12T14:01:06.417Z",
+      "updatedAt": "2020-12-12T14:01:06.417Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "bingo-players",
+      "id": 8,
+      "name": "Bingo Players",
+      "createdAt": "2020-12-12T14:01:06.434Z",
+      "updatedAt": "2020-12-12T14:01:06.434Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "blasterjaxx",
+      "id": 9,
+      "name": "Blasterjaxx",
+      "createdAt": "2020-12-12T14:01:06.442Z",
+      "updatedAt": "2020-12-12T14:01:06.442Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "bob-sinclar",
+      "id": 10,
+      "name": "Bob Sinclar",
+      "createdAt": "2020-12-12T14:01:06.454Z",
+      "updatedAt": "2020-12-12T14:01:06.454Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "borgeous",
+      "id": 11,
+      "name": "Borgeous",
+      "createdAt": "2020-12-12T14:01:06.464Z",
+      "updatedAt": "2020-12-12T14:01:06.464Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "botnek",
+      "id": 12,
+      "name": "Botnek",
+      "createdAt": "2020-12-12T14:01:06.474Z",
+      "updatedAt": "2020-12-12T14:01:06.474Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "bow-wow",
+      "id": 13,
+      "name": "Bow Wow",
+      "createdAt": "2020-12-12T14:01:06.484Z",
+      "updatedAt": "2020-12-12T14:01:06.484Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "burns",
+      "id": 14,
+      "name": "Burns",
+      "createdAt": "2020-12-12T14:01:06.498Z",
+      "updatedAt": "2020-12-12T14:01:06.498Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "calvin-harris",
+      "id": 15,
+      "name": "Calvin Harris",
+      "createdAt": "2020-12-12T14:01:06.504Z",
+      "updatedAt": "2020-12-12T14:01:06.504Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "carnage",
+      "id": 16,
+      "name": "Carnage",
+      "createdAt": "2020-12-12T14:01:06.511Z",
+      "updatedAt": "2020-12-12T14:01:06.511Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "cedric-gervais",
+      "id": 17,
+      "name": "Cedric Gervais",
+      "createdAt": "2020-12-12T14:01:06.518Z",
+      "updatedAt": "2020-12-12T14:01:06.518Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "chuckie",
+      "id": 18,
+      "name": "DJ Chuckie",
+      "createdAt": "2020-12-12T14:01:06.525Z",
+      "updatedAt": "2020-12-12T14:01:06.525Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "chus-ceballos",
+      "id": 19,
+      "name": "Chus & Ceballos",
+      "createdAt": "2020-12-12T14:01:06.535Z",
+      "updatedAt": "2020-12-12T14:01:06.535Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "connor-cruise",
+      "id": 20,
+      "name": "Connor Cruise",
+      "createdAt": "2020-12-12T14:01:06.543Z",
+      "updatedAt": "2020-12-12T14:01:06.543Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "crooked",
+      "id": 21,
+      "name": "DJ Crooked",
+      "createdAt": "2020-12-12T14:01:06.554Z",
+      "updatedAt": "2020-12-12T14:01:06.554Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "dada-life",
+      "id": 22,
+      "name": "Dada Life",
+      "createdAt": "2020-12-12T14:01:06.566Z",
+      "updatedAt": "2020-12-12T14:01:06.566Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "dalton",
+      "id": 23,
+      "name": "Dalton",
+      "createdAt": "2020-12-12T14:01:06.577Z",
+      "updatedAt": "2020-12-12T14:01:06.577Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "dannic",
+      "id": 24,
+      "name": "Dannic",
+      "createdAt": "2020-12-12T14:01:06.591Z",
+      "updatedAt": "2020-12-12T14:01:06.591Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "danny-avila",
+      "id": 25,
+      "name": "Danny Avila",
+      "createdAt": "2020-12-12T14:01:06.600Z",
+      "updatedAt": "2020-12-12T14:01:06.600Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "deadmau5",
+      "id": 26,
+      "name": "Deadmau5",
+      "createdAt": "2020-12-12T14:01:06.609Z",
+      "updatedAt": "2020-12-12T14:01:06.609Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "drek-martinez",
+      "id": 27,
+      "name": "Drek Martinez",
+      "createdAt": "2020-12-12T14:01:06.615Z",
+      "updatedAt": "2020-12-12T14:01:06.615Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "dvvbs",
+      "id": 28,
+      "name": "DVBBS",
+      "createdAt": "2020-12-12T14:01:06.626Z",
+      "updatedAt": "2020-12-12T14:01:06.626Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "dzeko-torres",
+      "id": 29,
+      "name": "Dzeko & Torres",
+      "createdAt": "2020-12-12T14:01:06.634Z",
+      "updatedAt": "2020-12-12T14:01:06.634Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "eddie-mcdonald",
+      "id": 30,
+      "name": "Eddie McDonald",
+      "createdAt": "2020-12-12T14:01:06.643Z",
+      "updatedAt": "2020-12-12T14:01:06.643Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "eric-dlux",
+      "id": 31,
+      "name": "Eric Dlux",
+      "createdAt": "2020-12-12T14:01:06.650Z",
+      "updatedAt": "2020-12-12T14:01:06.650Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "eva-shaw",
+      "id": 32,
+      "name": "Eva Shaw",
+      "createdAt": "2020-12-12T14:01:06.658Z",
+      "updatedAt": "2020-12-12T14:01:06.658Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "everlast",
+      "id": 33,
+      "name": "Everlast",
+      "createdAt": "2020-12-12T14:01:06.663Z",
+      "updatedAt": "2020-12-12T14:01:06.663Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "fat-joe",
+      "id": 34,
+      "name": "Fat Joe",
+      "createdAt": "2020-12-12T14:01:06.671Z",
+      "updatedAt": "2020-12-12T14:01:06.671Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "fergie-dj",
+      "id": 35,
+      "name": "Fergie DJ",
+      "createdAt": "2020-12-12T14:01:06.678Z",
+      "updatedAt": "2020-12-12T14:01:06.678Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "frankie-j",
+      "id": 36,
+      "name": "Frankie J",
+      "createdAt": "2020-12-12T14:01:06.683Z",
+      "updatedAt": "2020-12-12T14:01:06.683Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "gusto",
+      "id": 37,
+      "name": "DJ Gusto",
+      "createdAt": "2020-12-12T14:01:06.688Z",
+      "updatedAt": "2020-12-12T14:01:06.688Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "hard-rock-sofa",
+      "id": 38,
+      "name": "Hard Rock Sofa",
+      "createdAt": "2020-12-12T14:01:06.695Z",
+      "updatedAt": "2020-12-12T14:01:06.695Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "hardwell",
+      "id": 39,
+      "name": "Hardwell",
+      "createdAt": "2020-12-12T14:01:06.702Z",
+      "updatedAt": "2020-12-12T14:01:06.702Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "j-cole",
+      "id": 40,
+      "name": "J. Cole",
+      "createdAt": "2020-12-12T14:01:06.709Z",
+      "updatedAt": "2020-12-12T14:01:06.709Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "jeff-retro",
+      "id": 41,
+      "name": "Jeff Retro",
+      "createdAt": "2020-12-12T14:01:06.714Z",
+      "updatedAt": "2020-12-12T14:01:06.714Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "jeremih",
+      "id": 42,
+      "name": "Jeremih",
+      "createdAt": "2020-12-12T14:01:06.720Z",
+      "updatedAt": "2020-12-12T14:01:06.720Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "jesse-marco",
+      "id": 43,
+      "name": "Jesse Marco",
+      "createdAt": "2020-12-12T14:01:06.732Z",
+      "updatedAt": "2020-12-12T14:01:06.732Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "jordy-dazz",
+      "id": 44,
+      "name": "Jordy Dazz",
+      "createdAt": "2020-12-12T14:01:06.747Z",
+      "updatedAt": "2020-12-12T14:01:06.747Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "justin-credible",
+      "id": 45,
+      "name": "Justin Credible",
+      "createdAt": "2020-12-12T14:01:06.754Z",
+      "updatedAt": "2020-12-12T14:01:06.754Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "kayper",
+      "id": 46,
+      "name": "Kayper",
+      "createdAt": "2020-12-12T14:01:06.760Z",
+      "updatedAt": "2020-12-12T14:01:06.760Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "laidback-luke",
+      "id": 47,
+      "name": "Laidback Luke",
+      "createdAt": "2020-12-12T14:01:06.767Z",
+      "updatedAt": "2020-12-12T14:01:06.767Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "manufactured-superstars",
+      "id": 48,
+      "name": "Manufactured Superstars",
+      "createdAt": "2020-12-12T14:01:06.774Z",
+      "updatedAt": "2020-12-12T14:01:06.774Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "mark-eteson",
+      "id": 49,
+      "name": "Mark Eteson",
+      "createdAt": "2020-12-12T14:01:06.783Z",
+      "updatedAt": "2020-12-12T14:01:06.783Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "martin-garrix",
+      "id": 50,
+      "name": "Martin Garrix",
+      "createdAt": "2020-12-12T14:01:06.816Z",
+      "updatedAt": "2020-12-12T14:01:06.816Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "matt-goldman",
+      "id": 51,
+      "name": "Matt Goldman",
+      "createdAt": "2020-12-12T14:01:06.823Z",
+      "updatedAt": "2020-12-12T14:01:06.823Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "mayer-hawthorne",
+      "id": 52,
+      "name": "Mayer Hawthorne",
+      "createdAt": "2020-12-12T14:01:06.830Z",
+      "updatedAt": "2020-12-12T14:01:06.830Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "mercer",
+      "id": 53,
+      "name": "Mercer",
+      "createdAt": "2020-12-12T14:01:06.837Z",
+      "updatedAt": "2020-12-12T14:01:06.837Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "michael-brun",
+      "id": 54,
+      "name": "Michael Brun",
+      "createdAt": "2020-12-12T14:01:06.851Z",
+      "updatedAt": "2020-12-12T14:01:06.851Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "michael-woods",
+      "id": 55,
+      "name": "Michael Woods",
+      "createdAt": "2020-12-12T14:01:06.856Z",
+      "updatedAt": "2020-12-12T14:01:06.856Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "miguel",
+      "id": 56,
+      "name": "Miguel",
+      "createdAt": "2020-12-12T14:01:06.862Z",
+      "updatedAt": "2020-12-12T14:01:06.862Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "moby",
+      "id": 57,
+      "name": "Moby",
+      "createdAt": "2020-12-12T14:01:06.868Z",
+      "updatedAt": "2020-12-12T14:01:06.868Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "morgan-page",
+      "id": 58,
+      "name": "Morgan Page",
+      "createdAt": "2020-12-12T14:01:06.875Z",
+      "updatedAt": "2020-12-12T14:01:06.875Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "mos",
+      "id": 59,
+      "name": "MOS",
+      "createdAt": "2020-12-12T14:01:06.882Z",
+      "updatedAt": "2020-12-12T14:01:06.882Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "moti",
+      "id": 60,
+      "name": "Moti",
+      "createdAt": "2020-12-12T14:01:06.891Z",
+      "updatedAt": "2020-12-12T14:01:06.891Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "nathan-scott",
+      "id": 61,
+      "name": "Nathan Scott",
+      "createdAt": "2020-12-12T14:01:06.901Z",
+      "updatedAt": "2020-12-12T14:01:06.901Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "nervo",
+      "id": 62,
+      "name": "Nervo",
+      "createdAt": "2020-12-12T14:01:06.914Z",
+      "updatedAt": "2020-12-12T14:01:06.914Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "nevada",
+      "id": 63,
+      "name": "Nevada",
+      "createdAt": "2020-12-12T14:01:06.925Z",
+      "updatedAt": "2020-12-12T14:01:06.925Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "norman-doray",
+      "id": 64,
+      "name": "Norman Doray",
+      "createdAt": "2020-12-12T14:01:06.933Z",
+      "updatedAt": "2020-12-12T14:01:06.933Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "oliver-twizt",
+      "id": 65,
+      "name": "Oliver Twizt",
+      "createdAt": "2020-12-12T14:01:06.945Z",
+      "updatedAt": "2020-12-12T14:01:06.945Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "olly-murs",
+      "id": 66,
+      "name": "Olly Murs",
+      "createdAt": "2020-12-12T14:01:06.954Z",
+      "updatedAt": "2020-12-12T14:01:06.954Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "otto-knows",
+      "id": 67,
+      "name": "Otto Knows",
+      "createdAt": "2020-12-12T14:01:06.968Z",
+      "updatedAt": "2020-12-12T14:01:06.968Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "paris-simo",
+      "id": 68,
+      "name": "Paris & Simo",
+      "createdAt": "2020-12-12T14:01:06.988Z",
+      "updatedAt": "2020-12-12T14:01:06.988Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "paul-okenfold",
+      "id": 69,
+      "name": "Paul Okenfold",
+      "createdAt": "2020-12-12T14:01:06.995Z",
+      "updatedAt": "2020-12-12T14:01:06.995Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "pete-tong",
+      "id": 70,
+      "name": "Pete Tong",
+      "createdAt": "2020-12-12T14:01:07.002Z",
+      "updatedAt": "2020-12-12T14:01:07.002Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "prime",
+      "id": 71,
+      "name": "Prime",
+      "createdAt": "2020-12-12T14:01:07.007Z",
+      "updatedAt": "2020-12-12T14:01:07.007Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "project",
+      "id": 72,
+      "name": "Project",
+      "createdAt": "2020-12-12T14:01:07.013Z",
+      "updatedAt": "2020-12-12T14:01:07.013Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "quintino",
+      "id": 73,
+      "name": "Quintino",
+      "createdAt": "2020-12-12T14:01:07.019Z",
+      "updatedAt": "2020-12-12T14:01:07.019Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "r3hab",
+      "id": 74,
+      "name": "R3hab",
+      "createdAt": "2020-12-12T14:01:07.041Z",
+      "updatedAt": "2020-12-12T14:01:07.041Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "rev-run-ruckus",
+      "id": 75,
+      "name": "Rev Run & DJ Ruckus",
+      "createdAt": "2020-12-12T14:01:07.096Z",
+      "updatedAt": "2020-12-12T14:01:07.096Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "richie-santana",
+      "id": 76,
+      "name": "Richie Santana",
+      "createdAt": "2020-12-12T14:01:07.106Z",
+      "updatedAt": "2020-12-12T14:01:07.106Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "roger-sanchez",
+      "id": 77,
+      "name": "Roger Sanchez",
+      "createdAt": "2020-12-12T14:01:07.115Z",
+      "updatedAt": "2020-12-12T14:01:07.115Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "ross-one",
+      "id": 78,
+      "name": "Ross One",
+      "createdAt": "2020-12-12T14:01:07.123Z",
+      "updatedAt": "2020-12-12T14:01:07.123Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "ruckus",
+      "id": 79,
+      "name": "DJ Ruckus",
+      "createdAt": "2020-12-12T14:01:07.134Z",
+      "updatedAt": "2020-12-12T14:01:07.134Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "sander-van-doorn",
+      "id": 80,
+      "name": "Sander van Doorn",
+      "createdAt": "2020-12-12T14:01:07.146Z",
+      "updatedAt": "2020-12-12T14:01:07.146Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "serge-devant",
+      "id": 81,
+      "name": "Serge Devant",
+      "createdAt": "2020-12-12T14:01:07.159Z",
+      "updatedAt": "2020-12-12T14:01:07.159Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "shift",
+      "id": 82,
+      "name": "Shift",
+      "createdAt": "2020-12-12T14:01:07.169Z",
+      "updatedAt": "2020-12-12T14:01:07.169Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "showtek",
+      "id": 83,
+      "name": "Showtek",
+      "createdAt": "2020-12-12T14:01:07.180Z",
+      "updatedAt": "2020-12-12T14:01:07.180Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "sid-vicious",
+      "id": 84,
+      "name": "Sid Vicious",
+      "createdAt": "2020-12-12T14:01:07.194Z",
+      "updatedAt": "2020-12-12T14:01:07.194Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "simon-patterson",
+      "id": 85,
+      "name": "Simon Patterson",
+      "createdAt": "2020-12-12T14:01:07.202Z",
+      "updatedAt": "2020-12-12T14:01:07.202Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "sinatra",
+      "id": 86,
+      "name": "Sinatra",
+      "createdAt": "2020-12-12T14:01:07.208Z",
+      "updatedAt": "2020-12-12T14:01:07.208Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "snake",
+      "id": 87,
+      "name": "Snake",
+      "createdAt": "2020-12-12T14:01:07.216Z",
+      "updatedAt": "2020-12-12T14:01:07.216Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "steve-aoki",
+      "id": 88,
+      "name": "Steve Aoki",
+      "createdAt": "2020-12-12T14:01:07.240Z",
+      "updatedAt": "2020-12-12T14:01:07.240Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "sultan-ned-shepard",
+      "id": 89,
+      "name": "Sultan + Shepard",
+      "createdAt": "2020-12-12T14:01:07.293Z",
+      "updatedAt": "2020-12-12T14:01:07.293Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "sunnery-james-ryan-marciano",
+      "id": 90,
+      "name": "Sunnery James & Ryan Marciano",
+      "createdAt": "2020-12-12T14:01:07.338Z",
+      "updatedAt": "2020-12-12T14:01:07.338Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "the-chainsmokers",
+      "id": 91,
+      "name": "The Chainsmokers",
+      "createdAt": "2020-12-12T14:01:07.347Z",
+      "updatedAt": "2020-12-12T14:01:07.347Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "the-weeknd",
+      "id": 92,
+      "name": "The Weeknd",
+      "createdAt": "2020-12-12T14:01:07.357Z",
+      "updatedAt": "2020-12-12T14:01:07.357Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "tiesto",
+      "id": 93,
+      "name": "Tiësto",
+      "createdAt": "2020-12-12T14:01:07.363Z",
+      "updatedAt": "2020-12-12T14:01:07.363Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "tiga",
+      "id": 94,
+      "name": "Tiga",
+      "createdAt": "2020-12-12T14:01:07.369Z",
+      "updatedAt": "2020-12-12T14:01:07.369Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "tjt",
+      "id": 95,
+      "name": "TJT",
+      "createdAt": "2020-12-12T14:01:07.380Z",
+      "updatedAt": "2020-12-12T14:01:07.380Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "tommy-trash",
+      "id": 96,
+      "name": "Tommy Trash",
+      "createdAt": "2020-12-12T14:01:07.388Z",
+      "updatedAt": "2020-12-12T14:01:07.388Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "tony-arzadon",
+      "id": 97,
+      "name": "Tony Arzadon",
+      "createdAt": "2020-12-12T14:01:07.398Z",
+      "updatedAt": "2020-12-12T14:01:07.398Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "vanilla-ice",
+      "id": 98,
+      "name": "Vanilla Ice",
+      "createdAt": "2020-12-12T14:01:07.406Z",
+      "updatedAt": "2020-12-12T14:01:07.406Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "vice-irie",
+      "id": 99,
+      "name": "Vice & Irie",
+      "createdAt": "2020-12-12T14:01:07.414Z",
+      "updatedAt": "2020-12-12T14:01:07.414Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "victor-calderone",
+      "id": 100,
+      "name": "Victor Calderone",
+      "createdAt": "2020-12-12T14:01:07.422Z",
+      "updatedAt": "2020-12-12T14:01:07.422Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "vinai",
+      "id": 101,
+      "name": "Vinai",
+      "createdAt": "2020-12-12T14:01:07.438Z",
+      "updatedAt": "2020-12-12T14:01:07.438Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "w-w",
+      "id": 102,
+      "name": "W & W",
+      "createdAt": "2020-12-12T14:01:07.447Z",
+      "updatedAt": "2020-12-12T14:01:07.447Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "wolfgang-gartner",
+      "id": 103,
+      "name": "Wolfgang Gartner",
+      "createdAt": "2020-12-12T14:01:07.459Z",
+      "updatedAt": "2020-12-12T14:01:07.459Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "zedd",
+      "id": 104,
+      "name": "Zedd",
+      "createdAt": "2020-12-12T14:01:07.468Z",
+      "updatedAt": "2020-12-12T14:01:07.468Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "zen-freeman",
+      "id": 105,
+      "name": "Zen Freeman",
+      "createdAt": "2020-12-12T14:01:07.474Z",
+      "updatedAt": "2020-12-12T14:01:07.474Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "uestlove",
+      "id": 106,
+      "name": "Questlove",
+      "createdAt": "2020-12-12T14:01:07.480Z",
+      "updatedAt": "2020-12-12T14:01:07.480Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "vice",
+      "id": 107,
+      "name": "Vice",
+      "createdAt": "2020-12-12T14:01:07.487Z",
+      "updatedAt": "2020-12-12T14:01:07.487Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "d-wayne",
+      "id": 108,
+      "name": "D-Wayne",
+      "createdAt": "2020-12-12T14:01:07.494Z",
+      "updatedAt": "2020-12-12T14:01:07.494Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "audien",
+      "id": 111,
+      "name": "Audien",
+      "createdAt": "2020-12-12T14:01:07.503Z",
+      "updatedAt": "2020-12-12T14:01:07.503Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "turbulance",
+      "id": 112,
+      "name": "DJ Turbulence",
+      "createdAt": "2020-12-12T14:01:07.513Z",
+      "updatedAt": "2020-12-12T14:01:07.513Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "skratchy",
+      "id": 113,
+      "name": "Skratchy",
+      "createdAt": "2020-12-12T14:01:07.525Z",
+      "updatedAt": "2020-12-12T14:01:07.525Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "apster",
+      "id": 114,
+      "name": "Apster",
+      "createdAt": "2020-12-12T14:01:07.537Z",
+      "updatedAt": "2020-12-12T14:01:07.537Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "julian-jordan",
+      "id": 115,
+      "name": "Julian Jordan",
+      "createdAt": "2020-12-12T14:01:07.550Z",
+      "updatedAt": "2020-12-12T14:01:07.550Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "tchami",
+      "id": 116,
+      "name": "Tchami",
+      "createdAt": "2020-12-12T14:01:07.572Z",
+      "updatedAt": "2020-12-12T14:01:07.572Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "kill-the-buzz",
+      "id": 117,
+      "name": "Kill The Buzz",
+      "createdAt": "2020-12-12T14:01:07.590Z",
+      "updatedAt": "2020-12-12T14:01:07.590Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "autoerotique",
+      "id": 118,
+      "name": "Autoerotique",
+      "createdAt": "2020-12-12T14:01:07.602Z",
+      "updatedAt": "2020-12-12T14:01:07.602Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "oliver-heldens",
+      "id": 119,
+      "name": "Oliver Heldens",
+      "createdAt": "2020-12-12T14:01:07.616Z",
+      "updatedAt": "2020-12-12T14:01:07.616Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "ob-one",
+      "id": 121,
+      "name": "OB-One",
+      "createdAt": "2020-12-12T14:01:07.643Z",
+      "updatedAt": "2020-12-12T14:01:07.643Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "irie",
+      "id": 122,
+      "name": "DJ Irie",
+      "createdAt": "2020-12-12T14:01:07.674Z",
+      "updatedAt": "2020-12-12T14:01:07.674Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "caked-up",
+      "id": 123,
+      "name": "Caked Up",
+      "createdAt": "2020-12-12T14:01:07.686Z",
+      "updatedAt": "2020-12-12T14:01:07.686Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "don-diablo",
+      "id": 124,
+      "name": "Don Diablo",
+      "createdAt": "2020-12-12T14:01:07.707Z",
+      "updatedAt": "2020-12-12T14:01:07.707Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "tigerlily",
+      "id": 125,
+      "name": "Tigerlily",
+      "createdAt": "2020-12-12T14:01:07.714Z",
+      "updatedAt": "2020-12-12T14:01:07.714Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "avb",
+      "id": 126,
+      "name": "Armin van Buuren",
+      "createdAt": "2020-12-12T14:01:07.740Z",
+      "updatedAt": "2020-12-12T14:01:07.740Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "nicky-romero",
+      "id": 127,
+      "name": "Nicky Romero",
+      "createdAt": "2020-12-12T14:01:07.759Z",
+      "updatedAt": "2020-12-12T14:01:07.759Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "krewella",
+      "id": 128,
+      "name": "Krewella",
+      "createdAt": "2020-12-12T14:01:07.770Z",
+      "updatedAt": "2020-12-12T14:01:07.770Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "d-nice",
+      "id": 129,
+      "name": "D Nice",
+      "createdAt": "2020-12-12T14:01:07.776Z",
+      "updatedAt": "2020-12-12T14:01:07.776Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "jazzy-jeff",
+      "id": 130,
+      "name": "Jazzy Jeff",
+      "createdAt": "2020-12-12T14:01:07.782Z",
+      "updatedAt": "2020-12-12T14:01:07.782Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "dj-five",
+      "id": 131,
+      "name": "DJ Five",
+      "createdAt": "2020-12-12T14:01:07.791Z",
+      "updatedAt": "2020-12-12T14:01:07.791Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "fred-matters",
+      "id": 132,
+      "name": "Fred Matters",
+      "createdAt": "2020-12-12T14:01:07.799Z",
+      "updatedAt": "2020-12-12T14:01:07.799Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "devin-lucien",
+      "id": 133,
+      "name": "Devin Lucien",
+      "createdAt": "2020-12-12T14:01:07.814Z",
+      "updatedAt": "2020-12-12T14:01:07.814Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "bee-fowl",
+      "id": 134,
+      "name": "Bee Fowl",
+      "createdAt": "2020-12-12T14:01:07.841Z",
+      "updatedAt": "2020-12-12T14:01:07.841Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "eric-d-lux-five",
+      "id": 135,
+      "name": "Eric D-Lux & DJ Five",
+      "createdAt": "2020-12-12T14:01:07.852Z",
+      "updatedAt": "2020-12-12T14:01:07.852Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "rev-run",
+      "id": 136,
+      "name": "Rev Run",
+      "createdAt": "2020-12-12T14:01:07.874Z",
+      "updatedAt": "2020-12-12T14:01:07.874Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "axwell",
+      "id": 137,
+      "name": "Axwell",
+      "createdAt": "2020-12-12T14:01:07.890Z",
+      "updatedAt": "2020-12-12T14:01:07.890Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "dimitri-vegas",
+      "id": 138,
+      "name": "Dimitri Vegas",
+      "createdAt": "2020-12-12T14:01:07.897Z",
+      "updatedAt": "2020-12-12T14:01:07.897Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "like-mike",
+      "id": 139,
+      "name": "Like Mike",
+      "createdAt": "2020-12-12T14:01:07.903Z",
+      "updatedAt": "2020-12-12T14:01:07.903Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "dj-shift",
+      "id": 140,
+      "name": "DJ Shift",
+      "createdAt": "2020-12-12T14:01:07.934Z",
+      "updatedAt": "2020-12-12T14:01:07.934Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "special-guest",
+      "id": 141,
+      "name": "Special Guest",
+      "createdAt": "2020-12-12T14:01:07.959Z",
+      "updatedAt": "2020-12-12T14:01:07.959Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "test",
+      "id": 142,
+      "name": "test",
+      "createdAt": "2020-12-12T14:01:08.015Z",
+      "updatedAt": "2020-12-12T14:01:08.015Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "zaxx",
+      "id": 143,
+      "name": "Zaxx",
+      "createdAt": "2020-12-12T14:01:08.045Z",
+      "updatedAt": "2020-12-12T14:01:08.045Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "afrojack-and-steve-aoki",
+      "id": 144,
+      "name": "Afrojack and Steve Aoki",
+      "createdAt": "2020-12-12T14:01:08.051Z",
+      "updatedAt": "2020-12-12T14:01:08.051Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "guy-gerber",
+      "id": 145,
+      "name": "Guy Gerber",
+      "createdAt": "2020-12-12T14:01:08.062Z",
+      "updatedAt": "2020-12-12T14:01:08.062Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "3lau",
+      "id": 146,
+      "name": "3LAU",
+      "createdAt": "2020-12-12T14:01:08.069Z",
+      "updatedAt": "2020-12-12T14:01:08.069Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "kryoman",
+      "id": 147,
+      "name": "Kryoman",
+      "createdAt": "2020-12-12T14:01:08.086Z",
+      "updatedAt": "2020-12-12T14:01:08.086Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "hot-100",
+      "id": 148,
+      "name": "Hot 100 w/DJ Shift",
+      "createdAt": "2020-12-12T14:01:08.098Z",
+      "updatedAt": "2020-12-12T14:01:08.098Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "melod",
+      "id": 149,
+      "name": "MeloD",
+      "createdAt": "2020-12-12T14:01:08.110Z",
+      "updatedAt": "2020-12-12T14:01:08.110Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "mr-mauricio",
+      "id": 150,
+      "name": "Mr. Mauricio",
+      "createdAt": "2020-12-12T14:01:08.115Z",
+      "updatedAt": "2020-12-12T14:01:08.115Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "jessica-who",
+      "id": 151,
+      "name": "Jessica Who",
+      "createdAt": "2020-12-12T14:01:08.125Z",
+      "updatedAt": "2020-12-12T14:01:08.125Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "dirty-south",
+      "id": 152,
+      "name": "Dirty South",
+      "createdAt": "2020-12-12T14:01:08.134Z",
+      "updatedAt": "2020-12-12T14:01:08.134Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "gareth-emery",
+      "id": 153,
+      "name": "Gareth Emery",
+      "createdAt": "2020-12-12T14:01:08.140Z",
+      "updatedAt": "2020-12-12T14:01:08.140Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "steve-angello",
+      "id": 154,
+      "name": "Steve Angello",
+      "createdAt": "2020-12-12T14:01:08.147Z",
+      "updatedAt": "2020-12-12T14:01:08.147Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "erick-morillo",
+      "id": 155,
+      "name": "Erick Morillo",
+      "createdAt": "2020-12-12T14:01:08.154Z",
+      "updatedAt": "2020-12-12T14:01:08.154Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "ashley-wallbridge",
+      "id": 156,
+      "name": "Ashley Wallbridge",
+      "createdAt": "2020-12-12T14:01:08.162Z",
+      "updatedAt": "2020-12-12T14:01:08.162Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "fedde-le-grand",
+      "id": 157,
+      "name": "Fedde Le Grand",
+      "createdAt": "2020-12-12T14:01:08.171Z",
+      "updatedAt": "2020-12-12T14:01:08.171Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "mak-j",
+      "id": 158,
+      "name": "MAKJ",
+      "createdAt": "2020-12-12T14:01:08.180Z",
+      "updatedAt": "2020-12-12T14:01:08.180Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "alesso",
+      "id": 159,
+      "name": "Alesso",
+      "createdAt": "2020-12-12T14:01:08.191Z",
+      "updatedAt": "2020-12-12T14:01:08.191Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "faed",
+      "id": 160,
+      "name": "FAED",
+      "createdAt": "2020-12-12T14:01:08.197Z",
+      "updatedAt": "2020-12-12T14:01:08.197Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "seven-lions",
+      "id": 161,
+      "name": "Seven Lions",
+      "createdAt": "2020-12-12T14:01:08.203Z",
+      "updatedAt": "2020-12-12T14:01:08.203Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "cash-cash",
+      "id": 162,
+      "name": "Cash Cash",
+      "createdAt": "2020-12-12T14:01:08.209Z",
+      "updatedAt": "2020-12-12T14:01:08.209Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "bassjackers",
+      "id": 163,
+      "name": "Bassjackers",
+      "createdAt": "2020-12-12T14:01:08.215Z",
+      "updatedAt": "2020-12-12T14:01:08.215Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "rebecca-fiona",
+      "id": 164,
+      "name": "Rebecca & Fiona ",
+      "createdAt": "2020-12-12T14:01:08.220Z",
+      "updatedAt": "2020-12-12T14:01:08.220Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "dash-berlin",
+      "id": 165,
+      "name": "Dash Berlin",
+      "createdAt": "2020-12-12T14:01:08.226Z",
+      "updatedAt": "2020-12-12T14:01:08.226Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "cash-cash-tritonal",
+      "id": 166,
+      "name": "Cash Cash & Tritonal ",
+      "createdAt": "2020-12-12T14:01:08.233Z",
+      "updatedAt": "2020-12-12T14:01:08.233Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "a-trak",
+      "id": 167,
+      "name": "A-Trak",
+      "createdAt": "2020-12-12T14:01:08.254Z",
+      "updatedAt": "2020-12-12T14:01:08.254Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "ec-twins",
+      "id": 168,
+      "name": "EC Twins",
+      "createdAt": "2020-12-12T14:01:08.261Z",
+      "updatedAt": "2020-12-12T14:01:08.261Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "brody-jenner",
+      "id": 169,
+      "name": "Brody Jenner",
+      "createdAt": "2020-12-12T14:01:08.270Z",
+      "updatedAt": "2020-12-12T14:01:08.270Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "brody-jenner-and-dj-five",
+      "id": 170,
+      "name": "Brody Jenner & DJ Five",
+      "createdAt": "2020-12-12T14:01:08.275Z",
+      "updatedAt": "2020-12-12T14:01:08.275Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "brody-jenner-devin-lucien",
+      "id": 171,
+      "name": "Brody Jenner & Devin Lucien",
+      "createdAt": "2020-12-12T14:01:08.282Z",
+      "updatedAt": "2020-12-12T14:01:08.282Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "generik",
+      "id": 172,
+      "name": "Generik",
+      "createdAt": "2020-12-12T14:01:08.288Z",
+      "updatedAt": "2020-12-12T14:01:08.288Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "reid-stefan",
+      "id": 173,
+      "name": "Reid Stefan",
+      "createdAt": "2020-12-12T14:01:08.293Z",
+      "updatedAt": "2020-12-12T14:01:08.293Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "ummet-ozcan",
+      "id": 174,
+      "name": "Ummet Ozcan",
+      "createdAt": "2020-12-12T14:01:08.300Z",
+      "updatedAt": "2020-12-12T14:01:08.300Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "saint-clair",
+      "id": 175,
+      "name": "Saint Clair",
+      "createdAt": "2020-12-12T14:01:08.305Z",
+      "updatedAt": "2020-12-12T14:01:08.305Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "baz",
+      "id": 176,
+      "name": "BAZ",
+      "createdAt": "2020-12-12T14:01:08.309Z",
+      "updatedAt": "2020-12-12T14:01:08.309Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "jay-hardway",
+      "id": 177,
+      "name": "Jay Hardway",
+      "createdAt": "2020-12-12T14:01:08.315Z",
+      "updatedAt": "2020-12-12T14:01:08.315Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "dlux",
+      "id": 178,
+      "name": "Dlux",
+      "createdAt": "2020-12-12T14:01:08.320Z",
+      "updatedAt": "2020-12-12T14:01:08.320Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "americas-best-dj",
+      "id": 179,
+      "name": "America’s Best DJ",
+      "createdAt": "2020-12-12T14:01:08.325Z",
+      "updatedAt": "2020-12-12T14:01:08.325Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "atb",
+      "id": 180,
+      "name": "ATB",
+      "createdAt": "2020-12-12T14:01:08.329Z",
+      "updatedAt": "2020-12-12T14:01:08.329Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "melo-d",
+      "id": 181,
+      "name": "Melo-D",
+      "createdAt": "2020-12-12T14:01:08.334Z",
+      "updatedAt": "2020-12-12T14:01:08.334Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "neva",
+      "id": 182,
+      "name": "DJ Neva",
+      "createdAt": "2020-12-12T14:01:08.340Z",
+      "updatedAt": "2020-12-12T14:01:08.340Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "open-format-artists",
+      "id": 183,
+      "name": "Open Format Artists",
+      "createdAt": "2020-12-12T14:01:08.344Z",
+      "updatedAt": "2020-12-12T14:01:08.344Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "lil-jon",
+      "id": 184,
+      "name": "Lil Jon",
+      "createdAt": "2020-12-12T14:01:08.349Z",
+      "updatedAt": "2020-12-12T14:01:08.349Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "andrew-rayel",
+      "id": 185,
+      "name": "Andrew Rayel",
+      "createdAt": "2020-12-12T14:01:08.354Z",
+      "updatedAt": "2020-12-12T14:01:08.354Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "ansolo",
+      "id": 186,
+      "name": "Ansolo",
+      "createdAt": "2020-12-12T14:01:08.360Z",
+      "updatedAt": "2020-12-12T14:01:08.360Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "dj-dash",
+      "id": 187,
+      "name": "DJ Dash",
+      "createdAt": "2020-12-12T14:01:08.365Z",
+      "updatedAt": "2020-12-12T14:01:08.365Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "dj-phoreyz",
+      "id": 188,
+      "name": "Phoreyz",
+      "createdAt": "2020-12-12T14:01:08.374Z",
+      "updatedAt": "2020-12-12T14:01:08.374Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "ikon",
+      "id": 189,
+      "name": "DJ Ikon",
+      "createdAt": "2020-12-12T14:01:08.386Z",
+      "updatedAt": "2020-12-12T14:01:08.386Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "mark-stylz",
+      "id": 190,
+      "name": "Mark Stylz",
+      "createdAt": "2020-12-12T14:01:08.393Z",
+      "updatedAt": "2020-12-12T14:01:08.393Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "sean-perry",
+      "id": 191,
+      "name": "Sean Perry",
+      "createdAt": "2020-12-12T14:01:08.399Z",
+      "updatedAt": "2020-12-12T14:01:08.399Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "markus-schulz",
+      "id": 192,
+      "name": "Markus Schulz",
+      "createdAt": "2020-12-12T14:01:08.404Z",
+      "updatedAt": "2020-12-12T14:01:08.404Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "slander",
+      "id": 193,
+      "name": "Slander",
+      "createdAt": "2020-12-12T14:01:08.409Z",
+      "updatedAt": "2020-12-12T14:01:08.409Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "firebeatz",
+      "id": 194,
+      "name": "Firebeatz",
+      "createdAt": "2020-12-12T14:01:08.413Z",
+      "updatedAt": "2020-12-12T14:01:08.413Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "vice-nye",
+      "id": 195,
+      "name": "Vice NYE",
+      "createdAt": "2020-12-12T14:01:08.420Z",
+      "updatedAt": "2020-12-12T14:01:08.420Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "ashley-nye",
+      "id": 196,
+      "name": "Ashley NYE",
+      "createdAt": "2020-12-12T14:01:08.426Z",
+      "updatedAt": "2020-12-12T14:01:08.426Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "dlux-nye",
+      "id": 197,
+      "name": "Dlux NYE",
+      "createdAt": "2020-12-12T14:01:08.431Z",
+      "updatedAt": "2020-12-12T14:01:08.431Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "the-chainsmokers-nye",
+      "id": 198,
+      "name": "The Chainsmokers NYE",
+      "createdAt": "2020-12-12T14:01:08.438Z",
+      "updatedAt": "2020-12-12T14:01:08.438Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "we-are-treo",
+      "id": 199,
+      "name": "WeAreTreo",
+      "createdAt": "2020-12-12T14:01:08.448Z",
+      "updatedAt": "2020-12-12T14:01:08.448Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "kennedy-jones",
+      "id": 200,
+      "name": "Kennedy Jones",
+      "createdAt": "2020-12-12T14:01:08.454Z",
+      "updatedAt": "2020-12-12T14:01:08.454Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "edx",
+      "id": 201,
+      "name": "EDX",
+      "createdAt": "2020-12-12T14:01:08.459Z",
+      "updatedAt": "2020-12-12T14:01:08.459Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "dimitri-vegas-like-mike",
+      "id": 202,
+      "name": "Dimitri Vegas & Like Mike ",
+      "createdAt": "2020-12-12T14:01:08.465Z",
+      "updatedAt": "2020-12-12T14:01:08.465Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "cosmic-gate",
+      "id": 203,
+      "name": "Cosmic Gate",
+      "createdAt": "2020-12-12T14:01:08.470Z",
+      "updatedAt": "2020-12-12T14:01:08.470Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "sebastian-ingrosso",
+      "id": 204,
+      "name": "Sebastian Ingrosso",
+      "createdAt": "2020-12-12T14:01:08.474Z",
+      "updatedAt": "2020-12-12T14:01:08.474Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "nvm",
+      "id": 205,
+      "name": "NVM",
+      "createdAt": "2020-12-12T14:01:08.479Z",
+      "updatedAt": "2020-12-12T14:01:08.479Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "gta",
+      "id": 206,
+      "name": "GTA",
+      "createdAt": "2020-12-12T14:01:08.485Z",
+      "updatedAt": "2020-12-12T14:01:08.485Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "savi",
+      "id": 207,
+      "name": "Savi",
+      "createdAt": "2020-12-12T14:01:08.492Z",
+      "updatedAt": "2020-12-12T14:01:08.492Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "jus-ske",
+      "id": 208,
+      "name": "Jus Ske",
+      "createdAt": "2020-12-12T14:01:08.497Z",
+      "updatedAt": "2020-12-12T14:01:08.497Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "ilane-blue-stone",
+      "id": 209,
+      "name": "Ilane Blue Stone",
+      "createdAt": "2020-12-12T14:01:08.502Z",
+      "updatedAt": "2020-12-12T14:01:08.502Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "lema-savi",
+      "id": 210,
+      "name": "Lema & Savi ",
+      "createdAt": "2020-12-12T14:01:08.516Z",
+      "updatedAt": "2020-12-12T14:01:08.516Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "axwell-ingrosso",
+      "id": 211,
+      "name": "Axwell & Ingrosso",
+      "createdAt": "2020-12-12T14:01:08.522Z",
+      "updatedAt": "2020-12-12T14:01:08.522Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "jeff-retro-mark-eteson",
+      "id": 212,
+      "name": "Mark Eteson & Jeff Retro",
+      "createdAt": "2020-12-12T14:01:08.530Z",
+      "updatedAt": "2020-12-12T14:01:08.530Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "tritonal",
+      "id": 213,
+      "name": "Tritonal",
+      "createdAt": "2020-12-12T14:01:08.546Z",
+      "updatedAt": "2020-12-12T14:01:08.546Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "rae-sremmurd",
+      "id": 214,
+      "name": "Rae Sremmurd",
+      "createdAt": "2020-12-12T14:01:08.552Z",
+      "updatedAt": "2020-12-12T14:01:08.552Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "chocolate-puma",
+      "id": 215,
+      "name": "Chocolate Puma",
+      "createdAt": "2020-12-12T14:01:08.558Z",
+      "updatedAt": "2020-12-12T14:01:08.558Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "dj-politik",
+      "id": 216,
+      "name": "DJ Politik",
+      "createdAt": "2020-12-12T14:01:08.564Z",
+      "updatedAt": "2020-12-12T14:01:08.564Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "mick",
+      "id": 325,
+      "name": "Mick",
+      "createdAt": "2020-12-12T14:01:09.194Z",
+      "updatedAt": "2020-12-12T14:01:09.194Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "fortune-421-anniversary",
+      "id": 217,
+      "name": "Fortune 421 Anniversary",
+      "createdAt": "2020-12-12T14:01:08.569Z",
+      "updatedAt": "2020-12-12T14:01:08.569Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "r3hab-w-burns",
+      "id": 218,
+      "name": "R3HAB w/ BURNS",
+      "createdAt": "2020-12-12T14:01:08.575Z",
+      "updatedAt": "2020-12-12T14:01:08.575Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "luke-bond",
+      "id": 219,
+      "name": "Luke Bond",
+      "createdAt": "2020-12-12T14:01:08.580Z",
+      "updatedAt": "2020-12-12T14:01:08.580Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "mako",
+      "id": 220,
+      "name": "Mako",
+      "createdAt": "2020-12-12T14:01:08.586Z",
+      "updatedAt": "2020-12-12T14:01:08.586Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "throttle",
+      "id": 221,
+      "name": "Throttle",
+      "createdAt": "2020-12-12T14:01:08.591Z",
+      "updatedAt": "2020-12-12T14:01:08.591Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "kim-kardashian-west",
+      "id": 222,
+      "name": "Kim Kardashian West",
+      "createdAt": "2020-12-12T14:01:08.597Z",
+      "updatedAt": "2020-12-12T14:01:08.597Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "ookay",
+      "id": 223,
+      "name": "OOKAY DJ SET",
+      "createdAt": "2020-12-12T14:01:08.610Z",
+      "updatedAt": "2020-12-12T14:01:08.610Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "nghtmre",
+      "id": 224,
+      "name": "NGHTMRE",
+      "createdAt": "2020-12-12T14:01:08.617Z",
+      "updatedAt": "2020-12-12T14:01:08.617Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "marshmello",
+      "id": 225,
+      "name": "Marshmello",
+      "createdAt": "2020-12-12T14:01:08.623Z",
+      "updatedAt": "2020-12-12T14:01:08.623Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "jamie-foxx",
+      "id": 226,
+      "name": "Jamie Foxx",
+      "createdAt": "2020-12-12T14:01:08.628Z",
+      "updatedAt": "2020-12-12T14:01:08.628Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "one-year-anniversary-weekend-special-guest",
+      "id": 227,
+      "name": "ONE YEAR ANNIVERSARY WEEKEND - SPECIAL GUEST",
+      "createdAt": "2020-12-12T14:01:08.633Z",
+      "updatedAt": "2020-12-12T14:01:08.633Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "one-year-anniversary-weekend-tiesto",
+      "id": 228,
+      "name": "ONE YEAR ANNIVERSARY WEEKEND - TIESTO ",
+      "createdAt": "2020-12-12T14:01:08.644Z",
+      "updatedAt": "2020-12-12T14:01:08.644Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "one-year-anniversary-weekend-politik",
+      "id": 229,
+      "name": "ONE YEAR ANNIVERSARY WEEKEND - POLITIK",
+      "createdAt": "2020-12-12T14:01:08.649Z",
+      "updatedAt": "2020-12-12T14:01:08.649Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "jason-derulo",
+      "id": 230,
+      "name": "Jason Derulo",
+      "createdAt": "2020-12-12T14:01:08.654Z",
+      "updatedAt": "2020-12-12T14:01:08.654Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "myon-shane-54",
+      "id": 231,
+      "name": "Myon & Shane 54",
+      "createdAt": "2020-12-12T14:01:08.659Z",
+      "updatedAt": "2020-12-12T14:01:08.659Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "one-year-anniversary-weekend-marshmello",
+      "id": 232,
+      "name": "One Year Anniversary Weekend – Marshmello",
+      "createdAt": "2020-12-12T14:01:08.670Z",
+      "updatedAt": "2020-12-12T14:01:08.670Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "baby-yu",
+      "id": 233,
+      "name": "Baby Yu",
+      "createdAt": "2020-12-12T14:01:08.674Z",
+      "updatedAt": "2020-12-12T14:01:08.674Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "savi-lema",
+      "id": 234,
+      "name": "Savi + Lema",
+      "createdAt": "2020-12-12T14:01:08.679Z",
+      "updatedAt": "2020-12-12T14:01:08.679Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "balthazar-getty",
+      "id": 235,
+      "name": "Balthazar Getty",
+      "createdAt": "2020-12-12T14:01:08.684Z",
+      "updatedAt": "2020-12-12T14:01:08.684Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "omnia-sd-thursdays-artist-tba",
+      "id": 236,
+      "name": "OMNIA SD Thursday",
+      "createdAt": "2020-12-12T14:01:08.691Z",
+      "updatedAt": "2020-12-12T14:01:08.691Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "omnia-sd-fridays-artist-tba",
+      "id": 237,
+      "name": "OMNIA SD Friday",
+      "createdAt": "2020-12-12T14:01:08.695Z",
+      "updatedAt": "2020-12-12T14:01:08.695Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "omnia-sd-saturdays-artist-tba",
+      "id": 238,
+      "name": "OMNIA SD Saturday",
+      "createdAt": "2020-12-12T14:01:08.701Z",
+      "updatedAt": "2020-12-12T14:01:08.701Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "swizz-beatz",
+      "id": 239,
+      "name": "Swizz Beatz",
+      "createdAt": "2020-12-12T14:01:08.708Z",
+      "updatedAt": "2020-12-12T14:01:08.708Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "omnia-lv-tuesdays-artist-tba",
+      "id": 240,
+      "name": "Artist TBA",
+      "createdAt": "2020-12-12T14:01:08.714Z",
+      "updatedAt": "2020-12-12T14:01:08.714Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "malika-haqq",
+      "id": 243,
+      "name": "Malika Haqq",
+      "createdAt": "2020-12-12T14:01:08.720Z",
+      "updatedAt": "2020-12-12T14:01:08.720Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "porter-robinson",
+      "id": 244,
+      "name": "Porter Robinson",
+      "createdAt": "2020-12-12T14:01:08.728Z",
+      "updatedAt": "2020-12-12T14:01:08.728Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "matoma",
+      "id": 245,
+      "name": "Matoma",
+      "createdAt": "2020-12-12T14:01:08.739Z",
+      "updatedAt": "2020-12-12T14:01:08.739Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "will-sparks",
+      "id": 246,
+      "name": "Will Sparks",
+      "createdAt": "2020-12-12T14:01:08.745Z",
+      "updatedAt": "2020-12-12T14:01:08.745Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "brklyn",
+      "id": 247,
+      "name": "BRKLYN",
+      "createdAt": "2020-12-12T14:01:08.752Z",
+      "updatedAt": "2020-12-12T14:01:08.752Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "posso",
+      "id": 248,
+      "name": "Posso",
+      "createdAt": "2020-12-12T14:01:08.759Z",
+      "updatedAt": "2020-12-12T14:01:08.759Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "jayceeoh",
+      "id": 249,
+      "name": "Jayceeoh",
+      "createdAt": "2020-12-12T14:01:08.765Z",
+      "updatedAt": "2020-12-12T14:01:08.765Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "clinton-sparks",
+      "id": 250,
+      "name": "Clinton Sparks",
+      "createdAt": "2020-12-12T14:01:08.770Z",
+      "updatedAt": "2020-12-12T14:01:08.770Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "dj-ruckus-w-prince-fox",
+      "id": 255,
+      "name": "DJ Ruckus w/ Prince Fox",
+      "createdAt": "2020-12-12T14:01:08.775Z",
+      "updatedAt": "2020-12-12T14:01:08.775Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "puff-daddy",
+      "id": 256,
+      "name": "Puff Daddy",
+      "createdAt": "2020-12-12T14:01:08.780Z",
+      "updatedAt": "2020-12-12T14:01:08.780Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "iggy-azalea",
+      "id": 257,
+      "name": "Iggy Azalea",
+      "createdAt": "2020-12-12T14:01:08.784Z",
+      "updatedAt": "2020-12-12T14:01:08.784Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "new-order",
+      "id": 258,
+      "name": "New Order",
+      "createdAt": "2020-12-12T14:01:08.788Z",
+      "updatedAt": "2020-12-12T14:01:08.788Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "one-year-anniversary-weekend-tiesto-w-mike-williams",
+      "id": 259,
+      "name": "ONE YEAR ANNIVERSARY WEEKEND – TIËSTO w/ MIKE WILLIAMS",
+      "createdAt": "2020-12-12T14:01:08.794Z",
+      "updatedAt": "2020-12-12T14:01:08.794Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "phoreyz",
+      "id": 260,
+      "name": "(deactivated) Phoreyz",
+      "createdAt": "2020-12-12T14:01:08.799Z",
+      "updatedAt": "2020-12-12T14:01:08.799Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "stretch",
+      "id": 262,
+      "name": "DJ Stretch",
+      "createdAt": "2020-12-12T14:01:08.804Z",
+      "updatedAt": "2020-12-12T14:01:08.804Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "autograf",
+      "id": 263,
+      "name": "Autograf",
+      "createdAt": "2020-12-12T14:01:08.809Z",
+      "updatedAt": "2020-12-12T14:01:08.809Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "snbrn",
+      "id": 264,
+      "name": "SNBRN",
+      "createdAt": "2020-12-12T14:01:08.813Z",
+      "updatedAt": "2020-12-12T14:01:08.813Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "dr-fresch",
+      "id": 265,
+      "name": "Dr. Fresch",
+      "createdAt": "2020-12-12T14:01:08.818Z",
+      "updatedAt": "2020-12-12T14:01:08.818Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "gryffin-dj-set",
+      "id": 266,
+      "name": "Gryffin DJ Set",
+      "createdAt": "2020-12-12T14:01:08.823Z",
+      "updatedAt": "2020-12-12T14:01:08.823Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "omnia-sd-sundays-artist-tba",
+      "id": 267,
+      "name": "OMNIA SD Sunday",
+      "createdAt": "2020-12-12T14:01:08.828Z",
+      "updatedAt": "2020-12-12T14:01:08.828Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "dj-spider",
+      "id": 268,
+      "name": "DJ Spider",
+      "createdAt": "2020-12-12T14:01:08.834Z",
+      "updatedAt": "2020-12-12T14:01:08.834Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "nora-en-pure",
+      "id": 269,
+      "name": "Nora En Pure",
+      "createdAt": "2020-12-12T14:01:08.839Z",
+      "updatedAt": "2020-12-12T14:01:08.839Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "goldroom",
+      "id": 270,
+      "name": "Goldroom",
+      "createdAt": "2020-12-12T14:01:08.844Z",
+      "updatedAt": "2020-12-12T14:01:08.844Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "jauz",
+      "id": 271,
+      "name": "Jauz",
+      "createdAt": "2020-12-12T14:01:08.849Z",
+      "updatedAt": "2020-12-12T14:01:08.849Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "3400-destination-house",
+      "id": 272,
+      "name": "3400 Destination House",
+      "createdAt": "2020-12-12T14:01:08.854Z",
+      "updatedAt": "2020-12-12T14:01:08.854Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "snbrn-dr-fresch",
+      "id": 273,
+      "name": "SNBRN & Dr. Fresch",
+      "createdAt": "2020-12-12T14:01:08.860Z",
+      "updatedAt": "2020-12-12T14:01:08.860Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "comic-con-weekend-special-event",
+      "id": 274,
+      "name": "COMIC-CON WEEKEND SPECIAL EVENT",
+      "createdAt": "2020-12-12T14:01:08.866Z",
+      "updatedAt": "2020-12-12T14:01:08.866Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "tay-james",
+      "id": 276,
+      "name": "DJ Tay James",
+      "createdAt": "2020-12-12T14:01:08.873Z",
+      "updatedAt": "2020-12-12T14:01:08.873Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "lookas",
+      "id": 277,
+      "name": "Lookas",
+      "createdAt": "2020-12-12T14:01:08.878Z",
+      "updatedAt": "2020-12-12T14:01:08.878Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "after-con-w-kristian-nairn",
+      "id": 278,
+      "name": "AFTER-CON W/KRISTIAN NAIRN",
+      "createdAt": "2020-12-12T14:01:08.884Z",
+      "updatedAt": "2020-12-12T14:01:08.884Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "lost-kings",
+      "id": 279,
+      "name": "Lost Kings",
+      "createdAt": "2020-12-12T14:01:08.889Z",
+      "updatedAt": "2020-12-12T14:01:08.889Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "le-youth",
+      "id": 280,
+      "name": "Le Youth",
+      "createdAt": "2020-12-12T14:01:08.895Z",
+      "updatedAt": "2020-12-12T14:01:08.895Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "drake-official-after-party",
+      "id": 281,
+      "name": "Drake Official After Party",
+      "createdAt": "2020-12-12T14:01:08.901Z",
+      "updatedAt": "2020-12-12T14:01:08.901Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "party-favor",
+      "id": 282,
+      "name": "Party Favor ",
+      "createdAt": "2020-12-12T14:01:08.906Z",
+      "updatedAt": "2020-12-12T14:01:08.906Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "sick-individuals",
+      "id": 283,
+      "name": "Sick Individuals ",
+      "createdAt": "2020-12-12T14:01:08.911Z",
+      "updatedAt": "2020-12-12T14:01:08.911Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "seeb",
+      "id": 284,
+      "name": "SEEB",
+      "createdAt": "2020-12-12T14:01:08.915Z",
+      "updatedAt": "2020-12-12T14:01:08.915Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "monster-cat",
+      "id": 285,
+      "name": "Monster Cat ",
+      "createdAt": "2020-12-12T14:01:08.921Z",
+      "updatedAt": "2020-12-12T14:01:08.921Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "america-s-best-dj",
+      "id": 286,
+      "name": "America's Best DJ ",
+      "createdAt": "2020-12-12T14:01:08.927Z",
+      "updatedAt": "2020-12-12T14:01:08.927Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "shaun-frank",
+      "id": 287,
+      "name": "Shaun Frank",
+      "createdAt": "2020-12-12T14:01:08.932Z",
+      "updatedAt": "2020-12-12T14:01:08.932Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "claude-vonstroke",
+      "id": 288,
+      "name": "Claude VonStroke",
+      "createdAt": "2020-12-12T14:01:08.937Z",
+      "updatedAt": "2020-12-12T14:01:08.937Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "robin-schulz",
+      "id": 289,
+      "name": "Robin Schulz",
+      "createdAt": "2020-12-12T14:01:08.942Z",
+      "updatedAt": "2020-12-12T14:01:08.942Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "illenium",
+      "id": 290,
+      "name": "Illenium",
+      "createdAt": "2020-12-12T14:01:08.950Z",
+      "updatedAt": "2020-12-12T14:01:08.950Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "travis-scott",
+      "id": 291,
+      "name": "Travis Scott",
+      "createdAt": "2020-12-12T14:01:08.958Z",
+      "updatedAt": "2020-12-12T14:01:08.958Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "ghastly",
+      "id": 292,
+      "name": "Ghastly ",
+      "createdAt": "2020-12-12T14:01:08.968Z",
+      "updatedAt": "2020-12-12T14:01:08.968Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "henri-pfr-addal",
+      "id": 293,
+      "name": "Henri PFR & Addal ",
+      "createdAt": "2020-12-12T14:01:08.975Z",
+      "updatedAt": "2020-12-12T14:01:08.975Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "drake",
+      "id": 294,
+      "name": "Drake",
+      "createdAt": "2020-12-12T14:01:08.979Z",
+      "updatedAt": "2020-12-12T14:01:08.979Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "lema",
+      "id": 295,
+      "name": "Lema",
+      "createdAt": "2020-12-12T14:01:08.985Z",
+      "updatedAt": "2020-12-12T14:01:08.985Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "all-gold",
+      "id": 296,
+      "name": "All Gold",
+      "createdAt": "2020-12-12T14:01:08.990Z",
+      "updatedAt": "2020-12-12T14:01:08.990Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "crankdat",
+      "id": 297,
+      "name": "Crankdat",
+      "createdAt": "2020-12-12T14:01:08.996Z",
+      "updatedAt": "2020-12-12T14:01:08.996Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "mk",
+      "id": 298,
+      "name": "DJ Mike Kim",
+      "createdAt": "2020-12-12T14:01:09.004Z",
+      "updatedAt": "2020-12-12T14:01:09.004Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "lush-simon",
+      "id": 299,
+      "name": "Lush & Simon",
+      "createdAt": "2020-12-12T14:01:09.011Z",
+      "updatedAt": "2020-12-12T14:01:09.011Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "la-leakers",
+      "id": 300,
+      "name": "LA Leakers ",
+      "createdAt": "2020-12-12T14:01:09.016Z",
+      "updatedAt": "2020-12-12T14:01:09.016Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "mikey-francis",
+      "id": 301,
+      "name": "Mikey Francis",
+      "createdAt": "2020-12-12T14:01:09.023Z",
+      "updatedAt": "2020-12-12T14:01:09.023Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "mondo",
+      "id": 302,
+      "name": "DJ Mondo",
+      "createdAt": "2020-12-12T14:01:09.028Z",
+      "updatedAt": "2020-12-12T14:01:09.028Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "hook-sling",
+      "id": 303,
+      "name": "Hook & Sling",
+      "createdAt": "2020-12-12T14:01:09.036Z",
+      "updatedAt": "2020-12-12T14:01:09.036Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "rainman",
+      "id": 304,
+      "name": "Rainman",
+      "createdAt": "2020-12-12T14:01:09.045Z",
+      "updatedAt": "2020-12-12T14:01:09.045Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "cheat-codes",
+      "id": 305,
+      "name": "Cheat Codes ",
+      "createdAt": "2020-12-12T14:01:09.055Z",
+      "updatedAt": "2020-12-12T14:01:09.055Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "kaskade",
+      "id": 306,
+      "name": "Kaskade",
+      "createdAt": "2020-12-12T14:01:09.063Z",
+      "updatedAt": "2020-12-12T14:01:09.063Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "bad-royale",
+      "id": 307,
+      "name": "Bad Royale",
+      "createdAt": "2020-12-12T14:01:09.078Z",
+      "updatedAt": "2020-12-12T14:01:09.078Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "closed-for-private-event",
+      "id": 309,
+      "name": "CLOSED FOR PRIVATE EVENT",
+      "createdAt": "2020-12-12T14:01:09.088Z",
+      "updatedAt": "2020-12-12T14:01:09.088Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "kennedy-jones-helena-legend",
+      "id": 310,
+      "name": "Kennedy Jones + Helena Legend",
+      "createdAt": "2020-12-12T14:01:09.093Z",
+      "updatedAt": "2020-12-12T14:01:09.093Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "chase-b",
+      "id": 311,
+      "name": "Chase B",
+      "createdAt": "2020-12-12T14:01:09.099Z",
+      "updatedAt": "2020-12-12T14:01:09.099Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "bruno-mars",
+      "id": 312,
+      "name": "Bruno Mars",
+      "createdAt": "2020-12-12T14:01:09.108Z",
+      "updatedAt": "2020-12-12T14:01:09.108Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "vicetone",
+      "id": 313,
+      "name": "Vicetone",
+      "createdAt": "2020-12-12T14:01:09.118Z",
+      "updatedAt": "2020-12-12T14:01:09.118Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "elephante",
+      "id": 314,
+      "name": "Elephante",
+      "createdAt": "2020-12-12T14:01:09.130Z",
+      "updatedAt": "2020-12-12T14:01:09.130Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "wellman",
+      "id": 315,
+      "name": "DJ Wellman",
+      "createdAt": "2020-12-12T14:01:09.136Z",
+      "updatedAt": "2020-12-12T14:01:09.136Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "fashen",
+      "id": 316,
+      "name": "Fashen",
+      "createdAt": "2020-12-12T14:01:09.141Z",
+      "updatedAt": "2020-12-12T14:01:09.141Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "karma",
+      "id": 317,
+      "name": "DJ Karma",
+      "createdAt": "2020-12-12T14:01:09.146Z",
+      "updatedAt": "2020-12-12T14:01:09.146Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "march-mayem",
+      "id": 318,
+      "name": "March Mayem",
+      "createdAt": "2020-12-12T14:01:09.155Z",
+      "updatedAt": "2020-12-12T14:01:09.155Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "omniathursdays",
+      "id": 319,
+      "name": "OMNIA Thursday",
+      "createdAt": "2020-12-12T14:01:09.161Z",
+      "updatedAt": "2020-12-12T14:01:09.161Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "omniasundays",
+      "id": 320,
+      "name": "OMNIA Sunday",
+      "createdAt": "2020-12-12T14:01:09.172Z",
+      "updatedAt": "2020-12-12T14:01:09.172Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "omnialvthursdays",
+      "id": 321,
+      "name": "OMNIA Thursday",
+      "createdAt": "2020-12-12T14:01:09.177Z",
+      "updatedAt": "2020-12-12T14:01:09.177Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "omnialvsundays",
+      "id": 322,
+      "name": "OMNIA Sunday",
+      "createdAt": "2020-12-12T14:01:09.182Z",
+      "updatedAt": "2020-12-12T14:01:09.182Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "4b",
+      "id": 324,
+      "name": "4B",
+      "createdAt": "2020-12-12T14:01:09.188Z",
+      "updatedAt": "2020-12-12T14:01:09.188Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "twofriends",
+      "id": 326,
+      "name": "Two Friends",
+      "createdAt": "2020-12-12T14:01:09.199Z",
+      "updatedAt": "2020-12-12T14:01:09.199Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "dzeko",
+      "id": 327,
+      "name": "Dzeko",
+      "createdAt": "2020-12-12T14:01:09.205Z",
+      "updatedAt": "2020-12-12T14:01:09.205Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "one-night-stand-w-marshmello",
+      "id": 328,
+      "name": "ONE NIGHT STAND W/ MARSHMELLO",
+      "createdAt": "2020-12-12T14:01:09.210Z",
+      "updatedAt": "2020-12-12T14:01:09.210Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "fabian",
+      "id": 329,
+      "name": "Fabian",
+      "createdAt": "2020-12-12T14:01:09.216Z",
+      "updatedAt": "2020-12-12T14:01:09.216Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "deorro",
+      "id": 330,
+      "name": "Deorro",
+      "createdAt": "2020-12-12T14:01:09.220Z",
+      "updatedAt": "2020-12-12T14:01:09.220Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "fomo",
+      "id": 331,
+      "name": "FOMO",
+      "createdAt": "2020-12-12T14:01:09.229Z",
+      "updatedAt": "2020-12-12T14:01:09.229Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "mash-d-n-kutcher",
+      "id": 332,
+      "name": "Mashd N Kutcher",
+      "createdAt": "2020-12-12T14:01:09.235Z",
+      "updatedAt": "2020-12-12T14:01:09.235Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "djever",
+      "id": 335,
+      "name": "DJ Ever",
+      "createdAt": "2020-12-12T14:01:09.241Z",
+      "updatedAt": "2020-12-12T14:01:09.241Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "lupe-fiasco",
+      "id": 336,
+      "name": "Lupe Fiasco",
+      "createdAt": "2020-12-12T14:01:09.247Z",
+      "updatedAt": "2020-12-12T14:01:09.247Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "partynextdoor",
+      "id": 337,
+      "name": "PartyNextDoor",
+      "createdAt": "2020-12-12T14:01:09.253Z",
+      "updatedAt": "2020-12-12T14:01:09.253Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "mrbrown",
+      "id": 338,
+      "name": "Mr. Brown",
+      "createdAt": "2020-12-12T14:01:09.258Z",
+      "updatedAt": "2020-12-12T14:01:09.258Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "tantrum",
+      "id": 339,
+      "name": "Tantrum",
+      "createdAt": "2020-12-12T14:01:09.264Z",
+      "updatedAt": "2020-12-12T14:01:09.264Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "luckylou",
+      "id": 340,
+      "name": "DJ Lucky Lou",
+      "createdAt": "2020-12-12T14:01:09.272Z",
+      "updatedAt": "2020-12-12T14:01:09.272Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "walsheyfire",
+      "id": 341,
+      "name": "Walshy Fire",
+      "createdAt": "2020-12-12T14:01:09.277Z",
+      "updatedAt": "2020-12-12T14:01:09.277Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "kristiannairn",
+      "id": 342,
+      "name": "Kristian Nairn",
+      "createdAt": "2020-12-12T14:01:09.283Z",
+      "updatedAt": "2020-12-12T14:01:09.283Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "scottdisick",
+      "id": 343,
+      "name": "Scott Disick",
+      "createdAt": "2020-12-12T14:01:09.288Z",
+      "updatedAt": "2020-12-12T14:01:09.288Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "2chainz",
+      "id": 344,
+      "name": "2Chainz",
+      "createdAt": "2020-12-12T14:01:09.294Z",
+      "updatedAt": "2020-12-12T14:01:09.294Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "onenightstandwzedd",
+      "id": 345,
+      "name": "Zedd (SD)",
+      "createdAt": "2020-12-12T14:01:09.300Z",
+      "updatedAt": "2020-12-12T14:01:09.300Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "djmikek",
+      "id": 346,
+      "name": "DJ Mike K",
+      "createdAt": "2020-12-12T14:01:09.306Z",
+      "updatedAt": "2020-12-12T14:01:09.306Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "captn20",
+      "id": 347,
+      "name": "DJ Captn20",
+      "createdAt": "2020-12-12T14:01:09.314Z",
+      "updatedAt": "2020-12-12T14:01:09.314Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "justinmylo",
+      "id": 348,
+      "name": "Justin Mylo",
+      "createdAt": "2020-12-12T14:01:09.344Z",
+      "updatedAt": "2020-12-12T14:01:09.344Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "ekali",
+      "id": 349,
+      "name": "Ekali",
+      "createdAt": "2020-12-12T14:01:09.359Z",
+      "updatedAt": "2020-12-12T14:01:09.359Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "craigsmoove",
+      "id": 350,
+      "name": "DJ Craig Smoove",
+      "createdAt": "2020-12-12T14:01:09.365Z",
+      "updatedAt": "2020-12-12T14:01:09.365Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "jacknovak",
+      "id": 351,
+      "name": "Jack Novak",
+      "createdAt": "2020-12-12T14:01:09.371Z",
+      "updatedAt": "2020-12-12T14:01:09.371Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "slushii",
+      "id": 352,
+      "name": "Slushii",
+      "createdAt": "2020-12-12T14:01:09.377Z",
+      "updatedAt": "2020-12-12T14:01:09.377Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "oliverrosa",
+      "id": 353,
+      "name": "Oliver Rosa",
+      "createdAt": "2020-12-12T14:01:09.384Z",
+      "updatedAt": "2020-12-12T14:01:09.384Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "djque",
+      "id": 354,
+      "name": "DJ Que",
+      "createdAt": "2020-12-12T14:01:09.392Z",
+      "updatedAt": "2020-12-12T14:01:09.392Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "kidconrad",
+      "id": 355,
+      "name": "Kid Conrad",
+      "createdAt": "2020-12-12T14:01:09.409Z",
+      "updatedAt": "2020-12-12T14:01:09.409Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "thebankfridaysspecialguest",
+      "id": 356,
+      "name": "The Bank Friday",
+      "createdAt": "2020-12-12T14:01:09.415Z",
+      "updatedAt": "2020-12-12T14:01:09.415Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "thebanksaturdaysspecialguest",
+      "id": 357,
+      "name": "The Bank Saturday",
+      "createdAt": "2020-12-12T14:01:09.421Z",
+      "updatedAt": "2020-12-12T14:01:09.421Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "thebanksundaysspecialguest",
+      "id": 358,
+      "name": "The Bank Sunday",
+      "createdAt": "2020-12-12T14:01:09.426Z",
+      "updatedAt": "2020-12-12T14:01:09.426Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "specialevent",
+      "id": 359,
+      "name": "Special Event",
+      "createdAt": "2020-12-12T14:01:09.431Z",
+      "updatedAt": "2020-12-12T14:01:09.431Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "porterrobinsondjset",
+      "id": 360,
+      "name": "Porter Robinson DJ Set",
+      "createdAt": "2020-12-12T14:01:09.436Z",
+      "updatedAt": "2020-12-12T14:01:09.436Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "andersonpaak",
+      "id": 361,
+      "name": "Anderson Paak",
+      "createdAt": "2020-12-12T14:01:09.445Z",
+      "updatedAt": "2020-12-12T14:01:09.445Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "aftercon2017",
+      "id": 362,
+      "name": "AfterCon 2017 ",
+      "createdAt": "2020-12-12T14:01:09.455Z",
+      "updatedAt": "2020-12-12T14:01:09.455Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "djfreestylesteve",
+      "id": 363,
+      "name": "DJ Freestyle Steve",
+      "createdAt": "2020-12-12T14:01:09.460Z",
+      "updatedAt": "2020-12-12T14:01:09.460Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "djkailatroy",
+      "id": 364,
+      "name": "DJ Kaila Troy",
+      "createdAt": "2020-12-12T14:01:09.469Z",
+      "updatedAt": "2020-12-12T14:01:09.469Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "borgeous-featuring-kristian-nairn",
+      "id": 365,
+      "name": "BORGEOUS FEATURING KRISTIAN NAIRN",
+      "createdAt": "2020-12-12T14:01:09.476Z",
+      "updatedAt": "2020-12-12T14:01:09.476Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "yg",
+      "id": 366,
+      "name": "YG",
+      "createdAt": "2020-12-12T14:01:09.481Z",
+      "updatedAt": "2020-12-12T14:01:09.481Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "torylanez",
+      "id": 367,
+      "name": "Tory Lanez",
+      "createdAt": "2020-12-12T14:01:09.499Z",
+      "updatedAt": "2020-12-12T14:01:09.499Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "undone-thursdays",
+      "id": 368,
+      "name": "UNDONE on Thursday",
+      "createdAt": "2020-12-12T14:01:09.505Z",
+      "updatedAt": "2020-12-12T14:01:09.505Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "borgore",
+      "id": 369,
+      "name": "Borgore",
+      "createdAt": "2020-12-12T14:01:09.510Z",
+      "updatedAt": "2020-12-12T14:01:09.510Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "halloween-night",
+      "id": 370,
+      "name": "Halloween Night",
+      "createdAt": "2020-12-12T14:01:09.516Z",
+      "updatedAt": "2020-12-12T14:01:09.516Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "halloween-weekend-thursday",
+      "id": 371,
+      "name": "Halloween Weekend Thursday",
+      "createdAt": "2020-12-12T14:01:09.521Z",
+      "updatedAt": "2020-12-12T14:01:09.521Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "halloween-weekend-friday",
+      "id": 372,
+      "name": "Halloween Weekend Friday",
+      "createdAt": "2020-12-12T14:01:09.526Z",
+      "updatedAt": "2020-12-12T14:01:09.526Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "halloween-weekend-saturday",
+      "id": 373,
+      "name": "Halloween Weekend Saturday",
+      "createdAt": "2020-12-12T14:01:09.532Z",
+      "updatedAt": "2020-12-12T14:01:09.532Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "marc-e-bassy",
+      "id": 374,
+      "name": "Marc E Bassy",
+      "createdAt": "2020-12-12T14:01:09.538Z",
+      "updatedAt": "2020-12-12T14:01:09.538Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "kyle-flesch",
+      "id": 375,
+      "name": "Kyle Flesch",
+      "createdAt": "2020-12-12T14:01:09.545Z",
+      "updatedAt": "2020-12-12T14:01:09.545Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "d-miles",
+      "id": 376,
+      "name": "D-Miles",
+      "createdAt": "2020-12-12T14:01:09.553Z",
+      "updatedAt": "2020-12-12T14:01:09.553Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "felixcartal",
+      "id": 377,
+      "name": "Felix Cartal",
+      "createdAt": "2020-12-12T14:01:09.559Z",
+      "updatedAt": "2020-12-12T14:01:09.559Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "bonnie-x-clyde",
+      "id": 378,
+      "name": "Bonnie x Clyde",
+      "createdAt": "2020-12-12T14:01:09.566Z",
+      "updatedAt": "2020-12-12T14:01:09.566Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "canelo-alvarez",
+      "id": 379,
+      "name": "Canelo Alvarez",
+      "createdAt": "2020-12-12T14:01:09.572Z",
+      "updatedAt": "2020-12-12T14:01:09.572Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "deseo-latin-sundays",
+      "id": 380,
+      "name": "Deseo Latin Sundays",
+      "createdAt": "2020-12-12T14:01:09.578Z",
+      "updatedAt": "2020-12-12T14:01:09.578Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "breathecarolina",
+      "id": 381,
+      "name": "Breathe Carolina",
+      "createdAt": "2020-12-12T14:01:09.584Z",
+      "updatedAt": "2020-12-12T14:01:09.584Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "kapslap",
+      "id": 382,
+      "name": "Kap Slap",
+      "createdAt": "2020-12-12T14:01:09.592Z",
+      "updatedAt": "2020-12-12T14:01:09.592Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "playboicarti",
+      "id": 383,
+      "name": "Playboi Carti",
+      "createdAt": "2020-12-12T14:01:09.598Z",
+      "updatedAt": "2020-12-12T14:01:09.598Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "lasvegasvictimsbenefitconcert",
+      "id": 384,
+      "name": "Las Vegas Victims Benefit Concert",
+      "createdAt": "2020-12-12T14:01:09.606Z",
+      "updatedAt": "2020-12-12T14:01:09.606Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "deseoinheart",
+      "id": 385,
+      "name": "DESEO in HEART",
+      "createdAt": "2020-12-12T14:01:09.612Z",
+      "updatedAt": "2020-12-12T14:01:09.612Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "scooter",
+      "id": 386,
+      "name": "DJ Scooter",
+      "createdAt": "2020-12-12T14:01:09.618Z",
+      "updatedAt": "2020-12-12T14:01:09.618Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "lisapittman",
+      "id": 387,
+      "name": "Lisa Pittman",
+      "createdAt": "2020-12-12T14:01:09.623Z",
+      "updatedAt": "2020-12-12T14:01:09.623Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "djlezlee",
+      "id": 388,
+      "name": "DJ Lezlee",
+      "createdAt": "2020-12-12T14:01:09.628Z",
+      "updatedAt": "2020-12-12T14:01:09.628Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "2chainznye",
+      "id": 389,
+      "name": "2chainznye",
+      "createdAt": "2020-12-12T14:01:09.633Z",
+      "updatedAt": "2020-12-12T14:01:09.633Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "shes1ofakind",
+      "id": 390,
+      "name": "She’s 1 Of A Kind",
+      "createdAt": "2020-12-12T14:01:09.638Z",
+      "updatedAt": "2020-12-12T14:01:09.638Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "djnova",
+      "id": 391,
+      "name": "DJ Nova",
+      "createdAt": "2020-12-12T14:01:09.643Z",
+      "updatedAt": "2020-12-12T14:01:09.643Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "djcla",
+      "id": 392,
+      "name": "DJ CLA",
+      "createdAt": "2020-12-12T14:01:09.648Z",
+      "updatedAt": "2020-12-12T14:01:09.648Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "cozyboys",
+      "id": 393,
+      "name": "Cozy Boys",
+      "createdAt": "2020-12-12T14:01:09.652Z",
+      "updatedAt": "2020-12-12T14:01:09.652Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "travisporter",
+      "id": 394,
+      "name": "Travis Porter",
+      "createdAt": "2020-12-12T14:01:09.662Z",
+      "updatedAt": "2020-12-12T14:01:09.662Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "djshortkutz",
+      "id": 395,
+      "name": "DJ Shortkutz",
+      "createdAt": "2020-12-12T14:01:09.667Z",
+      "updatedAt": "2020-12-12T14:01:09.667Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "ravitez",
+      "id": 396,
+      "name": "Ravitez",
+      "createdAt": "2020-12-12T14:01:09.672Z",
+      "updatedAt": "2020-12-12T14:01:09.672Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "alibinye",
+      "id": 397,
+      "name": "Alibi NYE",
+      "createdAt": "2020-12-12T14:01:09.676Z",
+      "updatedAt": "2020-12-12T14:01:09.676Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "lilynye",
+      "id": 398,
+      "name": "Lily NYE",
+      "createdAt": "2020-12-12T14:01:09.685Z",
+      "updatedAt": "2020-12-12T14:01:09.685Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "thehim",
+      "id": 399,
+      "name": "The Him",
+      "createdAt": "2020-12-12T14:01:09.701Z",
+      "updatedAt": "2020-12-12T14:01:09.701Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "thebankglitzglamour",
+      "id": 400,
+      "name": "The Bank Glitz & Glamour",
+      "createdAt": "2020-12-12T14:01:09.707Z",
+      "updatedAt": "2020-12-12T14:01:09.707Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "geazy",
+      "id": 401,
+      "name": "G-Eazy",
+      "createdAt": "2020-12-12T14:01:09.713Z",
+      "updatedAt": "2020-12-12T14:01:09.713Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "mlksunday",
+      "id": 402,
+      "name": "MLK Sunday",
+      "createdAt": "2020-12-12T14:01:09.719Z",
+      "updatedAt": "2020-12-12T14:01:09.719Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "mikeattack",
+      "id": 403,
+      "name": "Mike Attack",
+      "createdAt": "2020-12-12T14:01:09.725Z",
+      "updatedAt": "2020-12-12T14:01:09.725Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "inna",
+      "id": 404,
+      "name": "INNA",
+      "createdAt": "2020-12-12T14:01:09.732Z",
+      "updatedAt": "2020-12-12T14:01:09.732Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "coastclub",
+      "id": 405,
+      "name": "Coast Club",
+      "createdAt": "2020-12-12T14:01:09.738Z",
+      "updatedAt": "2020-12-12T14:01:09.738Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "liluzivert",
+      "id": 406,
+      "name": "Lil Uzi Vert",
+      "createdAt": "2020-12-12T14:01:09.744Z",
+      "updatedAt": "2020-12-12T14:01:09.744Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "erock",
+      "id": 407,
+      "name": "DJ E-Rock",
+      "createdAt": "2020-12-12T14:01:09.750Z",
+      "updatedAt": "2020-12-12T14:01:09.750Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "blackbear",
+      "id": 408,
+      "name": "blackbear",
+      "createdAt": "2020-12-12T14:01:09.757Z",
+      "updatedAt": "2020-12-12T14:01:09.757Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "lohraspkansara",
+      "id": 409,
+      "name": "Lohrasp Kansara",
+      "createdAt": "2020-12-12T14:01:09.769Z",
+      "updatedAt": "2020-12-12T14:01:09.769Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "djdrama",
+      "id": 410,
+      "name": "DJ Drama",
+      "createdAt": "2020-12-12T14:01:09.792Z",
+      "updatedAt": "2020-12-12T14:01:09.792Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "djbuza",
+      "id": 411,
+      "name": "DJ Buza",
+      "createdAt": "2020-12-12T14:01:09.799Z",
+      "updatedAt": "2020-12-12T14:01:09.799Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "liquidwednesdays",
+      "id": 412,
+      "name": "Liquid Wednesday",
+      "createdAt": "2020-12-12T14:01:09.804Z",
+      "updatedAt": "2020-12-12T14:01:09.804Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "josephgettright",
+      "id": 413,
+      "name": "Joseph Gettright",
+      "createdAt": "2020-12-12T14:01:09.810Z",
+      "updatedAt": "2020-12-12T14:01:09.810Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "mattgoss",
+      "id": 414,
+      "name": "Matt Goss",
+      "createdAt": "2020-12-12T14:01:09.817Z",
+      "updatedAt": "2020-12-12T14:01:09.817Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "jessejane",
+      "id": 415,
+      "name": "Jesse Jane",
+      "createdAt": "2020-12-12T14:01:09.824Z",
+      "updatedAt": "2020-12-12T14:01:09.824Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "dillonfrancis",
+      "id": 416,
+      "name": "Dillon Francis",
+      "createdAt": "2020-12-12T14:01:09.830Z",
+      "updatedAt": "2020-12-12T14:01:09.830Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "hakkasanthursday",
+      "id": 417,
+      "name": "Hakkasan Thursday",
+      "createdAt": "2020-12-12T14:01:09.838Z",
+      "updatedAt": "2020-12-12T14:01:09.838Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "hakkasanfriday",
+      "id": 418,
+      "name": "Hakkasan Friday",
+      "createdAt": "2020-12-12T14:01:09.846Z",
+      "updatedAt": "2020-12-12T14:01:09.846Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "hakkasansaturday",
+      "id": 419,
+      "name": "Hakkasan Saturday",
+      "createdAt": "2020-12-12T14:01:09.854Z",
+      "updatedAt": "2020-12-12T14:01:09.854Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "hakkasansunday",
+      "id": 420,
+      "name": "Hakkasan Sunday",
+      "createdAt": "2020-12-12T14:01:09.860Z",
+      "updatedAt": "2020-12-12T14:01:09.860Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "hakkasanmonday",
+      "id": 421,
+      "name": "Hakkasan Monday",
+      "createdAt": "2020-12-12T14:01:09.865Z",
+      "updatedAt": "2020-12-12T14:01:09.865Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "omniatuesday",
+      "id": 422,
+      "name": "OMNIA Tuesday",
+      "createdAt": "2020-12-12T14:01:09.870Z",
+      "updatedAt": "2020-12-12T14:01:09.870Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "omniafriday",
+      "id": 423,
+      "name": "OMNIA Friday",
+      "createdAt": "2020-12-12T14:01:09.877Z",
+      "updatedAt": "2020-12-12T14:01:09.877Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "omniasaturday",
+      "id": 424,
+      "name": "OMNIA Saturday",
+      "createdAt": "2020-12-12T14:01:09.883Z",
+      "updatedAt": "2020-12-12T14:01:09.883Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "jewelmonday",
+      "id": 425,
+      "name": "JEWEL Monday",
+      "createdAt": "2020-12-12T14:01:09.890Z",
+      "updatedAt": "2020-12-12T14:01:09.890Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "jewelfriday",
+      "id": 426,
+      "name": "JEWEL Friday",
+      "createdAt": "2020-12-12T14:01:09.895Z",
+      "updatedAt": "2020-12-12T14:01:09.895Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "jewelsaturday",
+      "id": 427,
+      "name": "JEWEL Saturday",
+      "createdAt": "2020-12-12T14:01:09.901Z",
+      "updatedAt": "2020-12-12T14:01:09.901Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "londonondatrack",
+      "id": 428,
+      "name": "London On Da Track",
+      "createdAt": "2020-12-12T14:01:09.907Z",
+      "updatedAt": "2020-12-12T14:01:09.907Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "1oakwednesday",
+      "id": 429,
+      "name": "1 OAK Wednesday",
+      "createdAt": "2020-12-12T14:01:09.912Z",
+      "updatedAt": "2020-12-12T14:01:09.912Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "1oakfriday",
+      "id": 430,
+      "name": "1 OAK Friday",
+      "createdAt": "2020-12-12T14:01:09.917Z",
+      "updatedAt": "2020-12-12T14:01:09.917Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "1oaksaturday",
+      "id": 431,
+      "name": "1 OAK Saturday",
+      "createdAt": "2020-12-12T14:01:09.924Z",
+      "updatedAt": "2020-12-12T14:01:09.924Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "wetrepublicmonday",
+      "id": 432,
+      "name": "Wet Republic Monday",
+      "createdAt": "2020-12-12T14:01:09.930Z",
+      "updatedAt": "2020-12-12T14:01:09.930Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "wetrepublicthursday",
+      "id": 433,
+      "name": "Wet Republic Thursday",
+      "createdAt": "2020-12-12T14:01:09.935Z",
+      "updatedAt": "2020-12-12T14:01:09.935Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "wetrepublicfriday",
+      "id": 434,
+      "name": "Wet Republic Friday",
+      "createdAt": "2020-12-12T14:01:09.942Z",
+      "updatedAt": "2020-12-12T14:01:09.942Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "wetrepublicsaturday",
+      "id": 435,
+      "name": "Wet Republic Saturday",
+      "createdAt": "2020-12-12T14:01:09.947Z",
+      "updatedAt": "2020-12-12T14:01:09.947Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "wetrepublicsunday",
+      "id": 436,
+      "name": "Wet Republic Sunday",
+      "createdAt": "2020-12-12T14:01:09.951Z",
+      "updatedAt": "2020-12-12T14:01:09.951Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "liquidthursday",
+      "id": 437,
+      "name": "Liquid Thursday",
+      "createdAt": "2020-12-12T14:01:09.957Z",
+      "updatedAt": "2020-12-12T14:01:09.957Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "liquidfriday",
+      "id": 438,
+      "name": "Liquid Friday",
+      "createdAt": "2020-12-12T14:01:09.963Z",
+      "updatedAt": "2020-12-12T14:01:09.963Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "liquidsaturday",
+      "id": 439,
+      "name": "Liquid Saturday",
+      "createdAt": "2020-12-12T14:01:09.970Z",
+      "updatedAt": "2020-12-12T14:01:09.970Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "liquidsunday",
+      "id": 440,
+      "name": "Liquid Sunday",
+      "createdAt": "2020-12-12T14:01:09.979Z",
+      "updatedAt": "2020-12-12T14:01:09.979Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "baremonday",
+      "id": 441,
+      "name": "Bare Monday",
+      "createdAt": "2020-12-12T14:01:09.984Z",
+      "updatedAt": "2020-12-12T14:01:09.984Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "baretuesday",
+      "id": 442,
+      "name": "Bare Tuesday",
+      "createdAt": "2020-12-12T14:01:09.990Z",
+      "updatedAt": "2020-12-12T14:01:09.990Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "barewednesday",
+      "id": 443,
+      "name": "Bare Wednesday",
+      "createdAt": "2020-12-12T14:01:09.995Z",
+      "updatedAt": "2020-12-12T14:01:09.995Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "barethursday",
+      "id": 444,
+      "name": "Bare Thursday",
+      "createdAt": "2020-12-12T14:01:10.000Z",
+      "updatedAt": "2020-12-12T14:01:10.000Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "barefriday",
+      "id": 445,
+      "name": "Bare Friday",
+      "createdAt": "2020-12-12T14:01:10.005Z",
+      "updatedAt": "2020-12-12T14:01:10.005Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "baresaturday",
+      "id": 446,
+      "name": "Bare Saturday",
+      "createdAt": "2020-12-12T14:01:10.011Z",
+      "updatedAt": "2020-12-12T14:01:10.011Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "baresunday",
+      "id": 447,
+      "name": "Bare Sunday",
+      "createdAt": "2020-12-12T14:01:10.020Z",
+      "updatedAt": "2020-12-12T14:01:10.020Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "omniabalimondays",
+      "id": 448,
+      "name": "OMNIA Bali Mondays",
+      "createdAt": "2020-12-12T14:01:10.028Z",
+      "updatedAt": "2020-12-12T14:01:10.028Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "omniabalituesdays",
+      "id": 449,
+      "name": "OMNIA Bali Tuesdays",
+      "createdAt": "2020-12-12T14:01:10.034Z",
+      "updatedAt": "2020-12-12T14:01:10.034Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "omniabaliwednesdays",
+      "id": 450,
+      "name": "OMNIA Bali Wednesdays",
+      "createdAt": "2020-12-12T14:01:10.047Z",
+      "updatedAt": "2020-12-12T14:01:10.047Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "omniabalithursdays",
+      "id": 451,
+      "name": "OMNIA Bali Thursdays",
+      "createdAt": "2020-12-12T14:01:10.092Z",
+      "updatedAt": "2020-12-12T14:01:10.092Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "omniabalifridays",
+      "id": 452,
+      "name": "OMNIA Bali Fridays",
+      "createdAt": "2020-12-12T14:01:10.102Z",
+      "updatedAt": "2020-12-12T14:01:10.102Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "omniabalisaturdays",
+      "id": 453,
+      "name": "OMNIA Bali Saturdays",
+      "createdAt": "2020-12-12T14:01:10.108Z",
+      "updatedAt": "2020-12-12T14:01:10.108Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "omniabalisundays",
+      "id": 454,
+      "name": "OMNIA Bali Sundays",
+      "createdAt": "2020-12-12T14:01:10.114Z",
+      "updatedAt": "2020-12-12T14:01:10.114Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "presentedbyyoungreckless",
+      "id": 455,
+      "name": "Presented by Young & Reckless",
+      "createdAt": "2020-12-12T14:01:10.120Z",
+      "updatedAt": "2020-12-12T14:01:10.120Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "oakgames",
+      "id": 456,
+      "name": "Oak Games",
+      "createdAt": "2020-12-12T14:01:10.125Z",
+      "updatedAt": "2020-12-12T14:01:10.125Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "gsquared",
+      "id": 457,
+      "name": "G-Squared",
+      "createdAt": "2020-12-12T14:01:10.129Z",
+      "updatedAt": "2020-12-12T14:01:10.129Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "djflow",
+      "id": 458,
+      "name": "DJ Flow",
+      "createdAt": "2020-12-12T14:01:10.134Z",
+      "updatedAt": "2020-12-12T14:01:10.134Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "greglopez",
+      "id": 459,
+      "name": "Greg Lopez",
+      "createdAt": "2020-12-12T14:01:10.139Z",
+      "updatedAt": "2020-12-12T14:01:10.139Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "zsuzsanna",
+      "id": 460,
+      "name": "Zsuzsanna",
+      "createdAt": "2020-12-12T14:01:10.146Z",
+      "updatedAt": "2020-12-12T14:01:10.146Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "deejaysilver",
+      "id": 461,
+      "name": "Dee Jay Silver",
+      "createdAt": "2020-12-12T14:01:10.152Z",
+      "updatedAt": "2020-12-12T14:01:10.152Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "scooterlavelle",
+      "id": 462,
+      "name": "Scooter & Lavelle",
+      "createdAt": "2020-12-12T14:01:10.158Z",
+      "updatedAt": "2020-12-12T14:01:10.158Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "omnialoscabosmondays",
+      "id": 463,
+      "name": "OMNIA Los Cabos Mondays",
+      "createdAt": "2020-12-12T14:01:10.163Z",
+      "updatedAt": "2020-12-12T14:01:10.163Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "omnialoscabostuesdays",
+      "id": 464,
+      "name": "OMNIA Los Cabos Tuesdays",
+      "createdAt": "2020-12-12T14:01:10.169Z",
+      "updatedAt": "2020-12-12T14:01:10.169Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "omnialoscaboswednesdays",
+      "id": 465,
+      "name": "OMNIA Los Cabos Wednesdays",
+      "createdAt": "2020-12-12T14:01:10.174Z",
+      "updatedAt": "2020-12-12T14:01:10.174Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "omnialoscabosthursdays",
+      "id": 466,
+      "name": "OMNIA Los Cabos Thursdays",
+      "createdAt": "2020-12-12T14:01:10.179Z",
+      "updatedAt": "2020-12-12T14:01:10.179Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "omnialoscabosfridays",
+      "id": 467,
+      "name": "OMNIA Los Cabos Fridays",
+      "createdAt": "2020-12-12T14:01:10.183Z",
+      "updatedAt": "2020-12-12T14:01:10.183Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "omnialoscabossaturdays",
+      "id": 468,
+      "name": "OMNIA Los Cabos Saturdays",
+      "createdAt": "2020-12-12T14:01:10.189Z",
+      "updatedAt": "2020-12-12T14:01:10.189Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "omnialoscabossundays",
+      "id": 469,
+      "name": "OMNIA Los Cabos Sundays",
+      "createdAt": "2020-12-12T14:01:10.195Z",
+      "updatedAt": "2020-12-12T14:01:10.195Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "cny",
+      "id": 470,
+      "name": "CNY",
+      "createdAt": "2020-12-12T14:01:10.230Z",
+      "updatedAt": "2020-12-12T14:01:10.230Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "phoenixlaunchparty",
+      "id": 471,
+      "name": "Phoenix Launch Party",
+      "createdAt": "2020-12-12T14:01:10.242Z",
+      "updatedAt": "2020-12-12T14:01:10.242Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "asapferg",
+      "id": 472,
+      "name": "A$AP Ferg",
+      "createdAt": "2020-12-12T14:01:10.251Z",
+      "updatedAt": "2020-12-12T14:01:10.251Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "djjami",
+      "id": 473,
+      "name": "DJ Jami",
+      "createdAt": "2020-12-12T14:01:10.259Z",
+      "updatedAt": "2020-12-12T14:01:10.259Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "mase",
+      "id": 474,
+      "name": "Ma$e",
+      "createdAt": "2020-12-12T14:01:10.274Z",
+      "updatedAt": "2020-12-12T14:01:10.274Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "phoenix",
+      "id": 475,
+      "name": "Phoenix Sundays",
+      "createdAt": "2020-12-12T14:01:10.289Z",
+      "updatedAt": "2020-12-12T14:01:10.289Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "djparadice",
+      "id": 476,
+      "name": "DJ Paradice",
+      "createdAt": "2020-12-12T14:01:10.306Z",
+      "updatedAt": "2020-12-12T14:01:10.306Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "corporateslackrs",
+      "id": 477,
+      "name": "Corporate Slackrs",
+      "createdAt": "2020-12-12T14:01:10.313Z",
+      "updatedAt": "2020-12-12T14:01:10.313Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "lilybasketball",
+      "id": 478,
+      "name": "Lily Presents: College Basketball Tournament",
+      "createdAt": "2020-12-12T14:01:10.319Z",
+      "updatedAt": "2020-12-12T14:01:10.319Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "levelupbasketball",
+      "id": 479,
+      "name": "Level Up Presents: College Basketball Tournament",
+      "createdAt": "2020-12-12T14:01:10.445Z",
+      "updatedAt": "2020-12-12T14:01:10.445Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "deuxtwins",
+      "id": 480,
+      "name": "Deux Twins",
+      "createdAt": "2020-12-12T14:01:10.458Z",
+      "updatedAt": "2020-12-12T14:01:10.458Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "marchhoopsatherringbone",
+      "id": 481,
+      "name": "March Hoops at Herringbone ",
+      "createdAt": "2020-12-12T14:01:10.472Z",
+      "updatedAt": "2020-12-12T14:01:10.472Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "alibibasketball",
+      "id": 482,
+      "name": "Alibi Presents: College Basketball Tournament\t",
+      "createdAt": "2020-12-12T14:01:10.485Z",
+      "updatedAt": "2020-12-12T14:01:10.485Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "sslvmarchhoops",
+      "id": 483,
+      "name": "March Hoops at Searsucker",
+      "createdAt": "2020-12-12T14:01:10.515Z",
+      "updatedAt": "2020-12-12T14:01:10.515Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "levelupbeerpong",
+      "id": 484,
+      "name": "Beer Pong Tournament",
+      "createdAt": "2020-12-12T14:01:10.530Z",
+      "updatedAt": "2020-12-12T14:01:10.530Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "roywoods",
+      "id": 485,
+      "name": "Roy Woods",
+      "createdAt": "2020-12-12T14:01:10.538Z",
+      "updatedAt": "2020-12-12T14:01:10.538Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "2way",
+      "id": 486,
+      "name": "2WAY",
+      "createdAt": "2020-12-12T14:01:10.548Z",
+      "updatedAt": "2020-12-12T14:01:10.548Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "cutswell",
+      "id": 487,
+      "name": "CUTSWELL",
+      "createdAt": "2020-12-12T14:01:10.563Z",
+      "updatedAt": "2020-12-12T14:01:10.563Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "rickyj",
+      "id": 488,
+      "name": "Ricky J",
+      "createdAt": "2020-12-12T14:01:10.572Z",
+      "updatedAt": "2020-12-12T14:01:10.572Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "agoodfridayatomnia",
+      "id": 489,
+      "name": "a GOOD Friday at OMNIA",
+      "createdAt": "2020-12-12T14:01:10.581Z",
+      "updatedAt": "2020-12-12T14:01:10.581Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "saturdaysatomnia",
+      "id": 490,
+      "name": "Saturdays at OMNIA",
+      "createdAt": "2020-12-12T14:01:10.596Z",
+      "updatedAt": "2020-12-12T14:01:10.596Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "easteratomnia",
+      "id": 491,
+      "name": "Easter at OMNIA",
+      "createdAt": "2020-12-12T14:01:10.605Z",
+      "updatedAt": "2020-12-12T14:01:10.605Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "otgenasis",
+      "id": 493,
+      "name": "O.T. Genasis",
+      "createdAt": "2020-12-12T14:01:10.613Z",
+      "updatedAt": "2020-12-12T14:01:10.613Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "djjune",
+      "id": 494,
+      "name": "DJ June",
+      "createdAt": "2020-12-12T14:01:10.636Z",
+      "updatedAt": "2020-12-12T14:01:10.636Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "triplexl",
+      "id": 495,
+      "name": "Triple XL",
+      "createdAt": "2020-12-12T14:01:10.642Z",
+      "updatedAt": "2020-12-12T14:01:10.642Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "feelgoodfridays",
+      "id": 496,
+      "name": "Feel Good Fridays",
+      "createdAt": "2020-12-12T14:01:10.648Z",
+      "updatedAt": "2020-12-12T14:01:10.648Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "ps1",
+      "id": 497,
+      "name": "PS1",
+      "createdAt": "2020-12-12T14:01:10.654Z",
+      "updatedAt": "2020-12-12T14:01:10.654Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "jenjones",
+      "id": 498,
+      "name": "Jen Jones",
+      "createdAt": "2020-12-12T14:01:10.660Z",
+      "updatedAt": "2020-12-12T14:01:10.660Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "bijou",
+      "id": 499,
+      "name": "Bijou",
+      "createdAt": "2020-12-12T14:01:10.671Z",
+      "updatedAt": "2020-12-12T14:01:10.671Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "derekjeter",
+      "id": 500,
+      "name": "Derek Jeter",
+      "createdAt": "2020-12-12T14:01:10.679Z",
+      "updatedAt": "2020-12-12T14:01:10.679Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "djbamboozle",
+      "id": 501,
+      "name": "DJ Bamboozle",
+      "createdAt": "2020-12-12T14:01:10.685Z",
+      "updatedAt": "2020-12-12T14:01:10.685Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "crizzly",
+      "id": 502,
+      "name": "Crizzly",
+      "createdAt": "2020-12-12T14:01:10.692Z",
+      "updatedAt": "2020-12-12T14:01:10.692Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "thomasjack",
+      "id": 503,
+      "name": "Thomas Jack",
+      "createdAt": "2020-12-12T14:01:10.707Z",
+      "updatedAt": "2020-12-12T14:01:10.707Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "richiehawtin",
+      "id": 504,
+      "name": "Richie Hawtin​",
+      "createdAt": "2020-12-12T14:01:10.712Z",
+      "updatedAt": "2020-12-12T14:01:10.712Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "djcquel",
+      "id": 505,
+      "name": "DJ CQuel",
+      "createdAt": "2020-12-12T14:01:10.717Z",
+      "updatedAt": "2020-12-12T14:01:10.717Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "djesudd",
+      "id": 506,
+      "name": "DJ E.Sudd",
+      "createdAt": "2020-12-12T14:01:10.726Z",
+      "updatedAt": "2020-12-12T14:01:10.726Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "reggruck",
+      "id": 507,
+      "name": "Regg Ruck",
+      "createdAt": "2020-12-12T14:01:10.732Z",
+      "updatedAt": "2020-12-12T14:01:10.732Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "djflight",
+      "id": 508,
+      "name": "DJ Flight",
+      "createdAt": "2020-12-12T14:01:10.738Z",
+      "updatedAt": "2020-12-12T14:01:10.738Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "lostfrequencies",
+      "id": 509,
+      "name": "Lost Frequencies",
+      "createdAt": "2020-12-12T14:01:10.744Z",
+      "updatedAt": "2020-12-12T14:01:10.744Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "klingande",
+      "id": 510,
+      "name": "Klingande",
+      "createdAt": "2020-12-12T14:01:10.750Z",
+      "updatedAt": "2020-12-12T14:01:10.750Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "alexmadden",
+      "id": 511,
+      "name": "Alex Madden",
+      "createdAt": "2020-12-12T14:01:10.756Z",
+      "updatedAt": "2020-12-12T14:01:10.756Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "cheyennegiles",
+      "id": 512,
+      "name": "Cheyenne Giles",
+      "createdAt": "2020-12-12T14:01:10.762Z",
+      "updatedAt": "2020-12-12T14:01:10.762Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "rusko",
+      "id": 513,
+      "name": "Rusko",
+      "createdAt": "2020-12-12T14:01:10.768Z",
+      "updatedAt": "2020-12-12T14:01:10.768Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "julz",
+      "id": 514,
+      "name": "Julz",
+      "createdAt": "2020-12-12T14:01:10.773Z",
+      "updatedAt": "2020-12-12T14:01:10.773Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "tyga",
+      "id": 515,
+      "name": "Tyga",
+      "createdAt": "2020-12-12T14:01:10.779Z",
+      "updatedAt": "2020-12-12T14:01:10.779Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "louievega",
+      "id": 516,
+      "name": "Louie Vega",
+      "createdAt": "2020-12-12T14:01:10.785Z",
+      "updatedAt": "2020-12-12T14:01:10.785Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "postmalone",
+      "id": 517,
+      "name": "Post Malone",
+      "createdAt": "2020-12-12T14:01:10.791Z",
+      "updatedAt": "2020-12-12T14:01:10.791Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "mariaromano",
+      "id": 518,
+      "name": "Maria Romano",
+      "createdAt": "2020-12-12T14:01:10.797Z",
+      "updatedAt": "2020-12-12T14:01:10.797Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "fki1st",
+      "id": 520,
+      "name": "FKI 1ST",
+      "createdAt": "2020-12-12T14:01:10.806Z",
+      "updatedAt": "2020-12-12T14:01:10.806Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "diplo",
+      "id": 521,
+      "name": "Diplo",
+      "createdAt": "2020-12-12T14:01:10.812Z",
+      "updatedAt": "2020-12-12T14:01:10.812Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "jermainedupri",
+      "id": 522,
+      "name": "Jermaine Dupri",
+      "createdAt": "2020-12-12T14:01:10.819Z",
+      "updatedAt": "2020-12-12T14:01:10.819Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "desiigner",
+      "id": 523,
+      "name": "Desiigner",
+      "createdAt": "2020-12-12T14:01:10.824Z",
+      "updatedAt": "2020-12-12T14:01:10.824Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "djhomicide",
+      "id": 524,
+      "name": "DJ Homicide",
+      "createdAt": "2020-12-12T14:01:10.829Z",
+      "updatedAt": "2020-12-12T14:01:10.829Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "too$hort",
+      "id": 525,
+      "name": "Too $hort",
+      "createdAt": "2020-12-12T14:01:10.834Z",
+      "updatedAt": "2020-12-12T14:01:10.834Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "wale",
+      "id": 526,
+      "name": "Wale",
+      "createdAt": "2020-12-12T14:01:10.839Z",
+      "updatedAt": "2020-12-12T14:01:10.839Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "daveeast",
+      "id": 527,
+      "name": "Dave East",
+      "createdAt": "2020-12-12T14:01:10.844Z",
+      "updatedAt": "2020-12-12T14:01:10.844Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "kennyglasgow",
+      "id": 528,
+      "name": "Kenny Glasgow",
+      "createdAt": "2020-12-12T14:01:10.848Z",
+      "updatedAt": "2020-12-12T14:01:10.848Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "closed",
+      "id": 529,
+      "name": "CLOSED",
+      "createdAt": "2020-12-12T14:01:10.855Z",
+      "updatedAt": "2020-12-12T14:01:10.855Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "djjerzy",
+      "id": 530,
+      "name": "DJ Jerzy",
+      "createdAt": "2020-12-12T14:01:10.860Z",
+      "updatedAt": "2020-12-12T14:01:10.860Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "patriciaschuldtz",
+      "id": 532,
+      "name": "Patricia Schuldtz",
+      "createdAt": "2020-12-12T14:01:10.864Z",
+      "updatedAt": "2020-12-12T14:01:10.864Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "djkittie",
+      "id": 533,
+      "name": "DJ Kittie",
+      "createdAt": "2020-12-12T14:01:10.869Z",
+      "updatedAt": "2020-12-12T14:01:10.869Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "swimintosaturdays",
+      "id": 534,
+      "name": "SWIM into Saturdays",
+      "createdAt": "2020-12-12T14:01:10.876Z",
+      "updatedAt": "2020-12-12T14:01:10.876Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "justblaze",
+      "id": 535,
+      "name": "Just Blaze",
+      "createdAt": "2020-12-12T14:01:10.880Z",
+      "updatedAt": "2020-12-12T14:01:10.880Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "djshawnwayans",
+      "id": 537,
+      "name": "DJ Shawn Wayans",
+      "createdAt": "2020-12-12T14:01:10.885Z",
+      "updatedAt": "2020-12-12T14:01:10.885Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "martinjensen",
+      "id": 538,
+      "name": "Martin Jensen",
+      "createdAt": "2020-12-12T14:01:10.890Z",
+      "updatedAt": "2020-12-12T14:01:10.890Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "djryancrosson",
+      "id": 539,
+      "name": "DJ Ryan Crosson",
+      "createdAt": "2020-12-12T14:01:10.896Z",
+      "updatedAt": "2020-12-12T14:01:10.896Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "sessionvictim",
+      "id": 540,
+      "name": "Session Victim",
+      "createdAt": "2020-12-12T14:01:10.901Z",
+      "updatedAt": "2020-12-12T14:01:10.901Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "chanteljeffries",
+      "id": 541,
+      "name": "Chantel Jeffries",
+      "createdAt": "2020-12-12T14:01:10.907Z",
+      "updatedAt": "2020-12-12T14:01:10.907Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "hot100wchantel",
+      "id": 542,
+      "name": "Hot 100 w/Chantel Jeffries",
+      "createdAt": "2020-12-12T14:01:10.913Z",
+      "updatedAt": "2020-12-12T14:01:10.913Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "breakfastnvegas",
+      "id": 543,
+      "name": "Breakfast N Vegas",
+      "createdAt": "2020-12-12T14:01:10.917Z",
+      "updatedAt": "2020-12-12T14:01:10.917Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "downdirtynwet",
+      "id": 544,
+      "name": "Down, Dirty N’ Wet",
+      "createdAt": "2020-12-12T14:01:10.923Z",
+      "updatedAt": "2020-12-12T14:01:10.923Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "finnebassen",
+      "id": 545,
+      "name": "Finnebassen",
+      "createdAt": "2020-12-12T14:01:10.931Z",
+      "updatedAt": "2020-12-12T14:01:10.931Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "kygo",
+      "id": 546,
+      "name": "Kygo",
+      "createdAt": "2020-12-12T14:01:10.937Z",
+      "updatedAt": "2020-12-12T14:01:10.937Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "marianabo",
+      "id": 547,
+      "name": "Mariana Bo",
+      "createdAt": "2020-12-12T14:01:10.944Z",
+      "updatedAt": "2020-12-12T14:01:10.944Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "twinkies",
+      "id": 548,
+      "name": "Twinkies",
+      "createdAt": "2020-12-12T14:01:10.949Z",
+      "updatedAt": "2020-12-12T14:01:10.949Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "setmo",
+      "id": 549,
+      "name": "SET MO",
+      "createdAt": "2020-12-12T14:01:10.954Z",
+      "updatedAt": "2020-12-12T14:01:10.954Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "sundayfunkday",
+      "id": 550,
+      "name": "Sunday Funkday",
+      "createdAt": "2020-12-12T14:01:10.959Z",
+      "updatedAt": "2020-12-12T14:01:10.959Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "soundclash",
+      "id": 551,
+      "name": "A sound clash on the cliff",
+      "createdAt": "2020-12-12T14:01:10.964Z",
+      "updatedAt": "2020-12-12T14:01:10.964Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "wildatheart",
+      "id": 552,
+      "name": "Wild at Heart",
+      "createdAt": "2020-12-12T14:01:10.969Z",
+      "updatedAt": "2020-12-12T14:01:10.969Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "stellar",
+      "id": 553,
+      "name": "Stellar",
+      "createdAt": "2020-12-12T14:01:10.975Z",
+      "updatedAt": "2020-12-12T14:01:10.975Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "loudluxury",
+      "id": 554,
+      "name": "Loud Luxury",
+      "createdAt": "2020-12-12T14:01:10.980Z",
+      "updatedAt": "2020-12-12T14:01:10.980Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "hector",
+      "id": 555,
+      "name": "Hector",
+      "createdAt": "2020-12-12T14:01:10.985Z",
+      "updatedAt": "2020-12-12T14:01:10.985Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "francoisk",
+      "id": 556,
+      "name": "Francois K",
+      "createdAt": "2020-12-12T14:01:10.993Z",
+      "updatedAt": "2020-12-12T14:01:10.993Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "kidfunk",
+      "id": 557,
+      "name": "Kid Funk",
+      "createdAt": "2020-12-12T14:01:10.998Z",
+      "updatedAt": "2020-12-12T14:01:10.998Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "breakbot",
+      "id": 558,
+      "name": "Breakbot",
+      "createdAt": "2020-12-12T14:01:11.003Z",
+      "updatedAt": "2020-12-12T14:01:11.003Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "djaudio1",
+      "id": 559,
+      "name": "DJ Audio1",
+      "createdAt": "2020-12-12T14:01:11.008Z",
+      "updatedAt": "2020-12-12T14:01:11.008Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "fashionontherocks",
+      "id": 560,
+      "name": "Fashion On The Rocks",
+      "createdAt": "2020-12-12T14:01:11.014Z",
+      "updatedAt": "2020-12-12T14:01:11.014Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "anjunadeep",
+      "id": 561,
+      "name": "Anjunadeep",
+      "createdAt": "2020-12-12T14:01:11.019Z",
+      "updatedAt": "2020-12-12T14:01:11.019Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "yellowclaw",
+      "id": 562,
+      "name": "Yellow Claw",
+      "createdAt": "2020-12-12T14:01:11.025Z",
+      "updatedAt": "2020-12-12T14:01:11.025Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "djhardbox",
+      "id": 563,
+      "name": "DJ Hardbox",
+      "createdAt": "2020-12-12T14:01:11.029Z",
+      "updatedAt": "2020-12-12T14:01:11.029Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "princeroyce",
+      "id": 564,
+      "name": "Prince Royce",
+      "createdAt": "2020-12-12T14:01:11.034Z",
+      "updatedAt": "2020-12-12T14:01:11.034Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "justincaruso",
+      "id": 565,
+      "name": "Justin Caruso",
+      "createdAt": "2020-12-12T14:01:11.038Z",
+      "updatedAt": "2020-12-12T14:01:11.038Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "djsol",
+      "id": 566,
+      "name": "DJ Sol",
+      "createdAt": "2020-12-12T14:01:11.042Z",
+      "updatedAt": "2020-12-12T14:01:11.042Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "lvpparties2018",
+      "id": 567,
+      "name": "LVP Parties 2018 ft. INNA",
+      "createdAt": "2020-12-12T14:01:11.048Z",
+      "updatedAt": "2020-12-12T14:01:11.048Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "trendsettersense",
+      "id": 568,
+      "name": "Trendsetter Sense",
+      "createdAt": "2020-12-12T14:01:11.053Z",
+      "updatedAt": "2020-12-12T14:01:11.053Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "djsc",
+      "id": 569,
+      "name": "DJ SC",
+      "createdAt": "2020-12-12T14:01:11.057Z",
+      "updatedAt": "2020-12-12T14:01:11.057Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "lucillecroft",
+      "id": 570,
+      "name": "Lucille Croft",
+      "createdAt": "2020-12-12T14:01:11.062Z",
+      "updatedAt": "2020-12-12T14:01:11.062Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "tullycam",
+      "id": 571,
+      "name": "Tully & Cam",
+      "createdAt": "2020-12-12T14:01:11.066Z",
+      "updatedAt": "2020-12-12T14:01:11.066Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "soulclap",
+      "id": 572,
+      "name": "Soul Clap",
+      "createdAt": "2020-12-12T14:01:11.072Z",
+      "updatedAt": "2020-12-12T14:01:11.072Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "djmax",
+      "id": 573,
+      "name": "DJ Max",
+      "createdAt": "2020-12-12T14:01:11.077Z",
+      "updatedAt": "2020-12-12T14:01:11.077Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "fuegothursday",
+      "id": 574,
+      "name": "Fuego Thursday",
+      "createdAt": "2020-12-12T14:01:11.082Z",
+      "updatedAt": "2020-12-12T14:01:11.082Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "delaghetto",
+      "id": 575,
+      "name": "De La Ghetto",
+      "createdAt": "2020-12-12T14:01:11.091Z",
+      "updatedAt": "2020-12-12T14:01:11.091Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "chezdamier",
+      "id": 576,
+      "name": "Chez Damier",
+      "createdAt": "2020-12-12T14:01:11.097Z",
+      "updatedAt": "2020-12-12T14:01:11.097Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "djsourmilk",
+      "id": 577,
+      "name": "DJ Sourmilk",
+      "createdAt": "2020-12-12T14:01:11.108Z",
+      "updatedAt": "2020-12-12T14:01:11.108Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "sikdope",
+      "id": 578,
+      "name": "Sikdope",
+      "createdAt": "2020-12-12T14:01:11.115Z",
+      "updatedAt": "2020-12-12T14:01:11.115Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "drake-zedd",
+      "id": 579,
+      "name": "Drake & Zedd",
+      "createdAt": "2020-12-12T14:01:11.124Z",
+      "updatedAt": "2020-12-12T14:01:11.124Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "blackoutartist5YR",
+      "id": 580,
+      "name": "Blackout Artist 5 Year Anniversary",
+      "createdAt": "2020-12-12T14:01:11.133Z",
+      "updatedAt": "2020-12-12T14:01:11.133Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "feelgoodfriday-roseparty",
+      "id": 581,
+      "name": "Feel Good Friday – Rosé Party",
+      "createdAt": "2020-12-12T14:01:11.139Z",
+      "updatedAt": "2020-12-12T14:01:11.139Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "djblakboy",
+      "id": 582,
+      "name": "DJ Blak Boy",
+      "createdAt": "2020-12-12T14:01:11.146Z",
+      "updatedAt": "2020-12-12T14:01:11.146Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "courtneymills",
+      "id": 583,
+      "name": "Courtney Mills",
+      "createdAt": "2020-12-12T14:01:11.151Z",
+      "updatedAt": "2020-12-12T14:01:11.151Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "new-years-eve-extravaganza-2018",
+      "id": 584,
+      "name": "New Year’s Eve Extravaganza 2018",
+      "createdAt": "2020-12-12T14:01:11.157Z",
+      "updatedAt": "2020-12-12T14:01:11.157Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "tygajewelnye",
+      "id": 585,
+      "name": "TYGA 2-Hour Open Bar",
+      "createdAt": "2020-12-12T14:01:11.163Z",
+      "updatedAt": "2020-12-12T14:01:11.163Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "liljon-1oak-nye",
+      "id": 586,
+      "name": "Lil Jon 2-Hour Open Bar",
+      "createdAt": "2020-12-12T14:01:11.182Z",
+      "updatedAt": "2020-12-12T14:01:11.182Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "brohug",
+      "id": 587,
+      "name": "Brohug",
+      "createdAt": "2020-12-12T14:01:11.189Z",
+      "updatedAt": "2020-12-12T14:01:11.189Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "baauer",
+      "id": 589,
+      "name": "Baauer",
+      "createdAt": "2020-12-12T14:01:11.194Z",
+      "updatedAt": "2020-12-12T14:01:11.194Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "rockwithme",
+      "id": 590,
+      "name": "Rock With Me ft. Special Guests Performing Live",
+      "createdAt": "2020-12-12T14:01:11.200Z",
+      "updatedAt": "2020-12-12T14:01:11.200Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "duckduckbooze",
+      "id": 591,
+      "name": "Duck Duck Booze",
+      "createdAt": "2020-12-12T14:01:11.205Z",
+      "updatedAt": "2020-12-12T14:01:11.205Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "steveaoki-liluzivert",
+      "id": 592,
+      "name": "Steve Aoki with Lil Uzi Vert",
+      "createdAt": "2020-12-12T14:01:11.218Z",
+      "updatedAt": "2020-12-12T14:01:11.218Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "blackouttakeover",
+      "id": 593,
+      "name": "Blackout Takeover",
+      "createdAt": "2020-12-12T14:01:11.226Z",
+      "updatedAt": "2020-12-12T14:01:11.226Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "hyenah",
+      "id": 594,
+      "name": "HYENAH",
+      "createdAt": "2020-12-12T14:01:11.233Z",
+      "updatedAt": "2020-12-12T14:01:11.233Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "claptone",
+      "id": 595,
+      "name": "Claptone",
+      "createdAt": "2020-12-12T14:01:11.239Z",
+      "updatedAt": "2020-12-12T14:01:11.239Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "salvatoreganacci",
+      "id": 596,
+      "name": "Salvatore Ganacci",
+      "createdAt": "2020-12-12T14:01:11.250Z",
+      "updatedAt": "2020-12-12T14:01:11.250Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "lvppartiesomlv",
+      "id": 597,
+      "name": "LVP Parties 2018",
+      "createdAt": "2020-12-12T14:01:11.261Z",
+      "updatedAt": "2020-12-12T14:01:11.261Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "samblacky",
+      "id": 598,
+      "name": "Sam Blacky",
+      "createdAt": "2020-12-12T14:01:11.267Z",
+      "updatedAt": "2020-12-12T14:01:11.267Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "hardnox",
+      "id": 599,
+      "name": "HardNox",
+      "createdAt": "2020-12-12T14:01:11.273Z",
+      "updatedAt": "2020-12-12T14:01:11.273Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "blackoutwednesday",
+      "id": 600,
+      "name": "Blackout Wednesday",
+      "createdAt": "2020-12-12T14:01:11.279Z",
+      "updatedAt": "2020-12-12T14:01:11.279Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "deejaydirty",
+      "id": 601,
+      "name": "Dee jay dirty",
+      "createdAt": "2020-12-12T14:01:11.286Z",
+      "updatedAt": "2020-12-12T14:01:11.286Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "yokoo",
+      "id": 602,
+      "name": "Yokoo",
+      "createdAt": "2020-12-12T14:01:11.296Z",
+      "updatedAt": "2020-12-12T14:01:11.296Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "ww",
+      "id": 603,
+      "name": "W.W",
+      "createdAt": "2020-12-12T14:01:11.302Z",
+      "updatedAt": "2020-12-12T14:01:11.302Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "andr3x",
+      "id": 604,
+      "name": "Andr3x",
+      "createdAt": "2020-12-12T14:01:11.308Z",
+      "updatedAt": "2020-12-12T14:01:11.308Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "kakucrystalq",
+      "id": 605,
+      "name": "Kaku & Crystal Q",
+      "createdAt": "2020-12-12T14:01:11.314Z",
+      "updatedAt": "2020-12-12T14:01:11.314Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "dukedumont",
+      "id": 606,
+      "name": "Duke Dumont",
+      "createdAt": "2020-12-12T14:01:11.320Z",
+      "updatedAt": "2020-12-12T14:01:11.320Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "djelekt",
+      "id": 607,
+      "name": "Dj Elekt",
+      "createdAt": "2020-12-12T14:01:11.327Z",
+      "updatedAt": "2020-12-12T14:01:11.327Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "joyryde",
+      "id": 608,
+      "name": "JOYRYDE",
+      "createdAt": "2020-12-12T14:01:11.334Z",
+      "updatedAt": "2020-12-12T14:01:11.334Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "habstrakt",
+      "id": 609,
+      "name": "Habstrakt",
+      "createdAt": "2020-12-12T14:01:11.341Z",
+      "updatedAt": "2020-12-12T14:01:11.341Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "graves",
+      "id": 610,
+      "name": "Graves",
+      "createdAt": "2020-12-12T14:01:11.347Z",
+      "updatedAt": "2020-12-12T14:01:11.347Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "djtrentino",
+      "id": 611,
+      "name": "DJ Trentino",
+      "createdAt": "2020-12-12T14:01:11.353Z",
+      "updatedAt": "2020-12-12T14:01:11.353Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "pforreal",
+      "id": 613,
+      "name": "PForReal",
+      "createdAt": "2020-12-12T14:01:11.358Z",
+      "updatedAt": "2020-12-12T14:01:11.358Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "djcruz",
+      "id": 614,
+      "name": "DJ Cruz",
+      "createdAt": "2020-12-12T14:01:11.365Z",
+      "updatedAt": "2020-12-12T14:01:11.365Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "justinnyce",
+      "id": 615,
+      "name": "Justin Nyce",
+      "createdAt": "2020-12-12T14:01:11.372Z",
+      "updatedAt": "2020-12-12T14:01:11.372Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "madeintyo",
+      "id": 616,
+      "name": "MadeinTYO",
+      "createdAt": "2020-12-12T14:01:11.378Z",
+      "updatedAt": "2020-12-12T14:01:11.378Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "anaustraliadayaffair",
+      "id": 617,
+      "name": "An Australia Day Affair",
+      "createdAt": "2020-12-12T14:01:11.386Z",
+      "updatedAt": "2020-12-12T14:01:11.386Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "dimitrifromparis",
+      "id": 618,
+      "name": "Dimitri from Paris",
+      "createdAt": "2020-12-12T14:01:11.393Z",
+      "updatedAt": "2020-12-12T14:01:11.393Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "rlgrime",
+      "id": 619,
+      "name": "RL Grime",
+      "createdAt": "2020-12-12T14:01:11.402Z",
+      "updatedAt": "2020-12-12T14:01:11.402Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "samfeldt",
+      "id": 620,
+      "name": "Sam Feldt",
+      "createdAt": "2020-12-12T14:01:11.408Z",
+      "updatedAt": "2020-12-12T14:01:11.408Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "dayone",
+      "id": 621,
+      "name": "Day One",
+      "createdAt": "2020-12-12T14:01:11.415Z",
+      "updatedAt": "2020-12-12T14:01:11.415Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "richyahmed",
+      "id": 622,
+      "name": "Richy Ahmed",
+      "createdAt": "2020-12-12T14:01:11.421Z",
+      "updatedAt": "2020-12-12T14:01:11.421Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "bloodpop",
+      "id": 623,
+      "name": "BloodPop",
+      "createdAt": "2020-12-12T14:01:11.427Z",
+      "updatedAt": "2020-12-12T14:01:11.427Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "niikoxswae",
+      "id": 624,
+      "name": "Niiko x SWAE",
+      "createdAt": "2020-12-12T14:01:11.433Z",
+      "updatedAt": "2020-12-12T14:01:11.433Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "endlesssundays",
+      "id": 625,
+      "name": "Endless Sundays",
+      "createdAt": "2020-12-12T14:01:11.441Z",
+      "updatedAt": "2020-12-12T14:01:11.441Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "ivyg",
+      "id": 626,
+      "name": "IVY G",
+      "createdAt": "2020-12-12T14:01:11.447Z",
+      "updatedAt": "2020-12-12T14:01:11.447Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "craigdavid",
+      "id": 627,
+      "name": "Craig David",
+      "createdAt": "2020-12-12T14:01:11.453Z",
+      "updatedAt": "2020-12-12T14:01:11.453Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "solardo",
+      "id": 628,
+      "name": "Solardo",
+      "createdAt": "2020-12-12T14:01:11.460Z",
+      "updatedAt": "2020-12-12T14:01:11.460Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "omniamonday",
+      "id": 629,
+      "name": "OMNIA Monday",
+      "createdAt": "2020-12-12T14:01:11.467Z",
+      "updatedAt": "2020-12-12T14:01:11.467Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "damianlazarus",
+      "id": 630,
+      "name": "Damian Lazarus",
+      "createdAt": "2020-12-12T14:01:11.476Z",
+      "updatedAt": "2020-12-12T14:01:11.476Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "matjoe",
+      "id": 631,
+      "name": "Mat Joe",
+      "createdAt": "2020-12-12T14:01:11.482Z",
+      "updatedAt": "2020-12-12T14:01:11.482Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "hakkasanwednesday",
+      "id": 632,
+      "name": "Hakkasan Wednesday",
+      "createdAt": "2020-12-12T14:01:11.488Z",
+      "updatedAt": "2020-12-12T14:01:11.488Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "haydenjames",
+      "id": 633,
+      "name": "Hayden James",
+      "createdAt": "2020-12-12T14:01:11.494Z",
+      "updatedAt": "2020-12-12T14:01:11.494Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "bristeves",
+      "id": 634,
+      "name": "Bri Steves",
+      "createdAt": "2020-12-12T14:01:11.500Z",
+      "updatedAt": "2020-12-12T14:01:11.500Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "djsilver",
+      "id": 635,
+      "name": "DJ Silver",
+      "createdAt": "2020-12-12T14:01:11.507Z",
+      "updatedAt": "2020-12-12T14:01:11.507Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "copankasten",
+      "id": 636,
+      "name": "Copan Kasten",
+      "createdAt": "2020-12-12T14:01:11.515Z",
+      "updatedAt": "2020-12-12T14:01:11.515Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "blackcoffee",
+      "id": 637,
+      "name": "Black Coffee",
+      "createdAt": "2020-12-12T14:01:11.526Z",
+      "updatedAt": "2020-12-12T14:01:11.526Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "danileigh",
+      "id": 638,
+      "name": "Danileigh",
+      "createdAt": "2020-12-12T14:01:11.533Z",
+      "updatedAt": "2020-12-12T14:01:11.533Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "joemaz",
+      "id": 639,
+      "name": "Joe Maz",
+      "createdAt": "2020-12-12T14:01:11.540Z",
+      "updatedAt": "2020-12-12T14:01:11.540Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "romeorayes",
+      "id": 640,
+      "name": "Romeo Reyes",
+      "createdAt": "2020-12-12T14:01:11.547Z",
+      "updatedAt": "2020-12-12T14:01:11.547Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "konflikt",
+      "id": 641,
+      "name": "Konflikt",
+      "createdAt": "2020-12-12T14:01:11.553Z",
+      "updatedAt": "2020-12-12T14:01:11.553Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "modernmachines",
+      "id": 642,
+      "name": "Modern Machines",
+      "createdAt": "2020-12-12T14:01:11.565Z",
+      "updatedAt": "2020-12-12T14:01:11.565Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "cnm",
+      "id": 643,
+      "name": "C.N.M",
+      "createdAt": "2020-12-12T14:01:11.572Z",
+      "updatedAt": "2020-12-12T14:01:11.572Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "omnia-pre-club-menu",
+      "id": 644,
+      "name": "OMNIA Pre-Club Menu",
+      "createdAt": "2020-12-12T14:01:11.581Z",
+      "updatedAt": "2020-12-12T14:01:11.581Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "dusky",
+      "id": 645,
+      "name": "Dusky",
+      "createdAt": "2020-12-12T14:01:11.588Z",
+      "updatedAt": "2020-12-12T14:01:11.588Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "mofunk",
+      "id": 646,
+      "name": "Mo'Funk",
+      "createdAt": "2020-12-12T14:01:11.595Z",
+      "updatedAt": "2020-12-12T14:01:11.595Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "generation-now-dj-drama",
+      "id": 647,
+      "name": "Generation Now – DJ Drama",
+      "createdAt": "2020-12-12T14:01:11.601Z",
+      "updatedAt": "2020-12-12T14:01:11.601Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "noodles",
+      "id": 648,
+      "name": "Noodles",
+      "createdAt": "2020-12-12T14:01:11.606Z",
+      "updatedAt": "2020-12-12T14:01:11.606Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "tiaraeve",
+      "id": 649,
+      "name": "Tiara Eve",
+      "createdAt": "2020-12-12T14:01:11.611Z",
+      "updatedAt": "2020-12-12T14:01:11.611Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "djirwan",
+      "id": 650,
+      "name": "DJ Irwan",
+      "createdAt": "2020-12-12T14:01:11.615Z",
+      "updatedAt": "2020-12-12T14:01:11.615Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "luciano",
+      "id": 651,
+      "name": "Luciano",
+      "createdAt": "2020-12-12T14:01:11.620Z",
+      "updatedAt": "2020-12-12T14:01:11.620Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "gioliassia",
+      "id": 652,
+      "name": "Gioli & Assia",
+      "createdAt": "2020-12-12T14:01:11.625Z",
+      "updatedAt": "2020-12-12T14:01:11.625Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "kaskade-oliver-heldens",
+      "id": 653,
+      "name": "Kaskade & Oliver Heldens",
+      "createdAt": "2020-12-12T14:01:11.631Z",
+      "updatedAt": "2020-12-12T14:01:11.631Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "mikemartel",
+      "id": 654,
+      "name": "Mike Martel",
+      "createdAt": "2020-12-12T14:01:11.636Z",
+      "updatedAt": "2020-12-12T14:01:11.636Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "playnskillz",
+      "id": 655,
+      "name": "Play N Skillz",
+      "createdAt": "2020-12-12T14:01:11.641Z",
+      "updatedAt": "2020-12-12T14:01:11.641Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "jid",
+      "id": 656,
+      "name": "J.I.D",
+      "createdAt": "2020-12-12T14:01:11.645Z",
+      "updatedAt": "2020-12-12T14:01:11.645Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "ludacris",
+      "id": 657,
+      "name": "Ludacris",
+      "createdAt": "2020-12-12T14:01:11.649Z",
+      "updatedAt": "2020-12-12T14:01:11.649Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "djbigben",
+      "id": 658,
+      "name": "DJ Big Ben",
+      "createdAt": "2020-12-12T14:01:11.654Z",
+      "updatedAt": "2020-12-12T14:01:11.654Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "dante",
+      "id": 659,
+      "name": "Dante",
+      "createdAt": "2020-12-12T14:01:11.660Z",
+      "updatedAt": "2020-12-12T14:01:11.660Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "letwins",
+      "id": 660,
+      "name": "Le Twins",
+      "createdAt": "2020-12-12T14:01:11.665Z",
+      "updatedAt": "2020-12-12T14:01:11.665Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "whookid",
+      "id": 661,
+      "name": "Whoo Kid",
+      "createdAt": "2020-12-12T14:01:11.670Z",
+      "updatedAt": "2020-12-12T14:01:11.670Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "felixjaehn",
+      "id": 662,
+      "name": "Felix Jaehn",
+      "createdAt": "2020-12-12T14:01:11.676Z",
+      "updatedAt": "2020-12-12T14:01:11.676Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "martin-jensen-matoma",
+      "id": 663,
+      "name": "Martin Jensen & Matoma",
+      "createdAt": "2020-12-12T14:01:11.682Z",
+      "updatedAt": "2020-12-12T14:01:11.682Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "monkeysafari",
+      "id": 664,
+      "name": "Monkey Safari",
+      "createdAt": "2020-12-12T14:01:11.687Z",
+      "updatedAt": "2020-12-12T14:01:11.687Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "dim-mak",
+      "id": 665,
+      "name": "DIM MAK",
+      "createdAt": "2020-12-12T14:01:11.693Z",
+      "updatedAt": "2020-12-12T14:01:11.693Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "baewatch",
+      "id": 666,
+      "name": "Baewatch",
+      "createdAt": "2020-12-12T14:01:11.699Z",
+      "updatedAt": "2020-12-12T14:01:11.699Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "djpremier",
+      "id": 667,
+      "name": "DJ Premier",
+      "createdAt": "2020-12-12T14:01:11.707Z",
+      "updatedAt": "2020-12-12T14:01:11.707Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "alexsensation",
+      "id": 668,
+      "name": "Alex Sensation",
+      "createdAt": "2020-12-12T14:01:11.713Z",
+      "updatedAt": "2020-12-12T14:01:11.713Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "jonasblue",
+      "id": 669,
+      "name": "Jonas Blue",
+      "createdAt": "2020-12-12T14:01:11.718Z",
+      "updatedAt": "2020-12-12T14:01:11.718Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "solli",
+      "id": 670,
+      "name": "Solli",
+      "createdAt": "2020-12-12T14:01:11.723Z",
+      "updatedAt": "2020-12-12T14:01:11.723Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "omnia-sd-wednesday",
+      "id": 671,
+      "name": "OMNIA SD Wednesday",
+      "createdAt": "2020-12-12T14:01:11.729Z",
+      "updatedAt": "2020-12-12T14:01:11.729Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "tequila-sunset",
+      "id": 672,
+      "name": "Tequila Sunset",
+      "createdAt": "2020-12-12T14:01:11.734Z",
+      "updatedAt": "2020-12-12T14:01:11.734Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "waxmotif",
+      "id": 673,
+      "name": "Wax Motif",
+      "createdAt": "2020-12-12T14:01:11.740Z",
+      "updatedAt": "2020-12-12T14:01:11.740Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "saucci",
+      "id": 674,
+      "name": "Saucci",
+      "createdAt": "2020-12-12T14:01:11.746Z",
+      "updatedAt": "2020-12-12T14:01:11.746Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "goodgrip",
+      "id": 675,
+      "name": "GoodGrip",
+      "createdAt": "2020-12-12T14:01:11.751Z",
+      "updatedAt": "2020-12-12T14:01:11.751Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "amtrac",
+      "id": 676,
+      "name": "Amtrac",
+      "createdAt": "2020-12-12T14:01:11.756Z",
+      "updatedAt": "2020-12-12T14:01:11.756Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "justeen",
+      "id": 677,
+      "name": "Justeen",
+      "createdAt": "2020-12-12T14:01:11.764Z",
+      "updatedAt": "2020-12-12T14:01:11.764Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "markfanciulli",
+      "id": 678,
+      "name": "Mark Fanciulli",
+      "createdAt": "2020-12-12T14:01:11.769Z",
+      "updatedAt": "2020-12-12T14:01:11.769Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "shabazz",
+      "id": 679,
+      "name": "Shabazz",
+      "createdAt": "2020-12-12T14:01:11.775Z",
+      "updatedAt": "2020-12-12T14:01:11.775Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "murdabeatz",
+      "id": 680,
+      "name": "Murda Beatz",
+      "createdAt": "2020-12-12T14:01:11.780Z",
+      "updatedAt": "2020-12-12T14:01:11.780Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "poppa",
+      "id": 681,
+      "name": "Poppa",
+      "createdAt": "2020-12-12T14:01:11.786Z",
+      "updatedAt": "2020-12-12T14:01:11.786Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "djhb",
+      "id": 682,
+      "name": "DJ HB",
+      "createdAt": "2020-12-12T14:01:11.795Z",
+      "updatedAt": "2020-12-12T14:01:11.795Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "mobeatz",
+      "id": 683,
+      "name": "Mo Beatz",
+      "createdAt": "2020-12-12T14:01:11.803Z",
+      "updatedAt": "2020-12-12T14:01:11.803Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "shibasan",
+      "id": 684,
+      "name": "Shiba San",
+      "createdAt": "2020-12-12T14:01:11.809Z",
+      "updatedAt": "2020-12-12T14:01:11.809Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "4th-of-july-american-independence-day",
+      "id": 685,
+      "name": "4th of July",
+      "createdAt": "2020-12-12T14:01:11.814Z",
+      "updatedAt": "2020-12-12T14:01:11.814Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "randomsoul",
+      "id": 686,
+      "name": "Random Soul",
+      "createdAt": "2020-12-12T14:01:11.821Z",
+      "updatedAt": "2020-12-12T14:01:11.821Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "stan",
+      "id": 687,
+      "name": "Stan",
+      "createdAt": "2020-12-12T14:01:11.828Z",
+      "updatedAt": "2020-12-12T14:01:11.828Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "lukewryder",
+      "id": 688,
+      "name": "Luke Wryder",
+      "createdAt": "2020-12-12T14:01:11.835Z",
+      "updatedAt": "2020-12-12T14:01:11.835Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "fettywap",
+      "id": 689,
+      "name": "Fetty Wap",
+      "createdAt": "2020-12-12T14:01:11.842Z",
+      "updatedAt": "2020-12-12T14:01:11.842Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "fiestapinata",
+      "id": 690,
+      "name": "Piñata Fiesta",
+      "createdAt": "2020-12-12T14:01:11.850Z",
+      "updatedAt": "2020-12-12T14:01:11.850Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "scratchy",
+      "id": 691,
+      "name": "Scratchy",
+      "createdAt": "2020-12-12T14:01:11.856Z",
+      "updatedAt": "2020-12-12T14:01:11.856Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "djmaseo",
+      "id": 692,
+      "name": "DJ Maseo",
+      "createdAt": "2020-12-12T14:01:11.863Z",
+      "updatedAt": "2020-12-12T14:01:11.863Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "luckydayout",
+      "id": 693,
+      "name": "Lucky Day Out",
+      "createdAt": "2020-12-12T14:01:11.869Z",
+      "updatedAt": "2020-12-12T14:01:11.869Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "set-mo-running-touch-dj-set",
+      "id": 694,
+      "name": "Set Mo & Running Touch DJ Set",
+      "createdAt": "2020-12-12T14:01:11.874Z",
+      "updatedAt": "2020-12-12T14:01:11.874Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "tubeandberger",
+      "id": 695,
+      "name": "Tube and Berger",
+      "createdAt": "2020-12-12T14:01:11.880Z",
+      "updatedAt": "2020-12-12T14:01:11.880Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "hotdubtimemachine",
+      "id": 696,
+      "name": "Hot Dub Time Machine",
+      "createdAt": "2020-12-12T14:01:11.886Z",
+      "updatedAt": "2020-12-12T14:01:11.886Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "redcupnation",
+      "id": 697,
+      "name": "Red Cup Nation",
+      "createdAt": "2020-12-12T14:01:11.892Z",
+      "updatedAt": "2020-12-12T14:01:11.892Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "toughlove",
+      "id": 698,
+      "name": "Tough Love",
+      "createdAt": "2020-12-12T14:01:11.897Z",
+      "updatedAt": "2020-12-12T14:01:11.897Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "craiganthony",
+      "id": 699,
+      "name": "Craig Anthony",
+      "createdAt": "2020-12-12T14:01:11.902Z",
+      "updatedAt": "2020-12-12T14:01:11.902Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "nickferrer",
+      "id": 700,
+      "name": "Nick Ferrer",
+      "createdAt": "2020-12-12T14:01:11.908Z",
+      "updatedAt": "2020-12-12T14:01:11.908Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "kattyq",
+      "id": 701,
+      "name": "Katty Q",
+      "createdAt": "2020-12-12T14:01:11.913Z",
+      "updatedAt": "2020-12-12T14:01:11.913Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "djsociety",
+      "id": 702,
+      "name": "DJ Society",
+      "createdAt": "2020-12-12T14:01:11.918Z",
+      "updatedAt": "2020-12-12T14:01:11.918Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "cadenzaday",
+      "id": 703,
+      "name": "Cadenza Day",
+      "createdAt": "2020-12-12T14:01:11.923Z",
+      "updatedAt": "2020-12-12T14:01:11.923Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "djbrees",
+      "id": 704,
+      "name": "DJ Brees",
+      "createdAt": "2020-12-12T14:01:11.929Z",
+      "updatedAt": "2020-12-12T14:01:11.929Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "inmexico",
+      "id": 705,
+      "name": "InMexico",
+      "createdAt": "2020-12-12T14:01:11.934Z",
+      "updatedAt": "2020-12-12T14:01:11.934Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "roadhouse",
+      "id": 706,
+      "name": "Roadhouse",
+      "createdAt": "2020-12-12T14:01:11.939Z",
+      "updatedAt": "2020-12-12T14:01:11.939Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "breakbot-irfane",
+      "id": 707,
+      "name": "Breakbot & Irfane",
+      "createdAt": "2020-12-12T14:01:11.945Z",
+      "updatedAt": "2020-12-12T14:01:11.945Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "mandy",
+      "id": 708,
+      "name": "M.A.N.D.Y",
+      "createdAt": "2020-12-12T14:01:11.952Z",
+      "updatedAt": "2020-12-12T14:01:11.952Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "pekingduk",
+      "id": 709,
+      "name": "Peking Duk",
+      "createdAt": "2020-12-12T14:01:11.959Z",
+      "updatedAt": "2020-12-12T14:01:11.959Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "camron",
+      "id": 710,
+      "name": "Cam'ron",
+      "createdAt": "2020-12-12T14:01:11.964Z",
+      "updatedAt": "2020-12-12T14:01:11.964Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "stan-tiara-eve",
+      "id": 711,
+      "name": "Stan & Tiara Eve",
+      "createdAt": "2020-12-12T14:01:11.968Z",
+      "updatedAt": "2020-12-12T14:01:11.968Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "new-years-eve",
+      "id": 712,
+      "name": "New Year's Eve",
+      "createdAt": "2020-12-12T14:01:11.974Z",
+      "updatedAt": "2020-12-12T14:01:11.974Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "kormak",
+      "id": 713,
+      "name": "Kormak",
+      "createdAt": "2020-12-12T14:01:11.979Z",
+      "updatedAt": "2020-12-12T14:01:11.979Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "maria-romano-yo-yolie",
+      "id": 715,
+      "name": "Maria Romano & Yo Yolie",
+      "createdAt": "2020-12-12T14:01:11.984Z",
+      "updatedAt": "2020-12-12T14:01:11.984Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "brycevine",
+      "id": 716,
+      "name": "Bryce Vine",
+      "createdAt": "2020-12-12T14:01:11.989Z",
+      "updatedAt": "2020-12-12T14:01:11.989Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "dj-jmedina",
+      "id": 717,
+      "name": "DJ JMedina",
+      "createdAt": "2020-12-12T14:01:11.994Z",
+      "updatedAt": "2020-12-12T14:01:11.994Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "snakehips",
+      "id": 718,
+      "name": "Snakehips",
+      "createdAt": "2020-12-12T14:01:11.998Z",
+      "updatedAt": "2020-12-12T14:01:11.998Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "dj-brooklyn",
+      "id": 719,
+      "name": "DJ Brooklyn",
+      "createdAt": "2020-12-12T14:01:12.003Z",
+      "updatedAt": "2020-12-12T14:01:12.003Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "floydlavine",
+      "id": 720,
+      "name": "Floyd Lavine",
+      "createdAt": "2020-12-12T14:01:12.008Z",
+      "updatedAt": "2020-12-12T14:01:12.008Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "nelly",
+      "id": 721,
+      "name": "Nelly",
+      "createdAt": "2020-12-12T14:01:12.012Z",
+      "updatedAt": "2020-12-12T14:01:12.012Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "lazarehoche",
+      "id": 722,
+      "name": "Lazare Hoche",
+      "createdAt": "2020-12-12T14:01:12.017Z",
+      "updatedAt": "2020-12-12T14:01:12.017Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "themba",
+      "id": 723,
+      "name": "Themba",
+      "createdAt": "2020-12-12T14:01:12.022Z",
+      "updatedAt": "2020-12-12T14:01:12.022Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "dynamiq",
+      "id": 724,
+      "name": "Dynamiq",
+      "createdAt": "2020-12-12T14:01:12.027Z",
+      "updatedAt": "2020-12-12T14:01:12.027Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "kungs",
+      "id": 725,
+      "name": "Kungs",
+      "createdAt": "2020-12-12T14:01:12.033Z",
+      "updatedAt": "2020-12-12T14:01:12.033Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "lvp-parties-2019",
+      "id": 726,
+      "name": "LVP Parties 2019",
+      "createdAt": "2020-12-12T14:01:12.039Z",
+      "updatedAt": "2020-12-12T14:01:12.039Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "moska",
+      "id": 727,
+      "name": "Moska",
+      "createdAt": "2020-12-12T14:01:12.046Z",
+      "updatedAt": "2020-12-12T14:01:12.046Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "generation-now-jack-harlow",
+      "id": 728,
+      "name": "Generation Now - Jack Harlow",
+      "createdAt": "2020-12-12T14:01:12.057Z",
+      "updatedAt": "2020-12-12T14:01:12.057Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "djdirect",
+      "id": 729,
+      "name": "DJ Direct",
+      "createdAt": "2020-12-12T14:01:12.063Z",
+      "updatedAt": "2020-12-12T14:01:12.063Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "artdepartment",
+      "id": 730,
+      "name": "Art Department",
+      "createdAt": "2020-12-12T14:01:12.070Z",
+      "updatedAt": "2020-12-12T14:01:12.070Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "omniaarmy",
+      "id": 731,
+      "name": "OMNIA Army",
+      "createdAt": "2020-12-12T14:01:12.075Z",
+      "updatedAt": "2020-12-12T14:01:12.075Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "kaku",
+      "id": 732,
+      "name": "Kaku",
+      "createdAt": "2020-12-12T14:01:12.081Z",
+      "updatedAt": "2020-12-12T14:01:12.081Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "animaltrainer",
+      "id": 733,
+      "name": "Animal Trainer",
+      "createdAt": "2020-12-12T14:01:12.086Z",
+      "updatedAt": "2020-12-12T14:01:12.086Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "nissa",
+      "id": 734,
+      "name": "Nissa",
+      "createdAt": "2020-12-12T14:01:12.091Z",
+      "updatedAt": "2020-12-12T14:01:12.091Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "xzibit",
+      "id": 735,
+      "name": "Xzibit",
+      "createdAt": "2020-12-12T14:01:12.097Z",
+      "updatedAt": "2020-12-12T14:01:12.097Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "shadowman",
+      "id": 736,
+      "name": "Shadowman",
+      "createdAt": "2020-12-12T14:01:12.113Z",
+      "updatedAt": "2020-12-12T14:01:12.113Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "djkaos",
+      "id": 737,
+      "name": "DJ Kaos",
+      "createdAt": "2020-12-12T14:01:12.120Z",
+      "updatedAt": "2020-12-12T14:01:12.120Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "strabella",
+      "id": 738,
+      "name": "Strabella",
+      "createdAt": "2020-12-12T14:01:12.129Z",
+      "updatedAt": "2020-12-12T14:01:12.129Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "marlo",
+      "id": 739,
+      "name": "Marlo",
+      "createdAt": "2020-12-12T14:01:12.135Z",
+      "updatedAt": "2020-12-12T14:01:12.135Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "orsin",
+      "id": 740,
+      "name": "Osrin",
+      "createdAt": "2020-12-12T14:01:12.141Z",
+      "updatedAt": "2020-12-12T14:01:12.141Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "kryder",
+      "id": 741,
+      "name": "Kryder",
+      "createdAt": "2020-12-12T14:01:12.147Z",
+      "updatedAt": "2020-12-12T14:01:12.147Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "elibrown",
+      "id": 742,
+      "name": "Eli Brown",
+      "createdAt": "2020-12-12T14:01:12.153Z",
+      "updatedAt": "2020-12-12T14:01:12.153Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "humanmovement",
+      "id": 743,
+      "name": "Human Movement",
+      "createdAt": "2020-12-12T14:01:12.158Z",
+      "updatedAt": "2020-12-12T14:01:12.158Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "beachmas",
+      "id": 744,
+      "name": "Beachmas",
+      "createdAt": "2020-12-12T14:01:12.165Z",
+      "updatedAt": "2020-12-12T14:01:12.165Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "helenalegend",
+      "id": 745,
+      "name": "Helena Legend",
+      "createdAt": "2020-12-12T14:01:12.170Z",
+      "updatedAt": "2020-12-12T14:01:12.170Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "aracil",
+      "id": 746,
+      "name": "Aracil",
+      "createdAt": "2020-12-12T14:01:12.175Z",
+      "updatedAt": "2020-12-12T14:01:12.175Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "djphenom",
+      "id": 747,
+      "name": "DJ Phenom",
+      "createdAt": "2020-12-12T14:01:12.180Z",
+      "updatedAt": "2020-12-12T14:01:12.180Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "tonytone",
+      "id": 749,
+      "name": "Tony Tone",
+      "createdAt": "2020-12-12T14:01:12.185Z",
+      "updatedAt": "2020-12-12T14:01:12.185Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "lucas-steve",
+      "id": 750,
+      "name": "Lucas & Steve",
+      "createdAt": "2020-12-12T14:01:12.189Z",
+      "updatedAt": "2020-12-12T14:01:12.189Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "alldayidream",
+      "id": 751,
+      "name": "All Day i Dream",
+      "createdAt": "2020-12-12T14:01:12.193Z",
+      "updatedAt": "2020-12-12T14:01:12.193Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "whatsonot",
+      "id": 752,
+      "name": "What So Not",
+      "createdAt": "2020-12-12T14:01:12.198Z",
+      "updatedAt": "2020-12-12T14:01:12.198Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "fashion-novas-the-naughty-list",
+      "id": 753,
+      "name": "Fashion Nova’s The Naughty List",
+      "createdAt": "2020-12-12T14:01:12.204Z",
+      "updatedAt": "2020-12-12T14:01:12.204Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "dmx",
+      "id": 754,
+      "name": "DMX",
+      "createdAt": "2020-12-12T14:01:12.212Z",
+      "updatedAt": "2020-12-12T14:01:12.212Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "defected",
+      "id": 755,
+      "name": "Defected",
+      "createdAt": "2020-12-12T14:01:12.217Z",
+      "updatedAt": "2020-12-12T14:01:12.217Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "daniromo",
+      "id": 756,
+      "name": "Dani Romo",
+      "createdAt": "2020-12-12T14:01:12.223Z",
+      "updatedAt": "2020-12-12T14:01:12.223Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "miamihorror",
+      "id": 757,
+      "name": "Miami Horror",
+      "createdAt": "2020-12-12T14:01:12.229Z",
+      "updatedAt": "2020-12-12T14:01:12.229Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "wantigga",
+      "id": 758,
+      "name": "Wantigga",
+      "createdAt": "2020-12-12T14:01:12.235Z",
+      "updatedAt": "2020-12-12T14:01:12.235Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "kontrol",
+      "id": 759,
+      "name": "Kontrol",
+      "createdAt": "2020-12-12T14:01:12.241Z",
+      "updatedAt": "2020-12-12T14:01:12.241Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "twelve-tropical-days-of-christmas",
+      "id": 760,
+      "name": "Twelve Tropical Days of Christmas",
+      "createdAt": "2020-12-12T14:01:12.249Z",
+      "updatedAt": "2020-12-12T14:01:12.249Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "michaelbibi",
+      "id": 761,
+      "name": "Michael Bibi",
+      "createdAt": "2020-12-12T14:01:12.255Z",
+      "updatedAt": "2020-12-12T14:01:12.255Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "nicolemoudaber",
+      "id": 762,
+      "name": "Nicole Moudaber",
+      "createdAt": "2020-12-12T14:01:12.262Z",
+      "updatedAt": "2020-12-12T14:01:12.262Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "gorgoncity",
+      "id": 763,
+      "name": "Gorgon City",
+      "createdAt": "2020-12-12T14:01:12.268Z",
+      "updatedAt": "2020-12-12T14:01:12.268Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "folamour",
+      "id": 764,
+      "name": "Folamour",
+      "createdAt": "2020-12-12T14:01:12.273Z",
+      "updatedAt": "2020-12-12T14:01:12.273Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "juuvenile",
+      "id": 765,
+      "name": "Juvenile",
+      "createdAt": "2020-12-12T14:01:12.284Z",
+      "updatedAt": "2020-12-12T14:01:12.284Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "eduimbernon",
+      "id": 766,
+      "name": "Edu Imbernon",
+      "createdAt": "2020-12-12T14:01:12.290Z",
+      "updatedAt": "2020-12-12T14:01:12.290Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "djremy",
+      "id": 767,
+      "name": "DJ Eric Remy",
+      "createdAt": "2020-12-12T14:01:12.297Z",
+      "updatedAt": "2020-12-12T14:01:12.297Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "lostatsea",
+      "id": 768,
+      "name": "Lost at Sea",
+      "createdAt": "2020-12-12T14:01:12.302Z",
+      "updatedAt": "2020-12-12T14:01:12.302Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "horizon",
+      "id": 769,
+      "name": "Horizon",
+      "createdAt": "2020-12-12T14:01:12.308Z",
+      "updatedAt": "2020-12-12T14:01:12.308Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "patricia-schuldtz-tiara-eve",
+      "id": 770,
+      "name": "Patricia Schuldtz & Tiara eve",
+      "createdAt": "2020-12-12T14:01:12.315Z",
+      "updatedAt": "2020-12-12T14:01:12.315Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "djscene",
+      "id": 771,
+      "name": "DJ Scene",
+      "createdAt": "2020-12-12T14:01:12.320Z",
+      "updatedAt": "2020-12-12T14:01:12.320Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "cercle",
+      "id": 772,
+      "name": "Cercle",
+      "createdAt": "2020-12-12T14:01:12.327Z",
+      "updatedAt": "2020-12-12T14:01:12.327Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "jackharlow",
+      "id": 773,
+      "name": "Jack Harlow",
+      "createdAt": "2020-12-12T14:01:12.334Z",
+      "updatedAt": "2020-12-12T14:01:12.334Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "singlesparty",
+      "id": 774,
+      "name": "Singles Party",
+      "createdAt": "2020-12-12T14:01:12.341Z",
+      "updatedAt": "2020-12-12T14:01:12.341Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "pixiee",
+      "id": 775,
+      "name": "Pixiee",
+      "createdAt": "2020-12-12T14:01:12.346Z",
+      "updatedAt": "2020-12-12T14:01:12.346Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "urbansicko",
+      "id": 776,
+      "name": "Urban Sicko",
+      "createdAt": "2020-12-12T14:01:12.351Z",
+      "updatedAt": "2020-12-12T14:01:12.351Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "willhernandez",
+      "id": 777,
+      "name": "Will Hernandez",
+      "createdAt": "2020-12-12T14:01:12.356Z",
+      "updatedAt": "2020-12-12T14:01:12.356Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "tsha",
+      "id": 778,
+      "name": "Tsha",
+      "createdAt": "2020-12-12T14:01:12.365Z",
+      "updatedAt": "2020-12-12T14:01:12.365Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "pillowtalk",
+      "id": 779,
+      "name": "Pillow Talk",
+      "createdAt": "2020-12-12T14:01:12.371Z",
+      "updatedAt": "2020-12-12T14:01:12.371Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "jael",
+      "id": 780,
+      "name": "Jael",
+      "createdAt": "2020-12-12T14:01:12.376Z",
+      "updatedAt": "2020-12-12T14:01:12.376Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "juicym",
+      "id": 781,
+      "name": "Juicy M",
+      "createdAt": "2020-12-12T14:01:12.381Z",
+      "updatedAt": "2020-12-12T14:01:12.381Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "charlyjordan",
+      "id": 782,
+      "name": "Charly Jordan",
+      "createdAt": "2020-12-12T14:01:12.386Z",
+      "updatedAt": "2020-12-12T14:01:12.386Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "guyj",
+      "id": 783,
+      "name": "Guy J",
+      "createdAt": "2020-12-12T14:01:12.394Z",
+      "updatedAt": "2020-12-12T14:01:12.394Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "motez",
+      "id": 784,
+      "name": "Motez",
+      "createdAt": "2020-12-12T14:01:12.400Z",
+      "updatedAt": "2020-12-12T14:01:12.400Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "missnine",
+      "id": 785,
+      "name": "Miss Nine",
+      "createdAt": "2020-12-12T14:01:12.405Z",
+      "updatedAt": "2020-12-12T14:01:12.405Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "madeon",
+      "id": 786,
+      "name": "Madeon",
+      "createdAt": "2020-12-12T14:01:12.446Z",
+      "updatedAt": "2020-12-12T14:01:12.446Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "liquidmonday",
+      "id": 787,
+      "name": "Liquid Monday",
+      "createdAt": "2020-12-12T14:01:12.456Z",
+      "updatedAt": "2020-12-12T14:01:12.456Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "level-up-pro-football",
+      "id": 788,
+      "name": "Level Up Presents: Pro Football",
+      "createdAt": "2020-12-12T14:01:12.465Z",
+      "updatedAt": "2020-12-12T14:01:12.465Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "level-up-college-football",
+      "id": 789,
+      "name": "Level Up Presents: College Football",
+      "createdAt": "2020-12-12T14:01:12.477Z",
+      "updatedAt": "2020-12-12T14:01:12.477Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "level-up-friday",
+      "id": 790,
+      "name": "Level Up Friday",
+      "createdAt": "2020-12-12T14:01:12.482Z",
+      "updatedAt": "2020-12-12T14:01:12.482Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "level-up-ncaa-games-pro-football",
+      "id": 791,
+      "name": "Level Up Presents: NCAA Games & Pro Football",
+      "createdAt": "2020-12-12T17:31:02.489Z",
+      "updatedAt": "2020-12-12T17:31:02.489Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "level-up-ncaa-games",
+      "id": 792,
+      "name": "Level Up Presents: NCAA Games",
+      "createdAt": "2020-12-12T17:31:02.515Z",
+      "updatedAt": "2020-12-12T17:31:02.515Z",
+      "dataType": "artist"
+    },
+    {
+      "friendly_id": "level-up-big-game",
+      "id": 793,
+      "name": "BIG GAME VIEWING PARTY",
+      "createdAt": "2020-12-12T18:30:37.743Z",
+      "updatedAt": "2020-12-12T18:30:37.743Z",
+      "dataType": "artist"
+    }
+  ],
+  "dataType": "artist"
+}

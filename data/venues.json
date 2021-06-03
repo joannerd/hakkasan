@@ -1,0 +1,2399 @@
+{
+  "ref": "venues.json",
+  "data": [
+    {
+      "areas": [
+        {
+          "id": 1870,
+          "title": "Table"
+        },
+        {
+          "id": 1897,
+          "title": "VD PAYMENT"
+        },
+        {
+          "id": 1869,
+          "title": "Bar"
+        }
+      ],
+      "zip": "89109",
+      "description": "ALIBI Ultra Lounge, at ARIA Resort & Casino celebrates the perfect convergence of premium spirits, imaginative ingredients & highly stylized opulence.",
+      "time_zone": "US/Pacific",
+      "home_URL": "http://alibiloungelv.com/",
+      "phone": "702-693-8300",
+      "friendly_id": "alibi",
+      "time_zone_offset": -28800,
+      "state": "NV",
+      "title": "Alibi Ultra Lounge",
+      "id": 1560,
+      "city": "Las Vegas",
+      "address": "3730 Las Vegas Blvd S",
+      "country": "United States",
+      "location": "",
+      "createdAt": "2020-12-12T14:01:36.011Z",
+      "updatedAt": "2020-12-13T03:31:24.426Z",
+      "dataType": "venue"
+    },
+    {
+      "areas": [],
+      "zip": "89118",
+      "description": "This venue will be hosting our 7-Day wristband packages",
+      "time_zone": "US/Pacific",
+      "home_URL": "http://allinvegas.com",
+      "phone": "702-212-8804",
+      "friendly_id": "allinvegas",
+      "time_zone_offset": -28800,
+      "state": "NV",
+      "title": "All In Vegas",
+      "id": 1580,
+      "city": "Las Vegas",
+      "address": "6385 S. Rainbow Boulevard",
+      "country": "Unites States",
+      "location": "",
+      "createdAt": "2020-12-12T14:01:36.031Z",
+      "updatedAt": "2020-12-13T03:31:24.454Z",
+      "dataType": "venue"
+    },
+    {
+      "areas": [
+        {
+          "id": 764,
+          "title": "Round Room"
+        },
+        {
+          "id": 934,
+          "title": "Podium"
+        },
+        {
+          "id": 765,
+          "title": "VIP"
+        },
+        {
+          "id": 1396,
+          "title": "Waitlist"
+        },
+        {
+          "id": 763,
+          "title": "Dance Floor"
+        },
+        {
+          "id": 774,
+          "title": "Champagne"
+        }
+      ],
+      "zip": "33324",
+      "description": "Aura in the Bahamas",
+      "time_zone": "US/Eastern",
+      "home_URL": "http://aurathenightclub.com/",
+      "phone": "242-424-8741",
+      "friendly_id": "",
+      "time_zone_offset": -18000,
+      "state": "Paradise Island",
+      "title": "Aura",
+      "id": 552,
+      "city": "Paradise Island City",
+      "address": "One Casino Drive",
+      "country": "Bahamas",
+      "location": "",
+      "createdAt": "2020-12-12T14:01:36.044Z",
+      "updatedAt": "2020-12-13T03:31:24.530Z",
+      "dataType": "venue"
+    },
+    {
+      "areas": [],
+      "zip": "89113",
+      "description": "Original Venue\nGold Boutique Nightclub & Lounge\n3730 Las Vegas Blvd S\n89109\n\nST NOTE 07022019 - Temporarily using this venue for Crime Stoppers Fundraiser event 8-23-2019. I changed the name and address for this one time event.\n\n",
+      "time_zone": "US/Pacific",
+      "home_URL": "https://crimestoppersofnv.com",
+      "phone": "702-685-0258",
+      "friendly_id": "gold",
+      "time_zone_offset": -28800,
+      "state": "NV",
+      "title": "BAR - Born and Raised",
+      "id": 1563,
+      "city": "Las Vegas",
+      "address": "7260 S Cimarron",
+      "country": "United States",
+      "location": "",
+      "createdAt": "2020-12-12T14:01:36.064Z",
+      "updatedAt": "2020-12-13T03:31:24.553Z",
+      "dataType": "venue"
+    },
+    {
+      "areas": [
+        {
+          "id": 1868,
+          "title": "Table Top"
+        },
+        {
+          "id": 1866,
+          "title": "Daybed"
+        },
+        {
+          "id": 1911,
+          "title": "VDPAYMENT"
+        },
+        {
+          "id": 1864,
+          "title": "Bar"
+        },
+        {
+          "id": 1867,
+          "title": "Chair"
+        },
+        {
+          "id": 1865,
+          "title": "Cabana"
+        }
+      ],
+      "zip": "89109",
+      "description": "The Mirage's top-optional pool club offering food, drinks & a relaxed vibe, secluded by palm trees.",
+      "time_zone": "US/Pacific",
+      "home_URL": "http://barepoollv.com/home",
+      "phone": "(702) 791-7111",
+      "friendly_id": "bare",
+      "time_zone_offset": -28800,
+      "state": "NV",
+      "title": "Bare Pool Lounge",
+      "id": 1553,
+      "city": "Las Vegas",
+      "address": "3400 Las Vegas Blvd S",
+      "country": "United States",
+      "location": "",
+      "createdAt": "2020-12-12T14:01:36.089Z",
+      "updatedAt": "2020-12-13T03:31:24.580Z",
+      "dataType": "venue"
+    },
+    {
+      "areas": [
+        {
+          "id": 614,
+          "title": "Lower"
+        },
+        {
+          "id": 613,
+          "title": "Mezz"
+        }
+      ],
+      "zip": "89169",
+      "description": null,
+      "time_zone": "US/Pacific",
+      "home_URL": "http://www.mau5tickets.com/",
+      "phone": null,
+      "friendly_id": "",
+      "time_zone_offset": -28800,
+      "state": "NV",
+      "title": "Body English (reservations and guestlist)",
+      "id": 550,
+      "city": "Las Vegas",
+      "address": "4455 Paradise Road",
+      "country": "USA",
+      "location": "",
+      "createdAt": "2020-12-12T14:01:36.115Z",
+      "updatedAt": "2020-12-13T03:31:24.641Z",
+      "dataType": "venue"
+    },
+    {
+      "areas": [
+        {
+          "id": 1555,
+          "title": "Main Room Vip"
+        },
+        {
+          "id": 1553,
+          "title": "Patio Vip Tables"
+        },
+        {
+          "id": 1554,
+          "title": "Roof Top VIP"
+        }
+      ],
+      "zip": "89109",
+      "description": null,
+      "time_zone": "US/Pacific",
+      "home_URL": null,
+      "phone": null,
+      "friendly_id": "chateau",
+      "time_zone_offset": -28800,
+      "state": "NV",
+      "title": "Chateau",
+      "id": 1370,
+      "city": "Las Vegas",
+      "address": "3655 South Las Vegas Blvd",
+      "country": "USA",
+      "location": "",
+      "createdAt": "2020-12-12T14:01:36.127Z",
+      "updatedAt": "2020-12-13T03:31:24.659Z",
+      "dataType": "venue"
+    },
+    {
+      "areas": [],
+      "zip": "89109",
+      "description": "at Mandalay Bay",
+      "time_zone": "US/Pacific",
+      "home_URL": "http://citizenslasvegas.com/",
+      "phone": "702-632-9200",
+      "friendly_id": "citizens",
+      "time_zone_offset": -28800,
+      "state": "NV",
+      "title": "Citizens Kitchen & Bar",
+      "id": 1573,
+      "city": "Las Vegas",
+      "address": "3950 Las Vegas Boulevard South",
+      "country": "United States",
+      "location": "",
+      "createdAt": "2020-12-12T14:01:36.138Z",
+      "updatedAt": "2020-12-13T03:31:24.681Z",
+      "dataType": "venue"
+    },
+    {
+      "areas": [
+        {
+          "id": 1309,
+          "title": "Website"
+        }
+      ],
+      "zip": "89019",
+      "description": null,
+      "time_zone": "US/Pacific",
+      "home_URL": null,
+      "phone": "702-740-6330",
+      "friendly_id": null,
+      "time_zone_offset": -28800,
+      "state": "NV",
+      "title": "Coyote Ugly",
+      "id": 597,
+      "city": "Las Vegas",
+      "address": "3790 South Las Vegas Boulevard",
+      "country": "US",
+      "location": "",
+      "createdAt": "2020-12-12T14:01:36.149Z",
+      "updatedAt": "2020-12-13T03:31:24.705Z",
+      "dataType": "venue"
+    },
+    {
+      "areas": [],
+      "zip": "89119",
+      "description": "at Mandalay Bay",
+      "time_zone": "US/Pacific",
+      "home_URL": "http://kumilasvegas.com/",
+      "phone": "702-632-9100",
+      "friendly_id": "kumilv",
+      "time_zone_offset": -28800,
+      "state": "NV",
+      "title": "Kumi Japanese Restaurant & Bar",
+      "id": 1571,
+      "city": "Las Vegas",
+      "address": "3950 Las Vegas Boulevard South",
+      "country": "United States",
+      "location": "",
+      "createdAt": "2020-12-12T14:01:36.316Z",
+      "updatedAt": "2020-12-13T03:31:25.013Z",
+      "dataType": "venue"
+    },
+    {
+      "areas": [
+        {
+          "id": 254,
+          "title": "Private Rooms"
+        },
+        {
+          "id": 1303,
+          "title": "Ticket Sale"
+        },
+        {
+          "id": 252,
+          "title": "Main Floor"
+        },
+        {
+          "id": 255,
+          "title": "Loft"
+        },
+        {
+          "id": 1431,
+          "title": "Red Room"
+        },
+        {
+          "id": 253,
+          "title": "Stage"
+        },
+        {
+          "id": 256,
+          "title": "Savile Row"
+        }
+      ],
+      "zip": "89119",
+      "description": "LAX at the Luxor.",
+      "time_zone": "US/Pacific",
+      "home_URL": "http://www.laxthenightclub.com/",
+      "phone": "702-262-4529",
+      "friendly_id": "lax",
+      "time_zone_offset": -28800,
+      "state": "NV",
+      "title": "LAX",
+      "id": 156,
+      "city": "Las Vegas",
+      "address": "3900 Las Vegas Boulevard South",
+      "country": "USA",
+      "location": "",
+      "createdAt": "2020-12-12T14:01:36.326Z",
+      "updatedAt": "2020-12-13T03:31:25.036Z",
+      "dataType": "venue"
+    },
+    {
+      "areas": [
+        {
+          "id": 1910,
+          "title": "VDPAYMENT"
+        },
+        {
+          "id": 1909,
+          "title": "Main Room"
+        }
+      ],
+      "zip": "89109",
+      "description": "LEVEL UP, a new and exciting ‘place to play’ concept in MGM Grand. Changing the way Las Vegas views lounge entertainment, LEVEL UP presents a new era in interactive, skill-based fun. ",
+      "time_zone": "US/Pacific",
+      "home_URL": "http://leveluplv.com",
+      "phone": "702-212-8804",
+      "friendly_id": "levelup",
+      "time_zone_offset": -28800,
+      "state": "NV",
+      "title": "Level Up",
+      "id": 1579,
+      "city": "Las Vegas",
+      "address": "3799 Las Vegas Boulevard South",
+      "country": "United States",
+      "location": "",
+      "createdAt": "2020-12-12T14:01:36.336Z",
+      "updatedAt": "2020-12-13T03:31:25.059Z",
+      "dataType": "venue"
+    },
+    {
+      "areas": [
+        {
+          "id": 1838,
+          "title": "Dance Floor"
+        },
+        {
+          "id": 1841,
+          "title": "High Boy"
+        },
+        {
+          "id": 1844,
+          "title": "Second Tier"
+        },
+        {
+          "id": 1839,
+          "title": "DJ VIP"
+        },
+        {
+          "id": 1842,
+          "title": "Main Bar"
+        },
+        {
+          "id": 1837,
+          "title": "Balcony"
+        },
+        {
+          "id": 1845,
+          "title": "Upper Bar"
+        },
+        {
+          "id": 1840,
+          "title": "First Tier"
+        },
+        {
+          "id": 1843,
+          "title": "North Bar"
+        }
+      ],
+      "zip": "89119",
+      "description": "Default GL 9PM",
+      "time_zone": "US/Pacific",
+      "home_URL": "http://thelightvegas.com/",
+      "phone": "(702) 693-8300",
+      "friendly_id": "light",
+      "time_zone_offset": -28800,
+      "state": "NV",
+      "title": "Light Nightclub",
+      "id": 1554,
+      "city": "Las Vegas",
+      "address": "3950 Las Vegas Blvd S",
+      "country": "United States",
+      "location": "",
+      "createdAt": "2020-12-12T14:01:36.344Z",
+      "updatedAt": "2020-12-13T03:31:25.079Z",
+      "dataType": "venue"
+    },
+    {
+      "areas": [
+        {
+          "id": 558,
+          "title": "Couches"
+        },
+        {
+          "id": 556,
+          "title": "Cabanas"
+        },
+        {
+          "id": 559,
+          "title": "Upper Daybeds"
+        },
+        {
+          "id": 557,
+          "title": "Daybeds"
+        }
+      ],
+      "zip": "89169",
+      "description": "Relax Bar at the Hard Rock",
+      "time_zone": "US/Pacific",
+      "home_URL": "http://www.hardrockhotel.com/",
+      "phone": "702-693-5555",
+      "friendly_id": "",
+      "time_zone_offset": -28800,
+      "state": "NV",
+      "title": "Relax Bar",
+      "id": 506,
+      "city": "Las Vegas",
+      "address": "4455 Paradise Road",
+      "country": "US",
+      "location": "",
+      "createdAt": "2020-12-12T14:01:36.490Z",
+      "updatedAt": "2020-12-13T03:31:25.394Z",
+      "dataType": "venue"
+    },
+    {
+      "areas": [
+        {
+          "id": 1827,
+          "title": "Strip Cabanas"
+        },
+        {
+          "id": 1828,
+          "title": "Sahara Cabanas"
+        }
+      ],
+      "zip": "89109",
+      "description": "MGM Resorts Festival Grounds \nhttp://mgmresorts.com/rockinrio/",
+      "time_zone": "US/Pacific",
+      "home_URL": null,
+      "phone": null,
+      "friendly_id": "rocknriolv",
+      "time_zone_offset": -28800,
+      "state": "NV, 89109",
+      "title": "Rock in Rio Las Vegas",
+      "id": 1566,
+      "city": "Las Vegas",
+      "address": "MGM Resorts Festival Grounds - 2880 Las Vegas Blvd",
+      "country": "United States",
+      "location": "",
+      "createdAt": "2020-12-12T14:01:36.498Z",
+      "updatedAt": "2020-12-13T03:31:25.405Z",
+      "dataType": "venue"
+    },
+    {
+      "areas": [],
+      "zip": "Indonesia",
+      "description": null,
+      "time_zone": "US/Eastern",
+      "home_URL": null,
+      "phone": null,
+      "friendly_id": null,
+      "time_zone_offset": -18000,
+      "state": "Jakarta",
+      "title": "Sake no Hana",
+      "id": 1589,
+      "city": "Jakarta",
+      "address": "?",
+      "country": null,
+      "location": "",
+      "createdAt": "2020-12-12T14:01:36.524Z",
+      "updatedAt": "2020-12-13T03:31:25.450Z",
+      "dataType": "venue"
+    },
+    {
+      "areas": [],
+      "zip": "89169",
+      "description": null,
+      "time_zone": "US/Eastern",
+      "home_URL": "http://www.hardrockvegas.com/",
+      "phone": null,
+      "friendly_id": "",
+      "time_zone_offset": -18000,
+      "state": "NV",
+      "title": "- The Joint - ",
+      "id": 551,
+      "city": "Las Vegas",
+      "address": "4455 Paradise Road",
+      "country": "USA",
+      "location": "",
+      "createdAt": "2020-12-12T14:01:35.960Z",
+      "updatedAt": "2020-12-13T03:31:24.332Z",
+      "dataType": "venue"
+    },
+    {
+      "areas": [
+        {
+          "id": 1907,
+          "title": "Main Room"
+        },
+        {
+          "id": 1851,
+          "title": "VIP Room"
+        },
+        {
+          "id": 1900,
+          "title": "VD PAYMENT"
+        },
+        {
+          "id": 1846,
+          "title": "Lounge"
+        }
+      ],
+      "zip": "89109",
+      "description": "Fashionable nightclub catering to celebrity entertainers & upscale-chic crowds in a ritzy scene.",
+      "time_zone": "US/Pacific",
+      "home_URL": "http://1oaklasvegas.com/home",
+      "phone": "(702) 693-8300",
+      "friendly_id": "1oak",
+      "time_zone_offset": -28800,
+      "state": "NV",
+      "title": "1 OAK Nightclub",
+      "id": 1555,
+      "city": "Las Vegas",
+      "address": "3400 Las Vegas Blvd S",
+      "country": "United States",
+      "location": "",
+      "createdAt": "2020-12-12T14:01:35.990Z",
+      "updatedAt": "2020-12-13T03:31:24.381Z",
+      "dataType": "venue"
+    },
+    {
+      "areas": [
+        {
+          "id": 1777,
+          "title": "3rd Tier Booth"
+        },
+        {
+          "id": 1769,
+          "title": "1st Tier Banquette Center"
+        },
+        {
+          "id": 1772,
+          "title": "2nd Tier Banquette"
+        },
+        {
+          "id": 1775,
+          "title": "3rd Tier Banquette"
+        },
+        {
+          "id": 1778,
+          "title": "Monkey Cage"
+        },
+        {
+          "id": 1770,
+          "title": "2nd Tier Sofa"
+        },
+        {
+          "id": 1773,
+          "title": "Owner's Table"
+        },
+        {
+          "id": 1776,
+          "title": "Bird Cage"
+        },
+        {
+          "id": 1768,
+          "title": "1st Tier Banquette"
+        },
+        {
+          "id": 1771,
+          "title": "2nd Tier Sofa Center"
+        },
+        {
+          "id": 1774,
+          "title": "3rd Tier Sofa"
+        }
+      ],
+      "zip": "89109",
+      "description": null,
+      "time_zone": "US/Pacific",
+      "home_URL": "http://beachers.angelmg.com",
+      "phone": "702-212-8804",
+      "friendly_id": "beachers",
+      "time_zone_offset": -28800,
+      "state": "NV",
+      "title": "Beachers Madhouse",
+      "id": 1534,
+      "city": "Las Vegas",
+      "address": "3799 Las Vegas Boulevard South",
+      "country": "Unites States",
+      "location": "",
+      "createdAt": "2020-12-12T14:01:36.105Z",
+      "updatedAt": "2020-12-13T03:31:24.622Z",
+      "dataType": "venue"
+    },
+    {
+      "areas": [],
+      "zip": "89109",
+      "description": "This is Hakkasan Restaurant LV",
+      "time_zone": "US/Pacific",
+      "home_URL": "http://hakkasan.com/locations/hakkasan-las-vegas/",
+      "phone": "702-891-7888",
+      "friendly_id": "hkrestaurantlv",
+      "time_zone_offset": -28800,
+      "state": "NV",
+      "title": "Hakkasan Restaurant LV",
+      "id": 1569,
+      "city": "Las Vegas",
+      "address": "3791 Las Vegas Boulevard South",
+      "country": "United States",
+      "location": "",
+      "createdAt": "2020-12-12T14:01:36.235Z",
+      "updatedAt": "2020-12-13T03:31:24.881Z",
+      "dataType": "venue"
+    },
+    {
+      "areas": [],
+      "zip": "94108",
+      "description": "Restaurant",
+      "time_zone": "US/Pacific",
+      "home_URL": "https://hakkasan.com/san-francisco/",
+      "phone": "415-829-8148",
+      "friendly_id": "hkrestaurantsf",
+      "time_zone_offset": -28800,
+      "state": "CA",
+      "title": "Hakkasan San Francisco",
+      "id": 1596,
+      "city": "San Francisco",
+      "address": "One Kearny Street",
+      "country": "United States",
+      "location": "",
+      "createdAt": "2020-12-12T14:01:36.244Z",
+      "updatedAt": "2020-12-13T03:31:24.892Z",
+      "dataType": "venue"
+    },
+    {
+      "areas": [
+        {
+          "id": 1953,
+          "title": "VD PAYMENT"
+        }
+      ],
+      "zip": "92037",
+      "description": null,
+      "time_zone": "US/Pacific",
+      "home_URL": "http://herringboneeats.com/",
+      "phone": "858-459-0221",
+      "friendly_id": "herringbonelj",
+      "time_zone_offset": -28800,
+      "state": "CA",
+      "title": "Herringbone La Jolla",
+      "id": 1581,
+      "city": "La Jolla",
+      "address": "7837 Herschel Avenue",
+      "country": "Unites States",
+      "location": "",
+      "createdAt": "2020-12-12T14:01:36.253Z",
+      "updatedAt": "2020-12-13T03:31:24.917Z",
+      "dataType": "venue"
+    },
+    {
+      "areas": [
+        {
+          "id": 1930,
+          "title": "Viewing"
+        },
+        {
+          "id": 1902,
+          "title": "VD PAYMENT"
+        }
+      ],
+      "zip": "89109",
+      "description": "at ARIA",
+      "time_zone": "US/Pacific",
+      "home_URL": "http://herringboneeats.com/las-vegas/",
+      "phone": "702-212-8804",
+      "friendly_id": "herringbonelv",
+      "time_zone_offset": -28800,
+      "state": "NV",
+      "title": "Herringbone Las Vegas",
+      "id": 1574,
+      "city": "Las Vegas",
+      "address": "3730 Las Vegas Boulevard South",
+      "country": "United States",
+      "location": "",
+      "createdAt": "2020-12-12T14:01:36.261Z",
+      "updatedAt": "2020-12-13T03:31:24.938Z",
+      "dataType": "venue"
+    },
+    {
+      "areas": [],
+      "zip": "90401",
+      "description": null,
+      "time_zone": "US/Pacific",
+      "home_URL": "http://herringboneeats.com/",
+      "phone": "310-971-4460",
+      "friendly_id": "herringbonesm",
+      "time_zone_offset": -28800,
+      "state": "CA",
+      "title": "Herringbone Santa Monica",
+      "id": 1582,
+      "city": "Santa Monica",
+      "address": "THE SEYCHELLE - 1755 Ocean Avenue",
+      "country": "United States",
+      "location": "",
+      "createdAt": "2020-12-12T14:01:36.271Z",
+      "updatedAt": "2020-12-13T03:31:24.950Z",
+      "dataType": "venue"
+    },
+    {
+      "areas": [],
+      "zip": null,
+      "description": null,
+      "time_zone": "US/Eastern",
+      "home_URL": null,
+      "phone": null,
+      "friendly_id": null,
+      "time_zone_offset": -18000,
+      "state": "Oslo",
+      "title": "Ling Ling",
+      "id": 1587,
+      "city": "Oslo",
+      "address": "Stranden 30",
+      "country": "Norway",
+      "location": "",
+      "createdAt": "2020-12-12T14:01:36.362Z",
+      "updatedAt": "2020-12-13T03:31:25.121Z",
+      "dataType": "venue"
+    },
+    {
+      "areas": [],
+      "zip": null,
+      "description": null,
+      "time_zone": "US/Eastern",
+      "home_URL": null,
+      "phone": null,
+      "friendly_id": null,
+      "time_zone_offset": -18000,
+      "state": "Bali",
+      "title": "Sake no Hana",
+      "id": 1588,
+      "city": "Uluwatu",
+      "address": "Jl. Belimbing Sari, Banjar Tambiyak Desa Pecatu",
+      "country": "Indonesia",
+      "location": "",
+      "createdAt": "2020-12-12T14:01:36.513Z",
+      "updatedAt": "2020-12-13T03:31:25.433Z",
+      "dataType": "venue"
+    },
+    {
+      "areas": [
+        {
+          "id": 1825,
+          "title": "Cabana"
+        },
+        {
+          "id": 1836,
+          "title": "Dance Floor"
+        },
+        {
+          "id": 1826,
+          "title": "Daybed"
+        },
+        {
+          "id": 1824,
+          "title": "Bungalow"
+        },
+        {
+          "id": 1835,
+          "title": "Stage"
+        }
+      ],
+      "zip": "89119",
+      "description": "Default GL close: 10AM\n\nSundown Sundays:  15:30",
+      "time_zone": "US/Pacific",
+      "home_URL": "http://daylightvegas.com/",
+      "phone": "(702) 588-5656",
+      "friendly_id": "daylight",
+      "time_zone_offset": -28800,
+      "state": "NV",
+      "title": "Daylight Beach Club",
+      "id": 1551,
+      "city": "Las Vegas",
+      "address": "3950 Las Vegas Blvd S",
+      "country": "United States",
+      "location": "",
+      "createdAt": "2020-12-12T14:01:36.159Z",
+      "updatedAt": "2020-12-13T03:31:24.740Z",
+      "dataType": "venue"
+    },
+    {
+      "areas": [],
+      "zip": "89109",
+      "description": null,
+      "time_zone": "US/Pacific",
+      "home_URL": "http://diabloslasvegas.com/",
+      "phone": null,
+      "friendly_id": "diablos",
+      "time_zone_offset": -28800,
+      "state": "NV",
+      "title": "Diablo's Cantina",
+      "id": 1562,
+      "city": "Las Vegas",
+      "address": "3770 Las Vegas Blvd S",
+      "country": "United States",
+      "location": "",
+      "createdAt": "2020-12-12T14:01:36.168Z",
+      "updatedAt": "2020-12-13T03:31:24.759Z",
+      "dataType": "venue"
+    },
+    {
+      "areas": [],
+      "zip": "89109",
+      "description": null,
+      "time_zone": "US/Pacific",
+      "home_URL": null,
+      "phone": "702-597-7991",
+      "friendly_id": "",
+      "time_zone_offset": -28800,
+      "state": "NV",
+      "title": "Dick's Last Resort",
+      "id": 596,
+      "city": "Las Vegas",
+      "address": "3850 Las Vegas Blvd South",
+      "country": "US",
+      "location": "",
+      "createdAt": "2020-12-12T14:01:36.178Z",
+      "updatedAt": "2020-12-13T03:31:24.777Z",
+      "dataType": "venue"
+    },
+    {
+      "areas": [],
+      "zip": "89109",
+      "description": "at Bellagio",
+      "time_zone": "US/Pacific",
+      "home_URL": "http://fixlasvegas.com/",
+      "phone": "702-693-8400",
+      "friendly_id": "fix",
+      "time_zone_offset": -28800,
+      "state": "NV",
+      "title": "Fix Restaurant & Bar",
+      "id": 1557,
+      "city": "Las Vegas",
+      "address": "3600 Las Vegas Blvd South",
+      "country": "United States",
+      "location": "",
+      "createdAt": "2020-12-12T14:01:36.188Z",
+      "updatedAt": "2020-12-13T03:31:24.793Z",
+      "dataType": "venue"
+    },
+    {
+      "areas": [],
+      "zip": null,
+      "description": null,
+      "time_zone": "US/Eastern",
+      "home_URL": null,
+      "phone": null,
+      "friendly_id": null,
+      "time_zone_offset": -18000,
+      "state": "Jakarta Selatan",
+      "title": "Hakkasan",
+      "id": 1585,
+      "city": "Jakarta",
+      "address": "Alila SCBD",
+      "country": null,
+      "location": "",
+      "createdAt": "2020-12-12T14:01:36.196Z",
+      "updatedAt": "2020-12-13T03:31:24.806Z",
+      "dataType": "venue"
+    },
+    {
+      "areas": [],
+      "zip": null,
+      "description": null,
+      "time_zone": "US/Eastern",
+      "home_URL": null,
+      "phone": null,
+      "friendly_id": null,
+      "time_zone_offset": -18000,
+      "state": "?",
+      "title": "Hakkasan",
+      "id": 1586,
+      "city": "?",
+      "address": "?",
+      "country": "Saudi Arabia",
+      "location": "",
+      "createdAt": "2020-12-12T14:01:36.208Z",
+      "updatedAt": "2020-12-13T03:31:24.837Z",
+      "dataType": "venue"
+    },
+    {
+      "areas": [
+        {
+          "id": 1940,
+          "title": "Gold Bar"
+        },
+        {
+          "id": 1943,
+          "title": "Ultra Lounge"
+        },
+        {
+          "id": 1941,
+          "title": "Hakkasan Rooftop"
+        },
+        {
+          "id": 1939,
+          "title": "Cabanas"
+        },
+        {
+          "id": 1942,
+          "title": "Sunken Bar"
+        }
+      ],
+      "zip": "12190",
+      "description": "Hakkasan Jakarta\nALILA SCBD, LOT 11,\nJL. JEND SUDIRMAN 52-53\nJakarta 12190, Indonesia\nT +62 21 5080 8766\n\n\n",
+      "time_zone": "Asia/Jakarta",
+      "home_URL": "https://hakkasan.com/",
+      "phone": "62-21-5080-8766",
+      "friendly_id": "hkjakartaroof",
+      "time_zone_offset": 25200,
+      "state": "Jakarta",
+      "title": "Hakkasan Jakarta Rooftop",
+      "id": 1595,
+      "city": "Jakarta Selatan",
+      "address": "ALILA SCBD, LOT 11, JL. JEND SUDIRMAN 52-53",
+      "country": "Indonesia",
+      "location": "",
+      "createdAt": "2020-12-12T14:01:36.216Z",
+      "updatedAt": "2020-12-13T03:31:24.853Z",
+      "dataType": "venue"
+    },
+    {
+      "areas": [
+        {
+          "id": 1624,
+          "title": "Mezzanine"
+        },
+        {
+          "id": 1831,
+          "title": "VD PAYMENT"
+        },
+        {
+          "id": 1622,
+          "title": "Main Room"
+        },
+        {
+          "id": 1625,
+          "title": "Level 3 Club"
+        },
+        {
+          "id": 1623,
+          "title": "Pavilion "
+        },
+        {
+          "id": 1683,
+          "title": "Level 3 Lounge"
+        }
+      ],
+      "zip": "89109",
+      "description": "Experience performances from a variety of elite artists as well as top-level dining and entertainment at Hakkasan Nightclub in Las Vegas!",
+      "time_zone": "US/Pacific",
+      "home_URL": "http://hakkasanlv.com/",
+      "phone": "702-212-8804",
+      "friendly_id": "hakkasanlv",
+      "time_zone_offset": -28800,
+      "state": "NV",
+      "title": "Hakkasan Nightclub",
+      "id": 1374,
+      "city": "Las Vegas",
+      "address": "3799 Las Vegas Boulevard South",
+      "country": "US",
+      "location": "",
+      "createdAt": "2020-12-12T14:01:36.228Z",
+      "updatedAt": "2020-12-13T03:31:24.868Z",
+      "dataType": "venue"
+    },
+    {
+      "areas": [],
+      "zip": "96815",
+      "description": null,
+      "time_zone": "US/Hawaii",
+      "home_URL": "http://herringboneeats.com/",
+      "phone": "808-797-2435",
+      "friendly_id": "herringbonehi",
+      "time_zone_offset": -36000,
+      "state": "HI",
+      "title": "Herringbone Waikiki",
+      "id": 1583,
+      "city": "Waikiki",
+      "address": "INTERNATIONAL MARKET PLACE - 2330 Kalakaua Avenue",
+      "country": "United Stetes",
+      "location": "",
+      "createdAt": "2020-12-12T14:01:36.279Z",
+      "updatedAt": "2020-12-13T03:31:24.967Z",
+      "dataType": "venue"
+    },
+    {
+      "areas": [],
+      "zip": "89118",
+      "description": "Venue created for internal HKGroup Staff Events",
+      "time_zone": "US/Pacific",
+      "home_URL": "https://hakkasangroup.com",
+      "phone": "000-000-0000",
+      "friendly_id": "hkginspires",
+      "time_zone_offset": -28800,
+      "state": "NV",
+      "title": "HKGroup Inspires",
+      "id": 1592,
+      "city": "Las Vegas",
+      "address": "6385 S Rainbow Blvd",
+      "country": "USA",
+      "location": "",
+      "createdAt": "2020-12-12T14:01:36.286Z",
+      "updatedAt": "2020-12-13T03:31:24.980Z",
+      "dataType": "venue"
+    },
+    {
+      "areas": [
+        {
+          "id": 1906,
+          "title": "VD PAYMENT"
+        },
+        {
+          "id": 1903,
+          "title": "1st Floor"
+        },
+        {
+          "id": 1905,
+          "title": "Mezzanine"
+        }
+      ],
+      "zip": "89158",
+      "description": "JEWEL Nightclub at ARIA Resort & Casino in Las Vegas is a multi-faceted nightclub with a luxurious, modern experience and world class DJs and performers.",
+      "time_zone": "US/Pacific",
+      "home_URL": "http://jewelnightclub.com",
+      "phone": "702-590-8000",
+      "friendly_id": "jewel",
+      "time_zone_offset": -28800,
+      "state": "NV",
+      "title": "JEWEL Nightclub",
+      "id": 1575,
+      "city": "Las Vegas",
+      "address": "3730 South Las Vegas Boulevard",
+      "country": "United States",
+      "location": "",
+      "createdAt": "2020-12-12T14:01:36.294Z",
+      "updatedAt": "2020-12-13T03:31:24.994Z",
+      "dataType": "venue"
+    },
+    {
+      "areas": [
+        {
+          "id": 1872,
+          "title": "Table"
+        },
+        {
+          "id": 1896,
+          "title": "VD PAYMENT"
+        },
+        {
+          "id": 1871,
+          "title": "Bar"
+        }
+      ],
+      "zip": "89109",
+      "description": "Lily Bar & Lounge is located in the center of the world-class Bellagio Resort & Casino. Offering a refreshing take on the Las Vegas entertainment experience, Lily’s atmosphere is intimate and sophisticated. ",
+      "time_zone": "US/Pacific",
+      "home_URL": "http://www.lilylasvegas.com/",
+      "phone": "702-693-8300",
+      "friendly_id": "lily",
+      "time_zone_offset": -28800,
+      "state": "NV",
+      "title": "Lily Bar & Lounge",
+      "id": 1559,
+      "city": "Las Vegas",
+      "address": "3600 Las Vegas Blvd S",
+      "country": "United States",
+      "location": "",
+      "createdAt": "2020-12-12T14:01:36.353Z",
+      "updatedAt": "2020-12-13T03:31:25.091Z",
+      "dataType": "venue"
+    },
+    {
+      "areas": [],
+      "zip": "9999999",
+      "description": null,
+      "time_zone": "US/Eastern",
+      "home_URL": "https://hakkasangroup.com",
+      "phone": "000-000-0000",
+      "friendly_id": "linglingmxcity",
+      "time_zone_offset": -18000,
+      "state": "MX",
+      "title": "Ling Ling Mexico City",
+      "id": 1593,
+      "city": "Mexico City",
+      "address": "1234 Street name",
+      "country": "Mexico",
+      "location": "",
+      "createdAt": "2020-12-12T14:01:36.368Z",
+      "updatedAt": "2020-12-13T03:31:25.151Z",
+      "dataType": "venue"
+    },
+    {
+      "areas": [
+        {
+          "id": 1860,
+          "title": "Deck Tables"
+        },
+        {
+          "id": 1858,
+          "title": "Cabanas"
+        },
+        {
+          "id": 1861,
+          "title": "Small Couch"
+        },
+        {
+          "id": 1859,
+          "title": "Daybeds"
+        },
+        {
+          "id": 1912,
+          "title": "VD PAYMENT"
+        }
+      ],
+      "zip": "89109",
+      "description": "The ultimate in poolside opulence, Liquid is defined by its distinctive contemporary ambiance and ultra VIP service. ",
+      "time_zone": "US/Pacific",
+      "home_URL": "http://liquidpoollv.com/home",
+      "phone": "(702) 693-8300",
+      "friendly_id": "liquid",
+      "time_zone_offset": -28800,
+      "state": "NV",
+      "title": "Liquid Pool Lounge",
+      "id": 1552,
+      "city": "Las Vegas",
+      "address": "3730 Las Vegas Blvd S",
+      "country": "United States",
+      "location": "",
+      "createdAt": "2020-12-12T14:01:36.376Z",
+      "updatedAt": "2020-12-13T03:31:25.171Z",
+      "dataType": "venue"
+    },
+    {
+      "areas": [],
+      "zip": "89119",
+      "description": "Mandalay Beach - Concert Area",
+      "time_zone": "US/Pacific",
+      "home_URL": "http://www.mandalaybay.com/",
+      "phone": null,
+      "friendly_id": "",
+      "time_zone_offset": -28800,
+      "state": "NV",
+      "title": "Mandalay Beach",
+      "id": 464,
+      "city": "Las Vegas",
+      "address": "3950 Las Vegas Boulevard South",
+      "country": null,
+      "location": "",
+      "createdAt": "2020-12-12T14:01:36.383Z",
+      "updatedAt": "2020-12-13T03:31:25.192Z",
+      "dataType": "venue"
+    },
+    {
+      "areas": [
+        {
+          "id": 518,
+          "title": "Tables 20-45"
+        },
+        {
+          "id": 516,
+          "title": "VIP"
+        },
+        {
+          "id": 519,
+          "title": "Table 50-55"
+        },
+        {
+          "id": 514,
+          "title": "Social Circle"
+        },
+        {
+          "id": 517,
+          "title": "Patio"
+        },
+        {
+          "id": 520,
+          "title": "Tables 59-61"
+        },
+        {
+          "id": 515,
+          "title": "Dancefloor"
+        }
+      ],
+      "zip": "89119",
+      "description": "Mix - Mandalay Bay",
+      "time_zone": "US/Pacific",
+      "home_URL": "http://www.mandalaybay.com/dining/mixlounge.aspx",
+      "phone": "1-877-632-7800",
+      "friendly_id": "",
+      "time_zone_offset": -28800,
+      "state": "NV",
+      "title": "miX",
+      "id": 450,
+      "city": "Las Vegas",
+      "address": "3950 Las Vegas Boulevard South",
+      "country": "US",
+      "location": "",
+      "createdAt": "2020-12-12T14:01:36.398Z",
+      "updatedAt": "2020-12-13T03:31:25.204Z",
+      "dataType": "venue"
+    },
+    {
+      "areas": [
+        {
+          "id": 500,
+          "title": "Living Room"
+        },
+        {
+          "id": 522,
+          "title": "Beach Cabanas"
+        },
+        {
+          "id": 498,
+          "title": "Sky Villa"
+        },
+        {
+          "id": 502,
+          "title": "Opium Beds"
+        },
+        {
+          "id": 499,
+          "title": "Pavillion Cabana"
+        },
+        {
+          "id": 503,
+          "title": "Daybed"
+        },
+        {
+          "id": 497,
+          "title": "Grand Villa"
+        }
+      ],
+      "zip": "89119",
+      "description": "Moorea Beach Club at Mandalay Bay",
+      "time_zone": "US/Pacific",
+      "home_URL": "http://www.mandalaybay.com/thingstodo/mooreabeachclub.aspx",
+      "phone": "1-877-632-7800",
+      "friendly_id": null,
+      "time_zone_offset": -28800,
+      "state": "NV",
+      "title": "Moorea Beach Club",
+      "id": 449,
+      "city": "Las Vegas",
+      "address": "3950 Las Vegas Boulevard South",
+      "country": "US",
+      "location": "",
+      "createdAt": "2020-12-12T14:01:36.409Z",
+      "updatedAt": "2020-12-13T03:31:25.229Z",
+      "dataType": "venue"
+    },
+    {
+      "areas": [
+        {
+          "id": 1947,
+          "title": "Ocean View Edge Sofa"
+        },
+        {
+          "id": 1919,
+          "title": "Main Deck Sofa"
+        },
+        {
+          "id": 1950,
+          "title": "The Cube Daybeds"
+        },
+        {
+          "id": 1932,
+          "title": "Grand Staircase"
+        },
+        {
+          "id": 1913,
+          "title": "Bungalow Large"
+        },
+        {
+          "id": 1945,
+          "title": "Cabana Small"
+        },
+        {
+          "id": 1917,
+          "title": "Lounge Table"
+        },
+        {
+          "id": 1948,
+          "title": "The Cube Long Tables"
+        },
+        {
+          "id": 1920,
+          "title": "The Cube High Tables"
+        },
+        {
+          "id": 1951,
+          "title": "Cliff Deck Sofa"
+        },
+        {
+          "id": 1933,
+          "title": "Mezzanine"
+        },
+        {
+          "id": 1914,
+          "title": "Cabana Large"
+        },
+        {
+          "id": 1946,
+          "title": "Dancefloor Sofa"
+        },
+        {
+          "id": 1918,
+          "title": "Daybed"
+        },
+        {
+          "id": 1949,
+          "title": "The Cube Sofas"
+        },
+        {
+          "id": 1921,
+          "title": "Pool Bar Table"
+        },
+        {
+          "id": 1944,
+          "title": "Bungalow Small"
+        },
+        {
+          "id": 1916,
+          "title": "DJ Sofa"
+        }
+      ],
+      "zip": "80364",
+      "description": "ADDRESS:\nOMNIA BALI\nAlila Villas\nJl. Belimbing Sari\nBanjar Tambiyak, Desa Pecatu\nUluwatu, Bali 80364\nIndonesia\n\nTime Zone\nWITA (Central Indonesian Time)\nUTC/GMT +8 hours\n\n+15 hours ahead of Las Vegas\n+12 hours ahead of Miami/Montreal",
+      "time_zone": "Asia/Makassar",
+      "home_URL": "http://omniabali.com",
+      "phone": "702-212-8804",
+      "friendly_id": "omniabali",
+      "time_zone_offset": 28800,
+      "state": "Uluwatu",
+      "title": "OMNIA Bali",
+      "id": 1577,
+      "city": "Bali",
+      "address": "Alila Villas / Jl. Belimbing Sari",
+      "country": "Indonesia",
+      "location": "",
+      "createdAt": "2020-12-12T14:01:36.422Z",
+      "updatedAt": "2020-12-13T03:31:25.242Z",
+      "dataType": "venue"
+    },
+    {
+      "areas": [],
+      "zip": "12190",
+      "description": "OMNIA JAKARTA\nAlila SCBD Hotel\nLot 11 of Sudirman Central Business District\nJakarta Selatan\nJakarta, Indonesia\n\nTIME ZONE: UTC+07:00\n\nST's NOTE- Jakarta Selatan = South Jakarta",
+      "time_zone": "Asia/Jakarta",
+      "home_URL": "http://omnianightclub.com",
+      "phone": "702-212-8804",
+      "friendly_id": "omniajakarta",
+      "time_zone_offset": 25200,
+      "state": "Jakarta",
+      "title": "OMNIA Jakarta",
+      "id": 1578,
+      "city": "Jakarta Selatan",
+      "address": "Alila SCBD Hotel - Lot 11 of Sudirman Central Business District",
+      "country": "Indonesia",
+      "location": "",
+      "createdAt": "2020-12-12T14:01:36.429Z",
+      "updatedAt": "2020-12-13T03:31:25.270Z",
+      "dataType": "venue"
+    },
+    {
+      "areas": [
+        {
+          "id": 1793,
+          "title": "Heart of OMNIA"
+        },
+        {
+          "id": 1833,
+          "title": "VD PAYMENT"
+        },
+        {
+          "id": 1794,
+          "title": "Balcony"
+        },
+        {
+          "id": 1792,
+          "title": "Main Club"
+        },
+        {
+          "id": 1795,
+          "title": "Terrace"
+        }
+      ],
+      "zip": "89109 ",
+      "description": "The best interactive nightlife venue experience by global hospitality company, Hakkasan Group. Located inside Caesars Palace in Las Vegas.",
+      "time_zone": "US/Pacific",
+      "home_URL": "http://omnianightclub.com",
+      "phone": "702-212-8804",
+      "friendly_id": "omnialv",
+      "time_zone_offset": -28800,
+      "state": "NV",
+      "title": "OMNIA Las Vegas",
+      "id": 1544,
+      "city": "Las Vegas",
+      "address": "3570 Las Vegas Boulevard South",
+      "country": "USA",
+      "location": "",
+      "createdAt": "2020-12-12T14:01:36.435Z",
+      "updatedAt": "2020-12-13T03:31:25.298Z",
+      "dataType": "venue"
+    },
+    {
+      "areas": [
+        {
+          "id": 1926,
+          "title": "Cabana"
+        },
+        {
+          "id": 1929,
+          "title": "Lounge Table"
+        },
+        {
+          "id": 1924,
+          "title": "Pool Deck Table"
+        },
+        {
+          "id": 1927,
+          "title": "Villa"
+        },
+        {
+          "id": 1925,
+          "title": "Daybed (Beach)"
+        },
+        {
+          "id": 1928,
+          "title": "Daybed (Hanging)"
+        },
+        {
+          "id": 1923,
+          "title": "Daybed"
+        }
+      ],
+      "zip": "23406",
+      "description": "Vidanta Los Cabos\nPaseo Malecon San Jose S/N Lote 12, Campo de Golf Fonatur, \n23406 San José del Cabo, Baja California Sur\n\nLatitude: 23.0534\nLongitude: -109.6942",
+      "time_zone": "Mexico/BajaSur",
+      "home_URL": "https://omnialoscabos.com/",
+      "phone": "000-000-0000",
+      "friendly_id": "omnialoscabos",
+      "time_zone_offset": -25200,
+      "state": "Baja California Sur",
+      "title": "OMNIA Los Cabos",
+      "id": 1584,
+      "city": "San José del Cabo",
+      "address": "Vidanta Los Cabos - Paseo Malecon San Jose S/N Lote 12, Campo de Golf Fonatur",
+      "country": "Mexico",
+      "location": "",
+      "createdAt": "2020-12-12T14:01:36.446Z",
+      "updatedAt": "2020-12-13T03:31:25.313Z",
+      "dataType": "venue"
+    },
+    {
+      "areas": [
+        {
+          "id": 1823,
+          "title": "Main Club"
+        },
+        {
+          "id": 1821,
+          "title": "Terrace"
+        },
+        {
+          "id": 1874,
+          "title": "VD PAYMENT"
+        },
+        {
+          "id": 1822,
+          "title": "Balcony"
+        }
+      ],
+      "zip": "92101",
+      "description": "Omnia San Diego at Gaslamp Quarter \n- created by ST\n\nDefault GL CLOSE:  9:00PM",
+      "time_zone": "US/Pacific",
+      "home_URL": "http://omnianightclub.com",
+      "phone": "866-760-0007",
+      "friendly_id": "omniasd",
+      "time_zone_offset": -28800,
+      "state": "CA",
+      "title": "OMNIA San Diego",
+      "id": 1548,
+      "city": "San Diego",
+      "address": "454 6th Avenue",
+      "country": "United States",
+      "location": "",
+      "createdAt": "2020-12-12T14:01:36.456Z",
+      "updatedAt": "2020-12-13T03:31:25.346Z",
+      "dataType": "venue"
+    },
+    {
+      "areas": [
+        {
+          "id": 247,
+          "title": "White Room"
+        },
+        {
+          "id": 250,
+          "title": "LOUNGE"
+        },
+        {
+          "id": 1786,
+          "title": "SPORTS Lounge"
+        },
+        {
+          "id": 248,
+          "title": "Red Room"
+        },
+        {
+          "id": 251,
+          "title": "Terrace"
+        },
+        {
+          "id": 249,
+          "title": "Owner's Room"
+        },
+        {
+          "id": 1304,
+          "title": "Ticket Sale"
+        }
+      ],
+      "zip": "89109",
+      "description": "Pure at Caesars Palace.",
+      "time_zone": "US/Pacific",
+      "home_URL": "http://www.angelmg.com",
+      "phone": "702-731-7873",
+      "friendly_id": "pure",
+      "time_zone_offset": -28800,
+      "state": "NV",
+      "title": "Pure",
+      "id": 158,
+      "city": "Las Vegas",
+      "address": "3570 Las Vegas Boulevard",
+      "country": "USA",
+      "location": "",
+      "createdAt": "2020-12-12T14:01:36.466Z",
+      "updatedAt": "2020-12-13T03:31:25.362Z",
+      "dataType": "venue"
+    },
+    {
+      "areas": [],
+      "zip": "89109",
+      "description": "at Mandalay Bay",
+      "time_zone": "US/Pacific",
+      "home_URL": "http://redsquarelasvegas.com",
+      "phone": "702-632-7407",
+      "friendly_id": "redsquarelv",
+      "time_zone_offset": -28800,
+      "state": "NV",
+      "title": "Red Square Restaurant & Vodka Lounge",
+      "id": 1568,
+      "city": "Las Vegas",
+      "address": "3950 Las Vegas Boulevard South",
+      "country": "United States",
+      "location": "",
+      "createdAt": "2020-12-12T14:01:36.472Z",
+      "updatedAt": "2020-12-13T03:31:25.373Z",
+      "dataType": "venue"
+    },
+    {
+      "areas": [
+        {
+          "id": 537,
+          "title": "Bikini Beach"
+        },
+        {
+          "id": 593,
+          "title": "Chairs"
+        },
+        {
+          "id": 531,
+          "title": "Ocean Drive"
+        },
+        {
+          "id": 550,
+          "title": "Grotto beach"
+        },
+        {
+          "id": 535,
+          "title": "Boardwalk"
+        },
+        {
+          "id": 587,
+          "title": "Skybar Upper beds "
+        },
+        {
+          "id": 539,
+          "title": "Daybed Deck"
+        },
+        {
+          "id": 594,
+          "title": "Stage"
+        },
+        {
+          "id": 532,
+          "title": "Rodeo"
+        },
+        {
+          "id": 585,
+          "title": "Skybar Cabanas"
+        },
+        {
+          "id": 536,
+          "title": "River"
+        },
+        {
+          "id": 588,
+          "title": "Skybar Couches"
+        },
+        {
+          "id": 549,
+          "title": "South Side"
+        },
+        {
+          "id": 534,
+          "title": "Strip"
+        },
+        {
+          "id": 586,
+          "title": "Skybar Daybeds"
+        }
+      ],
+      "zip": "89169",
+      "description": "Rehab at the Hard Rock",
+      "time_zone": "US/Pacific",
+      "home_URL": "http://www.rehablv.com/",
+      "phone": "702-693-5555",
+      "friendly_id": null,
+      "time_zone_offset": -28800,
+      "state": "NV",
+      "title": "Rehab Pool",
+      "id": 505,
+      "city": "Las Vegas",
+      "address": "4455 Paradise Road",
+      "country": "US",
+      "location": "",
+      "createdAt": "2020-12-12T14:01:36.480Z",
+      "updatedAt": "2020-12-13T03:31:25.383Z",
+      "dataType": "venue"
+    },
+    {
+      "areas": [
+        {
+          "id": 1305,
+          "title": "Ticket Sale"
+        },
+        {
+          "id": 284,
+          "title": "Main Room"
+        },
+        {
+          "id": 285,
+          "title": "Patio"
+        }
+      ],
+      "zip": "89109",
+      "description": null,
+      "time_zone": "US/Pacific",
+      "home_URL": "http://www.rokvegasnightclub.com",
+      "phone": "702-740-6765",
+      "friendly_id": "",
+      "time_zone_offset": -28800,
+      "state": "NV",
+      "title": "ROK Vegas",
+      "id": 181,
+      "city": "Las Vegas",
+      "address": "3790 Las Vegas Boulevard South",
+      "country": "USA",
+      "location": "",
+      "createdAt": "2020-12-12T14:01:36.505Z",
+      "updatedAt": "2020-12-13T03:31:25.423Z",
+      "dataType": "venue"
+    },
+    {
+      "areas": [
+        {
+          "id": 819,
+          "title": "Tables"
+        }
+      ],
+      "zip": "89169",
+      "description": null,
+      "time_zone": "US/Pacific",
+      "home_URL": null,
+      "phone": "702-262-4529",
+      "friendly_id": null,
+      "time_zone_offset": -28800,
+      "state": "NV",
+      "title": "Savile Row",
+      "id": 595,
+      "city": "Las Vegas",
+      "address": "3900 Las Vegas Boulevard South",
+      "country": "US",
+      "location": "",
+      "createdAt": "2020-12-12T14:01:36.534Z",
+      "updatedAt": "2020-12-13T03:31:25.461Z",
+      "dataType": "venue"
+    },
+    {
+      "areas": [],
+      "zip": "92130",
+      "description": "Del Mar Highlands Town Center",
+      "time_zone": "US/Pacific",
+      "home_URL": "http://searsucker.com",
+      "phone": "858-369-5700",
+      "friendly_id": "searsuckerdm",
+      "time_zone_offset": -28800,
+      "state": "CA",
+      "title": "Searsucker Del Mar",
+      "id": 1567,
+      "city": "Del Mar",
+      "address": "12995 El Camino Real STE #121",
+      "country": "United States",
+      "location": "",
+      "createdAt": "2020-12-12T14:01:36.540Z",
+      "updatedAt": "2020-12-13T03:31:25.477Z",
+      "dataType": "venue"
+    },
+    {
+      "areas": [
+        {
+          "id": 1904,
+          "title": "VD PAYMENT"
+        },
+        {
+          "id": 1931,
+          "title": "Viewing"
+        }
+      ],
+      "zip": "89109",
+      "description": "at Caesars Palace",
+      "time_zone": "US/Pacific",
+      "home_URL": "http://searsucker.com/las-vegas/",
+      "phone": "702-886-1800",
+      "friendly_id": "searsuckerlv",
+      "time_zone_offset": -28800,
+      "state": "NV",
+      "title": "Searsucker Las Vegas",
+      "id": 1570,
+      "city": "Las Vegas",
+      "address": "3570 South Las Vegas Boulevard",
+      "country": "United States",
+      "location": "",
+      "createdAt": "2020-12-12T14:01:36.547Z",
+      "updatedAt": "2020-12-13T03:31:25.487Z",
+      "dataType": "venue"
+    },
+    {
+      "areas": [],
+      "zip": "89158",
+      "description": null,
+      "time_zone": "US/Pacific",
+      "home_URL": null,
+      "phone": null,
+      "friendly_id": "soch",
+      "time_zone_offset": -28800,
+      "state": "Nevada",
+      "title": "Social House",
+      "id": 1320,
+      "city": "Las Vegas",
+      "address": "3720 Las Vegas Blvd. S. #241",
+      "country": null,
+      "location": "",
+      "createdAt": "2020-12-12T14:01:36.555Z",
+      "updatedAt": "2020-12-13T03:31:25.501Z",
+      "dataType": "venue"
+    },
+    {
+      "areas": [],
+      "zip": "89113-1319",
+      "description": "HKGroup 2020 Golf Tournament May 6, 2020",
+      "time_zone": "US/Pacific",
+      "home_URL": "https://hakkasangroup.com",
+      "phone": "702-212-8804",
+      "friendly_id": "spanishtrail",
+      "time_zone_offset": -28800,
+      "state": "NV",
+      "title": "Spanish Trail Golf Course",
+      "id": 1598,
+      "city": "Las Vegas",
+      "address": "5050 Spanish Trail Ln",
+      "country": "United States",
+      "location": "",
+      "createdAt": "2020-12-12T14:01:36.563Z",
+      "updatedAt": "2020-12-13T03:31:25.512Z",
+      "dataType": "venue"
+    },
+    {
+      "areas": [],
+      "zip": "89109",
+      "description": "at Mirage",
+      "time_zone": "US/Pacific",
+      "home_URL": "http://stacklasvegas.com/",
+      "phone": "702-792-7800",
+      "friendly_id": "stacklv",
+      "time_zone_offset": -28800,
+      "state": "NV",
+      "title": "Stack Restaurant & Bar",
+      "id": 1558,
+      "city": "Las Vegas",
+      "address": "3400 Las Vegas Blvd South",
+      "country": "United States",
+      "location": "",
+      "createdAt": "2020-12-12T14:01:36.574Z",
+      "updatedAt": "2020-12-13T03:31:25.523Z",
+      "dataType": "venue"
+    },
+    {
+      "areas": [
+        {
+          "id": 257,
+          "title": "Front"
+        },
+        {
+          "id": 54,
+          "title": "Party Crasher"
+        },
+        {
+          "id": 57,
+          "title": "VIP (right)"
+        },
+        {
+          "id": 258,
+          "title": "Dance Floor"
+        },
+        {
+          "id": 52,
+          "title": "Booth 1"
+        },
+        {
+          "id": 55,
+          "title": "Booth 2"
+        },
+        {
+          "id": 58,
+          "title": "Cage"
+        },
+        {
+          "id": 53,
+          "title": "Skyboxes"
+        },
+        {
+          "id": 56,
+          "title": "VIP (left)"
+        }
+      ],
+      "zip": "81901",
+      "description": null,
+      "time_zone": "US/Pacific",
+      "home_URL": "http://www.mgmgrand.com/",
+      "phone": "702-425-9399",
+      "friendly_id": "",
+      "time_zone_offset": -28800,
+      "state": "NV",
+      "title": "Studio 54",
+      "id": 35,
+      "city": "Las Vegas",
+      "address": "3900 Las Vegas Boulevard South",
+      "country": "USA",
+      "location": "",
+      "createdAt": "2020-12-12T14:01:36.582Z",
+      "updatedAt": "2020-12-13T03:31:25.536Z",
+      "dataType": "venue"
+    },
+    {
+      "areas": [
+        {
+          "id": 13,
+          "title": "Tantra Room"
+        },
+        {
+          "id": 11,
+          "title": "Chakra Room"
+        },
+        {
+          "id": 1306,
+          "title": "Website"
+        },
+        {
+          "id": 12,
+          "title": "Knotty Room"
+        },
+        {
+          "id": 10,
+          "title": "Kama Sutra Room"
+        }
+      ],
+      "zip": "89109",
+      "description": null,
+      "time_zone": "US/Pacific",
+      "home_URL": "http://www.mgmgrand.com/",
+      "phone": "702-891-7183",
+      "friendly_id": "",
+      "time_zone_offset": -28800,
+      "state": "NV",
+      "title": "Tabú Ultra Lounge",
+      "id": 1,
+      "city": "Las Vegas",
+      "address": "3799 Las Vegas Boulevard South",
+      "country": "USA",
+      "location": "",
+      "createdAt": "2020-12-12T14:01:36.592Z",
+      "updatedAt": "2020-12-13T03:31:25.561Z",
+      "dataType": "venue"
+    },
+    {
+      "areas": [
+        {
+          "id": 1852,
+          "title": "All"
+        },
+        {
+          "id": 1899,
+          "title": "VD PAYMENT"
+        }
+      ],
+      "zip": "89109",
+      "description": null,
+      "time_zone": "US/Pacific",
+      "home_URL": "http://thebanklasvegas.com/home",
+      "phone": "(702) 693-8300",
+      "friendly_id": "thebanklv",
+      "time_zone_offset": -28800,
+      "state": "NV",
+      "title": "The Bank Nightclub",
+      "id": 1556,
+      "city": "Las Vegas",
+      "address": "3600 Las Vegas Blvd S",
+      "country": "United States",
+      "location": "",
+      "createdAt": "2020-12-12T14:01:36.608Z",
+      "updatedAt": "2020-12-13T03:31:25.578Z",
+      "dataType": "venue"
+    },
+    {
+      "areas": [
+        {
+          "id": 1875,
+          "title": "VIP Booth1"
+        },
+        {
+          "id": 1878,
+          "title": "VIP Booth4"
+        },
+        {
+          "id": 1876,
+          "title": "VIP Booth2"
+        },
+        {
+          "id": 1879,
+          "title": "VIP Booth5"
+        },
+        {
+          "id": 1877,
+          "title": "VIP Booth3"
+        },
+        {
+          "id": 1880,
+          "title": "VIP Booth6"
+        }
+      ],
+      "zip": "89109",
+      "description": null,
+      "time_zone": "US/Pacific",
+      "home_URL": "http://revolutionvegas.com/",
+      "phone": "702-693-8300",
+      "friendly_id": "revolution",
+      "time_zone_offset": -28800,
+      "state": "NV",
+      "title": "The Beatles Revolution Lounge",
+      "id": 1561,
+      "city": "Las Vegas",
+      "address": "3400 Las Vegas Blvd S",
+      "country": "United States",
+      "location": "",
+      "createdAt": "2020-12-12T14:01:36.619Z",
+      "updatedAt": "2020-12-13T03:31:25.602Z",
+      "dataType": "venue"
+    },
+    {
+      "areas": [],
+      "zip": "89109",
+      "description": null,
+      "time_zone": "US/Pacific",
+      "home_URL": "http://deuceloungelasvegas.com/",
+      "phone": null,
+      "friendly_id": "deuce",
+      "time_zone_offset": -28800,
+      "state": "NV",
+      "title": "The Deuce Lounge",
+      "id": 1564,
+      "city": "Las Vegas",
+      "address": "3730 Las Vegas Blvd S",
+      "country": "United States",
+      "location": "",
+      "createdAt": "2020-12-12T14:01:36.630Z",
+      "updatedAt": "2020-12-13T03:31:25.621Z",
+      "dataType": "venue"
+    },
+    {
+      "areas": [],
+      "zip": "89169",
+      "description": "The Joint - Tiësto",
+      "time_zone": "US/Pacific",
+      "home_URL": "http://tiesto.com/",
+      "phone": "702-469-6295",
+      "friendly_id": "",
+      "time_zone_offset": -28800,
+      "state": "NV",
+      "title": "The Joint",
+      "id": 588,
+      "city": "Las Vegas",
+      "address": "4455 Paradise Road",
+      "country": "US",
+      "location": "",
+      "createdAt": "2020-12-12T14:01:36.644Z",
+      "updatedAt": "2020-12-13T03:31:25.644Z",
+      "dataType": "venue"
+    },
+    {
+      "areas": [],
+      "zip": "89109",
+      "description": "The Joint - FMIF",
+      "time_zone": "US/Pacific",
+      "home_URL": "http://angelmanagementgroup.com/",
+      "phone": null,
+      "friendly_id": "",
+      "time_zone_offset": -28800,
+      "state": "NV",
+      "title": "The Joint.",
+      "id": 797,
+      "city": "Las Vegas",
+      "address": "4455 Paradise Road",
+      "country": "US",
+      "location": "",
+      "createdAt": "2020-12-12T14:01:36.653Z",
+      "updatedAt": "2020-12-13T03:31:25.681Z",
+      "dataType": "venue"
+    },
+    {
+      "areas": [
+        {
+          "id": 643,
+          "title": "70s"
+        },
+        {
+          "id": 638,
+          "title": "20s"
+        },
+        {
+          "id": 641,
+          "title": "50s"
+        },
+        {
+          "id": 639,
+          "title": "30s"
+        },
+        {
+          "id": 642,
+          "title": "60s"
+        },
+        {
+          "id": 637,
+          "title": "Lounge"
+        },
+        {
+          "id": 640,
+          "title": "40s"
+        }
+      ],
+      "zip": "89169",
+      "description": "Vanity at the Hard Rock",
+      "time_zone": "US/Pacific",
+      "home_URL": "http://www.vanitylv.com/",
+      "phone": "800-693-ROCK",
+      "friendly_id": null,
+      "time_zone_offset": -28800,
+      "state": "NV",
+      "title": "Vanity",
+      "id": 475,
+      "city": "Las Vegas",
+      "address": "4455 Paradise Road",
+      "country": "US",
+      "location": "",
+      "createdAt": "2020-12-12T14:01:36.661Z",
+      "updatedAt": "2020-12-13T03:31:25.701Z",
+      "dataType": "venue"
+    },
+    {
+      "areas": [
+        {
+          "id": 1361,
+          "title": "Chair Vip"
+        },
+        {
+          "id": 1359,
+          "title": "Daybed Vip"
+        },
+        {
+          "id": 1357,
+          "title": "Cabana VIP"
+        },
+        {
+          "id": 1360,
+          "title": "Pool Bed Vip"
+        },
+        {
+          "id": 1358,
+          "title": "Couch Vip"
+        }
+      ],
+      "zip": "89109",
+      "description": null,
+      "time_zone": "US/Pacific",
+      "home_URL": null,
+      "phone": "702-650-5944",
+      "friendly_id": "venus",
+      "time_zone_offset": -28800,
+      "state": "NV",
+      "title": "Venus Pool Club",
+      "id": 599,
+      "city": "Las Vegas",
+      "address": "3570 South Las Vegas Boulevard",
+      "country": "US",
+      "location": "",
+      "createdAt": "2020-12-12T14:01:36.677Z",
+      "updatedAt": "2020-12-13T03:31:25.762Z",
+      "dataType": "venue"
+    },
+    {
+      "areas": [],
+      "zip": null,
+      "description": null,
+      "time_zone": "US/Eastern",
+      "home_URL": null,
+      "phone": null,
+      "friendly_id": null,
+      "time_zone_offset": -18000,
+      "state": "Baja California Sur",
+      "title": "Vidanta",
+      "id": 1590,
+      "city": "San José del Cabo",
+      "address": "Boulevard San José s/n, Lote 12, Campo de Golf",
+      "country": "Mexico",
+      "location": "",
+      "createdAt": "2020-12-12T14:01:36.687Z",
+      "updatedAt": "2020-12-13T03:31:25.789Z",
+      "dataType": "venue"
+    },
+    {
+      "areas": [
+        {
+          "id": 1873,
+          "title": "Main Lounge"
+        },
+        {
+          "id": 1898,
+          "title": "VD PAYMENT"
+        }
+      ],
+      "zip": "89109",
+      "description": "at Caesars Palace",
+      "time_zone": "US/Pacific",
+      "home_URL": "http://vistaloungelv.com",
+      "phone": "702-731-7852",
+      "friendly_id": "vistaloungelv",
+      "time_zone_offset": -28800,
+      "state": "NV",
+      "title": "VISTA Cocktail Lounge",
+      "id": 1565,
+      "city": "Las Vegas",
+      "address": "3570 Las Vegas Boulevard S",
+      "country": "United States",
+      "location": "",
+      "createdAt": "2020-12-12T14:01:36.696Z",
+      "updatedAt": "2020-12-13T03:31:25.805Z",
+      "dataType": "venue"
+    },
+    {
+      "areas": [
+        {
+          "id": 323,
+          "title": "Dance Floor Table"
+        },
+        {
+          "id": 1307,
+          "title": "Website"
+        },
+        {
+          "id": 4,
+          "title": "Lounge Table"
+        },
+        {
+          "id": 935,
+          "title": "Dance Deck"
+        },
+        {
+          "id": 1834,
+          "title": "VD PAYMENT"
+        },
+        {
+          "id": 1,
+          "title": "Daybed"
+        },
+        {
+          "id": 5,
+          "title": "Bungalow"
+        },
+        {
+          "id": 1171,
+          "title": " DJ Table"
+        },
+        {
+          "id": 1952,
+          "title": "Cabana"
+        },
+        {
+          "id": 3,
+          "title": "Deluxe Cabana"
+        }
+      ],
+      "zip": "89109",
+      "description": "An alluring 54500-square-foot venue comprised of large saltwater pools, intimate dipping pools, daybeds, banquets, tricked-out bungalows and cabanas.\n",
+      "time_zone": "US/Pacific",
+      "home_URL": "http://www.wetrepublic.com/",
+      "phone": "702.891.1111",
+      "friendly_id": "wetrepublic",
+      "time_zone_offset": -28800,
+      "state": "NV",
+      "title": "Wet Republic",
+      "id": 36,
+      "city": "Las Vegas",
+      "address": "3799 Las Vegas Boulevard South",
+      "country": "USA",
+      "location": "",
+      "createdAt": "2020-12-12T14:01:36.705Z",
+      "updatedAt": "2020-12-13T03:31:25.814Z",
+      "dataType": "venue"
+    },
+    {
+      "areas": [
+        {
+          "id": 715,
+          "title": "Main VIP"
+        }
+      ],
+      "zip": "89169",
+      "description": "XOXO",
+      "time_zone": "US/Pacific",
+      "home_URL": null,
+      "phone": null,
+      "friendly_id": "",
+      "time_zone_offset": -28800,
+      "state": "NV",
+      "title": "XOXO",
+      "id": 594,
+      "city": "Las Vegas",
+      "address": "4455 Paradise Road",
+      "country": "US",
+      "location": "",
+      "createdAt": "2020-12-12T14:01:36.712Z",
+      "updatedAt": "2020-12-13T03:31:25.827Z",
+      "dataType": "venue"
+    },
+    {
+      "areas": [],
+      "zip": "77056",
+      "description": "Restaurant",
+      "time_zone": "US/Central",
+      "home_URL": "https://www.yauatcha.com/houston/",
+      "phone": "713-357-7588",
+      "friendly_id": "yauatchahouston",
+      "time_zone_offset": -21600,
+      "state": "TX",
+      "title": "Yauatcha Houston",
+      "id": 1597,
+      "city": "Houston",
+      "address": "The Galleria - 5045 Westheimer Road",
+      "country": "United States",
+      "location": "",
+      "createdAt": "2020-12-12T14:01:36.724Z",
+      "updatedAt": "2020-12-13T03:31:25.845Z",
+      "dataType": "venue"
+    },
+    {
+      "areas": [],
+      "zip": "999999",
+      "description": null,
+      "time_zone": "Asia/Riyadh",
+      "home_URL": "https://hakkasangroup.com",
+      "phone": "000-000-0000",
+      "friendly_id": "yauatchariyadh",
+      "time_zone_offset": 10800,
+      "state": "SA",
+      "title": "Yauatcha Riyadh",
+      "id": 1594,
+      "city": "Riyadh",
+      "address": "1234 Street name",
+      "country": "Saudi Arabia",
+      "location": "",
+      "createdAt": "2020-12-12T14:01:36.733Z",
+      "updatedAt": "2020-12-13T03:31:25.857Z",
+      "dataType": "venue"
+    },
+    {
+      "areas": [],
+      "zip": null,
+      "description": null,
+      "time_zone": "US/Eastern",
+      "home_URL": null,
+      "phone": null,
+      "friendly_id": null,
+      "time_zone_offset": -18000,
+      "state": "?",
+      "title": "Yauatcha Saudi Arabia",
+      "id": 1591,
+      "city": "?",
+      "address": "?",
+      "country": "Saudi Arabia",
+      "location": "",
+      "createdAt": "2020-12-12T14:01:36.745Z",
+      "updatedAt": "2020-12-13T03:31:25.878Z",
+      "dataType": "venue"
+    },
+    {
+      "areas": [],
+      "zip": "89109",
+      "description": "at Bellagio",
+      "time_zone": "US/Pacific",
+      "home_URL": "http://yellowtaillasvegas.com/",
+      "phone": "702-730-3900",
+      "friendly_id": "yellowtail",
+      "time_zone_offset": -28800,
+      "state": "NV",
+      "title": "Yellowtail Restaurant & Lounge",
+      "id": 1572,
+      "city": "Las Vegas",
+      "address": "3600 Las Vegas Boulevard South",
+      "country": "United States",
+      "location": "",
+      "createdAt": "2020-12-12T14:01:36.753Z",
+      "updatedAt": "2020-12-13T03:31:25.888Z",
+      "dataType": "venue"
+    }
+  ],
+  "dataType": "venue"
+}
