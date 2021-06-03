@@ -2,6 +2,11 @@ module.exports = {
   roots: ['<rootDir>'],
   moduleFileExtensions: ['ts', 'tsx', 'js', 'json', 'jsx'],
   testPathIgnorePatterns: ['<rootDir>/.next/', '<rootDir>/node_modules/'],
+  collectCoverageFrom: [
+    '<rootDir>/components/**/*',
+    '<rootDir>/hooks/*',
+    '<rootDir>/lib/*',
+  ],
   transformIgnorePatterns: ['[/\\\\]node_modules[/\\\\].+\\.(ts|tsx)$'],
   transform: {
     '^.+\\.(ts|tsx)$': 'babel-jest',
@@ -13,6 +18,7 @@ module.exports = {
     '^hooks(.*)$': '<rootDir>/hooks$1',
     '^lib(.*)$': '<rootDir>/lib$1',
     '^pages(.*)$': '<rootDir>/pages$1',
+    '^test(.*)$': '<rootDir>/test$1',
     '\\.(gif|ttf|eot|svg|png)$': '<rootDir>/test/__mocks__/fileMock.js',
   },
 };

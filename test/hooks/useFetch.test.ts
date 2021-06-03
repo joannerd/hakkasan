@@ -1,4 +1,5 @@
 import { renderHook, act } from '@testing-library/react-hooks';
+import { generateMockFetch } from 'test/testUtils';
 import { useFetch } from 'hooks';
 import artists from 'data/artists.json';
 import events from 'data/events.json';
@@ -13,25 +14,10 @@ describe('useFetch(endpoint)', () => {
       events,
       venues,
     };
-    global.fetch = () =>
-      Promise.resolve({
-        ok: true,
-        status: 200,
-        redirected: false,
-        statusText: undefined,
-        headers: undefined,
-        trailer: undefined,
-        type: undefined,
-        url: undefined,
-        clone: undefined,
-        body: undefined,
-        bodyUsed: undefined,
-        arrayBuffer: undefined,
-        blob: undefined,
-        formData: undefined,
-        text: () => Promise.resolve(''),
-        json: () => Promise.resolve(expected),
-      });
+
+    global.fetch = generateMockFetch({
+      json: () => Promise.resolve(expected),
+    });
 
     const { result } = renderHook(() => useFetch<HakkasanResponse>(endpoint));
 
@@ -40,5 +26,22 @@ describe('useFetch(endpoint)', () => {
     });
 
     expect(result.current.data).toEqual(expected);
+  });
+
+  test('should set errors', async () => {
+    const endpoint = '/api/hakkasan?ref=events';
+    const expectedError = 'response.json is not a function';
+
+    global.fetch = generateMockFetch({
+      json: undefined,
+    });
+
+    const { result } = renderHook(() => useFetch<HakkasanResponse>(endpoint));
+
+    await act(async () => {
+      await result.current.fetchData();
+    });
+
+    expect(result.current.error).toEqual(expectedError);
   });
 });
