@@ -1,3 +1,3 @@
-const delay = (ms: number): Promise<void> => new Promise((resolve) => setTimeout(resolve, ms));
+/* eslint-disable import/prefer-default-export */
 
-export default delay;
+export const delay = (ms: number): Promise<void> => new Promise((resolve) => setTimeout(resolve, ms));

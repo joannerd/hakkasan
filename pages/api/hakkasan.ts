@@ -18,7 +18,7 @@ const handler = async (
     case 'GET': {
       try {
         if (process.env.NODE_ENV !== 'production') {
-          delay(2000);
+          await delay(2000);
           res.status(200).send({
             artists,
             events,
