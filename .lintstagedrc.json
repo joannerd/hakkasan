@@ -1,4 +1,4 @@
 {
   "**/*.{js,ts,jsx,tsx}": ["yarn check:all"],
-  "data/*.json": ["prettier --write data"]
+  "*.json": ["prettier --write data"]
 }

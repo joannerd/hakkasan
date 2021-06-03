@@ -3,7 +3,7 @@ import { useFetch } from '../lib/hooks';
 import type { HakkasanResponse } from '../lib/hakkasan';
 
 const Home = (): JSX.Element => {
-  const { data, error, isLoading } = useFetch<HakkasanResponse>(
+  const { data, isLoading } = useFetch<HakkasanResponse>(
     '/api/hakkasan?ref=events'
   );
   console.log('data', data);
