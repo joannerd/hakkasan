@@ -72,9 +72,20 @@ export interface HakkasanResponse {
   venues: Response<Venue>;
 }
 
-export type HakkasanByRefResponse = Response<Artist> | Response<Event> | Response<Venue>;
+export type HakkasanByRefResponse =
+  | Response<Artist>
+  | Response<Event>
+  | Response<Venue>;
 
-export const parseHakkasanData = async <T>(text: string): Promise<Response<T>> => {
+export const VALID_HAKKSAN_REFS = {
+  artists: 'artists',
+  events: 'events',
+  venues: 'venues',
+};
+
+export const parseHakkasanData = async <T>(
+  text: string
+): Promise<Response<T>> => {
   try {
     const dataString = text.split('retrieveJSONP(')[1];
     const trimmedDataString = dataString.slice(0, dataString.length - 2);
@@ -83,11 +94,19 @@ export const parseHakkasanData = async <T>(text: string): Promise<Response<T>> =
   } catch (err) {
     throw new Error(err.message);
   }
-}
+};
 
-export const fetchHakkasanByRef = async <T>(ref: string): Promise<Response<T>> => {
+export const fetchHakkasanByRef = async <T>(
+  ref: string
+): Promise<Response<T>> => {
   try {
-    const res = await fetch(`${publicRuntimeConfig.hakkasanApiUrl}/${ref}.json`);
+    if (!VALID_HAKKSAN_REFS[ref]) {
+      throw new Error('Invalid ref');
+    }
+
+    const res = await fetch(
+      `${publicRuntimeConfig.hakkasanApiUrl}/${ref}.json`
+    );
     const text = await res.text();
     const data = await parseHakkasanData<T>(text);
     return data;

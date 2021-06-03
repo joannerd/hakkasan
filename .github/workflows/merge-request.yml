@@ -4,7 +4,7 @@ on:
     branches: [ main, develop ]
 jobs:
   check:
-    name: Check Prettier, Linter, Typecheck, and Build
+    name: Run typecheck, tests, linter, prettier, and build
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -13,11 +13,13 @@ jobs:
           node-version: '14'
       - name: Install packages
         run: yarn
-      - name: Run prettier
-        run: yarn check:prettier
-      - name: Run linter
-        run: yarn check:lint
       - name: Run typecheck
         run: yarn check:type
+      - name: Run tests
+        run: yarn test:cov
+      - name: Run linter
+        run: yarn check:lint
+      - name: Run prettier
+        run: yarn check:format
       - name: Check build
         run: yarn build

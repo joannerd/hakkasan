@@ -1,4 +1,4 @@
 {
-  "**/*.{js,ts,jsx,tsx}": ["yarn check:all"],
+  "**/*.{js,ts,jsx,tsx}": ["yarn check:lint", "yarn check:format"],
   "*.json": ["prettier --write data"]
 }

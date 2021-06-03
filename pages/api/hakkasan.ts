@@ -1,10 +1,10 @@
 import { NextApiResponse } from 'next';
-import withCache, { conditionallyUpdateCache } from '../../lib/withCache';
-import { delay } from '../../lib/utils';
-import artists from '../../data/artists.json';
-import events from '../../data/events.json';
-import venues from '../../data/venues.json';
-import type { HakkasanRequest } from '../../lib/withCache';
+import withCache, { conditionallyUpdateCache } from 'lib/withCache';
+import { delay } from 'lib/utils';
+import artists from 'data/artists.json';
+import events from 'data/events.json';
+import venues from 'data/venues.json';
+import type { HakkasanRequest } from 'lib/withCache';
 
 const handler = async (
   req: HakkasanRequest,

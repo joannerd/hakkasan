@@ -1,6 +1,6 @@
-import Layout from '../components/Layout';
-import { useFetch } from '../lib/hooks';
-import type { HakkasanResponse } from '../lib/hakkasan';
+import Layout from 'components/Layout';
+import { useFetch } from 'hooks';
+import type { HakkasanResponse } from 'lib/hakkasan';
 
 const Home = (): JSX.Element => {
   const { data, isLoading } = useFetch<HakkasanResponse>(
