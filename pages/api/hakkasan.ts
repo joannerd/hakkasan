@@ -1,6 +1,6 @@
 import { NextApiResponse } from 'next';
 import withCache, { conditionallyUpdateCache } from '../../lib/withCache';
-import delay from '../../lib/utils';
+import { delay } from '../../lib/utils';
 import artists from '../../data/artists.json';
 import events from '../../data/events.json';
 import venues from '../../data/venues.json';
