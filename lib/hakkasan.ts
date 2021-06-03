@@ -96,7 +96,7 @@ export const parseHakkasanData = async <T>(
   }
 };
 
-export const fetchHakkasanByRef = async <T>(
+export const fetchHakkasanByRef = async <T = Artist | Event | Venue>(
   ref: string
 ): Promise<Response<T>> => {
   try {
