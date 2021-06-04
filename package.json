@@ -11,7 +11,7 @@
     "test:cov": "jest --collectCoverage",
     "check:lint": "eslint './**/*.ts*' --fix",
     "check:type": "tsc --noEmit",
-    "check:format": "prettier --write pages components",
+    "check:format": "prettier --write pages components test lib hooks",
     "check:all": "yarn check:type && yarn test:cov && yarn check:lint && yarn check:format"
   },
   "dependencies": {

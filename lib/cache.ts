@@ -12,9 +12,9 @@ export class Cache<T = string> {
 
   length: number;
 
-  constructor() {
+  constructor(maxLength?: number) {
     this.cache = new Map();
-    this.maxLength = 1000;
+    this.maxLength = maxLength || 1000;
     this.length = 0;
   }
 
