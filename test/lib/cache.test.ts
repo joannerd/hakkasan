@@ -46,18 +46,19 @@ describe('Cache', () => {
 
   test("should update a value's updatedAt property after each get of the value", () => {
     values.forEach(({ key: k, value: v }) => {
-      testCache.set(k, v);
+      jest
+        .spyOn(global.Date, 'now')
+        .mockImplementationOnce(() => 1)
+        .mockImplementationOnce(() => 2);
 
+      testCache.set(k, v);
       const { value: initialValue, updatedAt: createdAt } =
         testCache.cache.get(k);
 
-      /* TODO: Refactor and fix "TypeError: Cannot destructure property 'updatedAt' of 'testCache.cache.get(...)' as it is undefined." */
-      setTimeout(() => {
-        const getValueResult = testCache.getValue(k);
-        const { updatedAt } = testCache.cache.get(k);
-        expect(createdAt).toBeLessThan(updatedAt);
-        expect(initialValue).toEqual(getValueResult);
-      }, 1);
+      const getValueResult = testCache.getValue(k);
+      const { updatedAt } = testCache.cache.get(k);
+      expect(createdAt).toBeLessThan(updatedAt);
+      expect(initialValue).toEqual(getValueResult);
     });
   });
 
