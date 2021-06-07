@@ -21,9 +21,7 @@ describe('useFetch(endpoint)', () => {
 
     const { result } = renderHook(() => useFetch<HakkasanResponse>(endpoint));
 
-    await act(async () => {
-      await result.current.fetchData();
-    });
+    await act(result.current.fetchData);
 
     expect(result.current.data).toEqual(expected);
   });
@@ -33,14 +31,12 @@ describe('useFetch(endpoint)', () => {
     const expectedError = 'response.json is not a function';
 
     global.fetch = generateMockFetch({
-      json: undefined,
+      json: () => Promise.reject(new Error(expectedError)),
     });
 
     const { result } = renderHook(() => useFetch<HakkasanResponse>(endpoint));
 
-    await act(async () => {
-      await result.current.fetchData();
-    });
+    await act(result.current.fetchData);
 
     expect(result.current.error).toEqual(expectedError);
   });
