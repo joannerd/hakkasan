@@ -11,14 +11,8 @@ describe('parseHakkasanData(text)', () => {
     expect(result).toEqual(data);
   });
 
-  test('should throw an error for undefined inputs', () => {
-    const expectedError = "Cannot read property 'split' of undefined";
-    expect(parseHakkasanData).toThrowError(expectedError);
-  });
-
-  test('should throw an error for string inputs without an retrieveJSONP() invocation', () => {
-    const expectedError = "Cannot read property 'slice' of undefined";
-    expect(() => parseHakkasanData('')).toThrowError(expectedError);
+  test('should throw a TypeError for string inputs without an retrieveJSONP() invocation', () => {
+    expect(() => parseHakkasanData('')).toThrow(TypeError);
   });
 });
 

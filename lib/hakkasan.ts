@@ -82,14 +82,10 @@ export type HakkasanRef = 'artists' | 'events' | 'venues';
 export const parseHakkasanData = <T = Artist | Event | Venue>(
   text: string
 ): Response<T> => {
-  try {
-    const dataString = text.split('retrieveJSONP(')[1];
-    const trimmedDataString = dataString.slice(0, dataString.length - 1);
-    const data = JSON.parse(trimmedDataString);
-    return data;
-  } catch (err) {
-    throw new Error(err.message);
-  }
+  const dataString = text.split('retrieveJSONP(')[1];
+  const trimmedDataString = dataString.slice(0, dataString.length - 1);
+  const data = JSON.parse(trimmedDataString);
+  return data;
 };
 
 export const fetchHakkasanByRef = async <T = Artist | Event | Venue>(
