@@ -3,12 +3,12 @@ import { NextApiRequest, NextApiResponse } from 'next';
 import { CronJob } from 'cron';
 import cache from './cache';
 import { fetchHakkasanByRef } from './hakkasan';
-import type { HakkasanByRefResponse } from './hakkasan';
+import type { HakkasanByRefResponse, HakkasanRef } from './hakkasan';
 import type { Cache } from './cache';
 
 export interface HakkasanRequest extends NextApiRequest {
   query: {
-    ref: string | string[];
+    ref: HakkasanRef | HakkasanRef[];
   };
   cache: Cache<HakkasanByRefResponse>;
 }
@@ -25,7 +25,7 @@ const cron = new CronJob(
 );
 
 export const conditionallyUpdateCache = async (
-  ref: string,
+  ref: HakkasanRef,
   routeCache: Cache<HakkasanByRefResponse>
 ): Promise<void> => {
   if (routeCache.has(ref)) {

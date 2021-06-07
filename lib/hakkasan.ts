@@ -77,6 +77,8 @@ export type HakkasanByRefResponse =
   | Response<Event>
   | Response<Venue>;
 
+export type HakkasanRef = 'artists' | 'events' | 'venues';
+
 export const parseHakkasanData = <T = Artist | Event | Venue>(
   text: string
 ): Response<T> => {
@@ -91,7 +93,7 @@ export const parseHakkasanData = <T = Artist | Event | Venue>(
 };
 
 export const fetchHakkasanByRef = async <T = Artist | Event | Venue>(
-  ref: 'artists' | 'events' | 'venues'
+  ref: HakkasanRef
 ): Promise<Response<T>> => {
   try {
     const res = await fetch(
