@@ -77,12 +77,6 @@ export type HakkasanByRefResponse =
   | Response<Event>
   | Response<Venue>;
 
-export const VALID_HAKKSAN_REFS = {
-  artists: 'artists',
-  events: 'events',
-  venues: 'venues',
-};
-
 export const parseHakkasanData = <T = Artist | Event | Venue>(
   text: string
 ): Response<T> => {
@@ -97,13 +91,9 @@ export const parseHakkasanData = <T = Artist | Event | Venue>(
 };
 
 export const fetchHakkasanByRef = async <T = Artist | Event | Venue>(
-  ref: string
+  ref: 'artists' | 'events' | 'venues'
 ): Promise<Response<T>> => {
   try {
-    if (!VALID_HAKKSAN_REFS[ref]) {
-      throw new Error('Invalid ref');
-    }
-
     const res = await fetch(
       `${publicRuntimeConfig.hakkasanApiUrl}/${ref}.json`
     );

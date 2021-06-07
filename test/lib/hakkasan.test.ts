@@ -1,9 +1,5 @@
 import { generateMockFetch } from 'test/testUtils';
-import {
-  parseHakkasanData,
-  fetchHakkasanByRef,
-  VALID_HAKKSAN_REFS,
-} from 'lib/hakkasan';
+import { parseHakkasanData, fetchHakkasanByRef } from 'lib/hakkasan';
 import events from 'data/events.json';
 
 describe('parseHakkasanData(text)', () => {
@@ -15,18 +11,18 @@ describe('parseHakkasanData(text)', () => {
     expect(result).toEqual(data);
   });
 
-  test('should catch and rethrow errors', () => {
-    expect(parseHakkasanData).toThrowError();
+  test('should throw an error for undefined inputs', () => {
+    const expectedError = "Cannot read property 'split' of undefined";
+    expect(parseHakkasanData).toThrowError(expectedError);
+  });
+
+  test('should throw an error for string inputs without an retrieveJSONP() invocation', () => {
+    const expectedError = "Cannot read property 'slice' of undefined";
+    expect(() => parseHakkasanData('')).toThrowError(expectedError);
   });
 });
 
 describe('fetchHakkasanByRef(ref)', () => {
-  test('should not fetch Hakkasan data with an invalid ref', async () => {
-    const ref = 'Invalid ref';
-    const result = await fetchHakkasanByRef(ref);
-    expect(result.dataType).toEqual('error');
-  });
-
   test('should fetch Hakkasan data with a valid ref', async () => {
     const fetchResponseData = `retrieveJSONP(${JSON.stringify(events)})`;
     global.fetch = generateMockFetch({
@@ -34,7 +30,7 @@ describe('fetchHakkasanByRef(ref)', () => {
       json: () => Promise.resolve(JSON.parse(fetchResponseData)),
     });
 
-    const ref = VALID_HAKKSAN_REFS.events;
+    const ref = 'events';
     const result = await fetchHakkasanByRef(ref);
     expect(result.ref).toEqual(`${ref}.json`);
   });
