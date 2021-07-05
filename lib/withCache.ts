@@ -1,19 +1,23 @@
 /* istanbul ignore file */
 import { NextApiRequest, NextApiResponse } from 'next';
 import { CronJob } from 'cron';
-import cache from './cache';
-import { fetchHakkasanByRef } from './hakkasan';
-import type { HakkasanByRefResponse, HakkasanRef } from './hakkasan';
-import type { Cache } from './cache';
+import Cache from 'lib/cache';
+import { fetchHakkasanByRef } from 'lib/hakkasan';
+import type { HakkasanByRefResponse, HakkasanRef } from 'lib/types';
 
-export interface HakkasanRequest extends NextApiRequest {
+const cache = new Cache<HakkasanByRefResponse>();
+
+interface HakkasanRequest extends NextApiRequest {
   query: {
     ref: HakkasanRef | HakkasanRef[];
   };
   cache: Cache<HakkasanByRefResponse>;
 }
 
-type Handler = (req: HakkasanRequest, res: NextApiResponse) => Promise<void>;
+export type Handler = (
+  req: HakkasanRequest,
+  res: NextApiResponse
+) => Promise<void>;
 
 const cron = new CronJob(
   '0 0 0 * * *',
@@ -24,22 +28,20 @@ const cron = new CronJob(
   'America/Los_Angeles'
 );
 
-export const conditionallyUpdateCache = async (
+export const conditionallyUpdateCache = (
   ref: HakkasanRef,
   routeCache: Cache<HakkasanByRefResponse>
-): Promise<void> => {
-  if (routeCache.has(ref)) {
-    return;
-  }
-
-  const res = await fetchHakkasanByRef(ref);
-
-  if (!res.data.length) {
-    return;
-  }
-
-  routeCache.set(ref, res as HakkasanByRefResponse);
-};
+): Promise<string> =>
+  new Promise((resolve) => {
+    if (!routeCache.has(ref)) {
+      fetchHakkasanByRef(ref).then((res) => {
+        routeCache.set(ref, res as HakkasanByRefResponse);
+        resolve(ref);
+      });
+    } else {
+      resolve(ref);
+    }
+  });
 
 const withCache =
   (handler: Handler): Handler =>

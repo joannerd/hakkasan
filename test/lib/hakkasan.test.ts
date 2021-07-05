@@ -1,12 +1,15 @@
+import fetch from 'node-fetch';
 import { generateMockFetch } from 'test/testUtils';
 import { parseHakkasanData, fetchHakkasanByRef } from 'lib/hakkasan';
 import events from 'data/events.json';
+
+jest.mock('node-fetch', () => jest.fn());
 
 describe('parseHakkasanData(text)', () => {
   test('should parse the argument of retrieveJSONP from Hakkasan JSON data', () => {
     const data = { message: 'Test data' };
     const dataText = JSON.stringify(data);
-    const text = `retrieveJSONP(${dataText})`;
+    const text = `retrieveJSONP(${dataText}) `;
     const result = parseHakkasanData(text);
     expect(result).toEqual(data);
   });
@@ -18,11 +21,14 @@ describe('parseHakkasanData(text)', () => {
 
 describe('fetchHakkasanByRef(ref)', () => {
   test('should fetch Hakkasan data with a valid ref', async () => {
-    const fetchResponseData = `retrieveJSONP(${JSON.stringify(events)})`;
-    global.fetch = generateMockFetch({
-      text: () => Promise.resolve(fetchResponseData),
-      json: () => Promise.resolve(JSON.parse(fetchResponseData)),
-    });
+    const fetchResponseData = `retrieveJSONP(${JSON.stringify(events)}) `;
+
+    fetch.mockImplementation(
+      generateMockFetch({
+        text: () => Promise.resolve(fetchResponseData),
+        json: () => Promise.resolve(JSON.parse(fetchResponseData)),
+      })
+    );
 
     const ref = 'events';
     const result = await fetchHakkasanByRef(ref);
@@ -37,7 +43,7 @@ describe('fetchHakkasanByRef(ref)', () => {
       dataType: 'error',
     };
 
-    global.fetch = () => Promise.reject(new Error(errorMessage));
+    fetch.mockImplementation(() => Promise.reject(new Error(errorMessage)));
 
     const response = await fetchHakkasanByRef('events');
     expect(response).toEqual(expectedResponse);
@@ -51,9 +57,11 @@ describe('fetchHakkasanByRef(ref)', () => {
       dataType: 'error',
     };
 
-    global.fetch = generateMockFetch({
-      text: () => Promise.reject(new Error(errorMessage)),
-    });
+    fetch.mockImplementation(
+      generateMockFetch({
+        text: () => Promise.reject(new Error(errorMessage)),
+      })
+    );
 
     const response = await fetchHakkasanByRef('events');
     expect(response).toEqual(expectedResponse);
