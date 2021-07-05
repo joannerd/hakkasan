@@ -28,4 +28,34 @@ describe('fetchHakkasanByRef(ref)', () => {
     const result = await fetchHakkasanByRef(ref);
     expect(result.ref).toEqual(`${ref}.json`);
   });
+
+  test('should catch errors thrown by invalid fetch() calls', async () => {
+    const errorMessage = 'Test fetch() error';
+    const expectedResponse = {
+      data: [],
+      ref: errorMessage,
+      dataType: 'error',
+    };
+
+    global.fetch = () => Promise.reject(new Error(errorMessage));
+
+    const response = await fetchHakkasanByRef('events');
+    expect(response).toEqual(expectedResponse);
+  });
+
+  test('should catch errors thrown by invalid res.text() invocations', async () => {
+    const errorMessage = 'Test res.text() error';
+    const expectedResponse = {
+      data: [],
+      ref: errorMessage,
+      dataType: 'error',
+    };
+
+    global.fetch = generateMockFetch({
+      text: () => Promise.reject(new Error(errorMessage)),
+    });
+
+    const response = await fetchHakkasanByRef('events');
+    expect(response).toEqual(expectedResponse);
+  });
 });

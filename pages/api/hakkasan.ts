@@ -18,12 +18,11 @@ const handler = async (
     case 'GET': {
       try {
         if (process.env.NODE_ENV !== 'production') {
-          await delay(1000, () => {
-            res.status(200).send({
-              artists,
-              events,
-              venues,
-            });
+          await delay(1000);
+          res.status(200).send({
+            artists,
+            events,
+            venues,
           });
           break;
         }
