@@ -1,3 +1,4 @@
+/* istanbul ignore file */
 import type { ReactNode } from 'react';
 import Head from 'next/head';
 

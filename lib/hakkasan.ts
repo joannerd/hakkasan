@@ -72,24 +72,31 @@ export interface HakkasanResponse {
   venues: Response<Venue>;
 }
 
-export type HakkasanByRefResponse = Response<Artist> | Response<Event> | Response<Venue>;
+export type HakkasanByRefResponse =
+  | Response<Artist>
+  | Response<Event>
+  | Response<Venue>;
 
-export const parseHakkasanData = async <T>(text: string): Promise<Response<T>> => {
-  try {
-    const dataString = text.split('retrieveJSONP(')[1];
-    const trimmedDataString = dataString.slice(0, dataString.length - 2);
-    const data = JSON.parse(trimmedDataString);
-    return data;
-  } catch (err) {
-    throw new Error(err.message);
-  }
-}
+export type HakkasanRef = 'artists' | 'events' | 'venues';
 
-export const fetchHakkasanByRef = async <T>(ref: string): Promise<Response<T>> => {
+export const parseHakkasanData = <T = Artist | Event | Venue>(
+  text: string
+): Response<T> => {
+  const dataString = text.split('retrieveJSONP(')[1];
+  const trimmedDataString = dataString.slice(0, dataString.length - 1);
+  const data = JSON.parse(trimmedDataString);
+  return data;
+};
+
+export const fetchHakkasanByRef = async <T = Artist | Event | Venue>(
+  ref: HakkasanRef
+): Promise<Response<T>> => {
   try {
-    const res = await fetch(`${publicRuntimeConfig.hakkasanApiUrl}/${ref}.json`);
+    const res = await fetch(
+      `${publicRuntimeConfig.hakkasanApiUrl}/${ref}.json`
+    );
     const text = await res.text();
-    const data = await parseHakkasanData<T>(text);
+    const data = parseHakkasanData<T>(text);
     return data;
   } catch (err) {
     return {

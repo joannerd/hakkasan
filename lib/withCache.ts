@@ -1,13 +1,14 @@
+/* istanbul ignore file */
 import { NextApiRequest, NextApiResponse } from 'next';
 import { CronJob } from 'cron';
 import cache from './cache';
 import { fetchHakkasanByRef } from './hakkasan';
-import type { HakkasanByRefResponse } from './hakkasan';
+import type { HakkasanByRefResponse, HakkasanRef } from './hakkasan';
 import type { Cache } from './cache';
 
 export interface HakkasanRequest extends NextApiRequest {
   query: {
-    ref: string | string[];
+    ref: HakkasanRef | HakkasanRef[];
   };
   cache: Cache<HakkasanByRefResponse>;
 }
@@ -24,7 +25,7 @@ const cron = new CronJob(
 );
 
 export const conditionallyUpdateCache = async (
-  ref: string,
+  ref: HakkasanRef,
   routeCache: Cache<HakkasanByRefResponse>
 ): Promise<void> => {
   if (routeCache.has(ref)) {
@@ -40,10 +41,12 @@ export const conditionallyUpdateCache = async (
   routeCache.set(ref, res as HakkasanByRefResponse);
 };
 
-const withCache = (handler: Handler): Handler => async (req, res) => {
-  cron.start();
-  req.cache = cache;
-  return handler(req, res);
-};
+const withCache =
+  (handler: Handler): Handler =>
+  async (req, res) => {
+    cron.start();
+    req.cache = cache;
+    return handler(req, res);
+  };
 
 export default withCache;
