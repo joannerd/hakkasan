@@ -4,7 +4,7 @@ import Layout from 'components/Layout';
 import Filters from 'components/Filters';
 import CalendarMonth from 'components/Calendar/Month';
 import CalendarNavigation from 'components/Calendar/Navigation';
-import { formatHakkasanDataIntoCalendar } from 'lib/utils';
+import { formatHakkasanDataIntoCalendar } from 'lib/format';
 import type { GenericEvent, HakkasanResponse } from 'lib/types';
 
 const Home = (): JSX.Element => {

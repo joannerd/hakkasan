@@ -6,10 +6,10 @@ interface Props {
 }
 
 const Filters = ({ title, filters }: Props): JSX.Element => (
-  <div className="flex flex-col ml-2 mt-4 overflow-y-scroll max-h-96">
+  <ul className="flex flex-col ml-2 mt-4 overflow-y-scroll max-h-96">
     <h1 className="text-2xl font-bold text-gray-600">{title}</h1>
-    {filters.map(({ name, color }) => (
-      <div key={name} className="flex items-start">
+    {filters.map(({ id, name, color }) => (
+      <li key={`${id}-${name}`} className="flex items-start">
         <div
           aria-hidden
           className={`bg-${color} rounded-full h-4 w-4 mr-2 mt-1`}
@@ -17,9 +17,9 @@ const Filters = ({ title, filters }: Props): JSX.Element => (
         <span className={`text-${color} w-34 font-medium leading-snug`}>
           {name}
         </span>
-      </div>
+      </li>
     ))}
-  </div>
+  </ul>
 );
 
 export default Filters;

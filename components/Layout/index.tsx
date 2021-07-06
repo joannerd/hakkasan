@@ -10,7 +10,7 @@ interface Props {
 const Layout = ({ children }: Props): JSX.Element => (
   <div>
     <Head>
-      <title>HAKKSAN CAL</title>
+      <title>HAKKASAN CAL</title>
       <link rel="icon" href="/favicon.ico" />
     </Head>
 

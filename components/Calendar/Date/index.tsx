@@ -26,7 +26,7 @@ const Date = <T extends GenericEvent>({
         const lightColor = `${hue}-${parseInt(shade, 10) - 100}`;
         return (
           <p
-            key={text}
+            key={`${date}-${text}`}
             className={`text-${darkColor} bg-${lightColor} border-${darkColor} border-solid border-l-4 pl-1`}
           >
             {text}
