@@ -1,4 +1,5 @@
 import CalendarDate from 'components/Calendar/Date';
+import { getMonthPlaceholderDates } from 'lib/format';
 import type { GenericEvent } from 'lib/types';
 
 export interface Props<T> {
@@ -16,10 +17,8 @@ const Month = <T extends GenericEvent>({
   days,
   dayLabels,
 }: Props<T>): JSX.Element | null => {
-  const firstDay = new Date(year, month - 1).getDay();
-  const lastDate = new Date(year, month, 0).getDate();
-  const startGap =
-    firstDay > 0 ? <div className={`col-span-${firstDay}`} /> : null;
+  const { lastDate, previousMonthPlaceholderDates, nextMonthPlaceholderDates } =
+    getMonthPlaceholderDates({ year, month });
 
   return (
     <article className="grid grid-cols-7 gap-0">
@@ -28,7 +27,13 @@ const Month = <T extends GenericEvent>({
           {label}
         </span>
       ))}
-      {startGap}
+      {previousMonthPlaceholderDates.map((placeholderDate) => (
+        <CalendarDate<T>
+          key={`placeholder-${placeholderDate}`}
+          date={placeholderDate}
+          isPlaceholder
+        />
+      ))}
       {days.map((details, idx) => {
         const date = idx + 1;
         return date <= lastDate ? (
@@ -40,6 +45,13 @@ const Month = <T extends GenericEvent>({
           />
         ) : null;
       })}
+      {nextMonthPlaceholderDates.map((placeholderDate) => (
+        <CalendarDate<T>
+          key={`placeholder-${placeholderDate}`}
+          date={placeholderDate}
+          isPlaceholder
+        />
+      ))}
     </article>
   );
 };

@@ -5,6 +5,7 @@ import Filters from 'components/Filters';
 import CalendarMonth from 'components/Calendar/Month';
 import CalendarNavigation from 'components/Calendar/Navigation';
 import { formatHakkasanDataIntoCalendar } from 'lib/format';
+import { MONTHS } from 'lib/constants';
 import type { GenericEvent, HakkasanResponse } from 'lib/types';
 
 const Home = (): JSX.Element => {
@@ -96,13 +97,16 @@ const Home = (): JSX.Element => {
   return (
     <Layout>
       <section className="flex flex-col justify-center">
-        <CalendarNavigation
-          onPreviousClick={
-            isPreviousMonthValid() ? renderPreviousMonth : undefined
-          }
-          onTodayClick={renderCurrentMonth}
-          onNextClick={isNextMonthValid() ? renderNextMonth : undefined}
-        />
+        <section className="flex justify-between">
+          <h1 className="text-2xl font-bold">{MONTHS[month]}</h1>
+          <CalendarNavigation
+            onPreviousClick={
+              isPreviousMonthValid() ? renderPreviousMonth : undefined
+            }
+            onTodayClick={renderCurrentMonth}
+            onNextClick={isNextMonthValid() ? renderNextMonth : undefined}
+          />
+        </section>
         <CalendarMonth<GenericEvent>
           key={`${year}-${month}`}
           year={year}
@@ -111,7 +115,7 @@ const Home = (): JSX.Element => {
           days={Object.values(events[year][month])}
         />
       </section>
-      <div className="flex flex-col mt-10">
+      <div className="flex flex-col mt-10 ml-10">
         <Filters title="Venues" filters={venues} />
         <Filters title="Artists" filters={artists} />
       </div>

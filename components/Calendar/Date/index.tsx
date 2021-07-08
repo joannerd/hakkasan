@@ -3,15 +3,21 @@ import type { GenericEvent } from 'lib/types';
 export interface Props<T> {
   date: number;
   isToday?: boolean;
+  isPlaceholder?: boolean;
   details?: T[];
 }
 
 const Date = <T extends GenericEvent>({
   isToday,
+  isPlaceholder,
   date,
   details,
 }: Props<T>): JSX.Element => (
-  <article className="h-28 w-32 border-solid border border-gray-300 p-2 flex flex-col items-end">
+  <article
+    className={`${
+      isPlaceholder ? 'opacity-20' : ''
+    } h-28 w-32 border-solid border border-gray-300 p-2 flex flex-col items-end`}
+  >
     <h4
       className={`${
         isToday ? 'bg-indigo-200' : ''

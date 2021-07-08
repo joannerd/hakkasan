@@ -10,7 +10,7 @@ interface Props {
 const Layout = ({ children }: Props): JSX.Element => (
   <div>
     <Head>
-      <title>HAKKASAN CAL</title>
+      <title>Hakkasan Calendar</title>
       <link rel="icon" href="/favicon.ico" />
     </Head>
 
@@ -18,7 +18,7 @@ const Layout = ({ children }: Props): JSX.Element => (
       <Image alt="HAKKASAN CAL" src="/logo.svg" width="360px" height="34px" />
     </header>
 
-    <main className="flex flex-row justify-between items-start px-32 py-8">
+    <main className="flex flex-row justify-between items-start mx-32 my-8">
       {children}
     </main>
 
