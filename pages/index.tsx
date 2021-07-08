@@ -1,6 +1,7 @@
 import { useEffect, useState } from 'react';
 import { useFetch } from 'hooks';
 import Layout from 'components/Layout';
+import Loading from 'components/Loading';
 import Filters from 'components/Filters';
 import CalendarMonth from 'components/Calendar/Month';
 import CalendarNavigation from 'components/Calendar/Navigation';
@@ -25,7 +26,7 @@ const Home = (): JSX.Element => {
   }, []);
 
   if (isLoading || !data.events || !data.artists) {
-    return <>Loading...</>;
+    return <Loading />;
   }
 
   const { events, venues, artists } = formatHakkasanDataIntoCalendar(data);

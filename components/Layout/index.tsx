@@ -8,7 +8,7 @@ interface Props {
 }
 
 const Layout = ({ children }: Props): JSX.Element => (
-  <div>
+  <div className="h-screen">
     <Head>
       <title>Hakkasan Calendar</title>
       <link rel="icon" href="/favicon.ico" />
