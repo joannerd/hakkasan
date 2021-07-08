@@ -1,6 +1,6 @@
 /* istanbul ignore file */
-import Head from 'next/head';
 import Image from 'next/image';
+import Title from 'components/Title';
 import type { ReactNode } from 'react';
 
 interface Props {
@@ -9,10 +9,12 @@ interface Props {
 
 const Layout = ({ children }: Props): JSX.Element => (
   <div className="h-screen">
-    <Head>
-      <title>Hakkasan Calendar</title>
-      <link rel="icon" href="/favicon.ico" />
-    </Head>
+    <Title
+      pageTitle="Hakkasan Calendar"
+      description="Navigate Hakkasan events."
+      canonical="https://hakkasan.vercel.app/"
+      keywords="hakkasan omnia las vegas"
+    />
 
     <header className="px-32 py-8 bg-black text-white">
       <Image alt="HAKKASAN CAL" src="/logo.svg" width="360px" height="34px" />
