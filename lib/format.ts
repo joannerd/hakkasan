@@ -1,71 +1,17 @@
 /* eslint-disable import/prefer-default-export */
 import type {
   HakkasanResponse,
-  CalendarEvents,
-  GenericEvent,
-  Filter,
+  FormattedHakkasanCalendarData,
 } from 'lib/types';
+import { generateYear, VENUE_COLORS } from 'lib/constants';
 
-const defaultMonth = {
-  1: [],
-  2: [],
-  3: [],
-  4: [],
-  5: [],
-  6: [],
-  7: [],
-  8: [],
-  9: [],
-  10: [],
-  11: [],
-  12: [],
-  13: [],
-  14: [],
-  15: [],
-  16: [],
-  17: [],
-  18: [],
-  19: [],
-  20: [],
-  21: [],
-  22: [],
-  23: [],
-  24: [],
-  25: [],
-  26: [],
-  27: [],
-  28: [],
-  29: [],
-  30: [],
-  31: [],
-};
-
-const LOCATION = 'Las Vegas, NV';
-
-const VENUE_COLORS = {
-  'Wet Republic': 'red-300',
-  'Hakkasan Nightclub': 'green-400',
-  'OMNIA Las Vegas': 'purple-300',
-  'Liquid Pool Lounge': 'blue-300',
-};
-
-const generateYear = () => {
-  const year = {};
-  for (let month = 1; month <= 12; month += 1) {
-    year[month] = {
-      ...defaultMonth,
-    };
-  }
-  return year;
-};
-
-export const formatHakkasanDataIntoCalendar = (
-  data: HakkasanResponse
-): {
-  events: CalendarEvents<GenericEvent>;
-  venues: Filter[];
-  artists: Filter[];
-} => {
+export const formatHakkasanDataIntoCalendar = ({
+  data,
+  city,
+}: {
+  data: Omit<HakkasanResponse, 'venues'>;
+  city: string;
+}): FormattedHakkasanCalendarData => {
   const {
     events: { data: eventsData },
     artists: { data: artistsData },
@@ -79,7 +25,7 @@ export const formatHakkasanDataIntoCalendar = (
   const artistsById = {};
   const venuesById = {};
   const events = eventsData
-    .filter(({ location }) => location === LOCATION)
+    .filter(({ location }) => location === city)
     .map(({ date, headliner, venue_id: venueId, venue_title: venueTitle }) => {
       const color = VENUE_COLORS[venueTitle] || 'black';
 

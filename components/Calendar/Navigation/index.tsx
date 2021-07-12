@@ -11,9 +11,9 @@ const CalendarNavigation = ({
 }: Props): JSX.Element => (
   <section className="flex flex-row mb-4">
     <button
-      key="previous"
       type="button"
       onClick={onPreviousClick}
+      disabled={!onPreviousClick}
       className={`${
         onPreviousClick
           ? ''
@@ -23,7 +23,6 @@ const CalendarNavigation = ({
       ◀
     </button>
     <button
-      key="today"
       type="button"
       onClick={onTodayClick}
       className="text-gray-500 border-solid border border-gray-300 px-4 py-0.5 rounded-sm text-sm"
@@ -31,9 +30,9 @@ const CalendarNavigation = ({
       Today
     </button>
     <button
-      key="next"
       type="button"
       onClick={onNextClick}
+      disabled={!onNextClick}
       className={`${
         onNextClick ? '' : 'opacity-30 pointer-events-none focus:outline-none'
       } text-gray-500 border-solid border border-gray-300 px-1.5 py-0.5 rounded-tr-md rounded-br-md text-xs`}

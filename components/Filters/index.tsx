@@ -1,3 +1,4 @@
+/* istanbul ignore file */
 import type { Filter } from 'lib/types';
 
 interface Props {

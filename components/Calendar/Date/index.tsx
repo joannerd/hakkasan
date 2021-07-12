@@ -2,6 +2,7 @@ import type { GenericEvent } from 'lib/types';
 
 export interface Props<T> {
   date: number;
+  name?: string;
   isToday?: boolean;
   isPlaceholder?: boolean;
   details?: T[];
@@ -11,9 +12,11 @@ const Date = <T extends GenericEvent>({
   isToday,
   isPlaceholder,
   date,
+  name,
   details,
 }: Props<T>): JSX.Element => (
   <article
+    aria-label={name}
     className={`${
       isPlaceholder ? 'opacity-20' : ''
     } h-28 w-32 border-solid border border-gray-300 p-2 flex flex-col items-end`}
@@ -46,6 +49,7 @@ const Date = <T extends GenericEvent>({
 Date.defaultProps = {
   isToday: false,
   details: [],
+  name: 'date',
 };
 
 export default Date;

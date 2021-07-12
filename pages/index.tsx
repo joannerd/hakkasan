@@ -6,7 +6,7 @@ import Filters from 'components/Filters';
 import CalendarMonth from 'components/Calendar/Month';
 import CalendarNavigation from 'components/Calendar/Navigation';
 import { formatHakkasanDataIntoCalendar } from 'lib/format';
-import { MONTHS } from 'lib/constants';
+import { MONTHS, LAS_VEGAS } from 'lib/constants';
 import type { GenericEvent, HakkasanResponse } from 'lib/types';
 
 const Home = (): JSX.Element => {
@@ -29,7 +29,10 @@ const Home = (): JSX.Element => {
     return <Loading />;
   }
 
-  const { events, venues, artists } = formatHakkasanDataIntoCalendar(data);
+  const { events, venues, artists } = formatHakkasanDataIntoCalendar({
+    data,
+    city: LAS_VEGAS,
+  });
 
   const isPreviousMonthValid = (): boolean => {
     let previousYear = year;

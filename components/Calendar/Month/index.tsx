@@ -21,7 +21,7 @@ const Month = <T extends GenericEvent>({
     getMonthPlaceholderDates({ year, month });
 
   return (
-    <article className="grid grid-cols-7 gap-0">
+    <article className="grid grid-cols-7 gap-0" aria-label="month">
       {dayLabels.map((label) => (
         <span key={label} className="text-right font-bold pr-2">
           {label}
@@ -38,6 +38,7 @@ const Month = <T extends GenericEvent>({
         const date = idx + 1;
         return date <= lastDate ? (
           <CalendarDate<T>
+            name={`${year}-${month}-${date}`}
             key={date}
             date={date}
             details={details.length ? details : []}

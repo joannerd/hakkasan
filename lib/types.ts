@@ -1,3 +1,4 @@
+/* istanbul ignore file */
 /* eslint-disable camelcase */
 
 export interface Artist {
@@ -78,7 +79,9 @@ export type HakkasanByRefResponse =
 export type HakkasanRef = 'artists' | 'events' | 'venues';
 
 export interface Month<T> {
-  [month: string]: T[][];
+  [month: string]: {
+    [day: string]: T[];
+  };
 }
 
 export interface CalendarEvents<T> {
@@ -95,4 +98,10 @@ export interface Filter {
   id: number;
   name: string;
   color: string;
+}
+
+export interface FormattedHakkasanCalendarData {
+  events: CalendarEvents<GenericEvent>;
+  venues: Filter[];
+  artists: Filter[];
 }
