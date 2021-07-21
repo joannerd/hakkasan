@@ -42,10 +42,11 @@ const MonthMobile = <T extends GenericEvent>({
         totalSlides={days.length}
         touchEnabled
         dragEnabled
+        currentSlide={currentDateSlide}
         className="overflow-hidden"
       >
         <section className="mb-4 w-full flex justify-end">
-          <ButtonBack className="text-gray-500 border-solid border border-gray-300 sm:px-1.5 sm:py-0.5 p-2 rounded-tl-md rounded-bl-md text-xs">
+          <ButtonBack className="text-gray-500 border-solid border border-gray-300 sm:px-1.5 sm:py-0.5 px-3 py-2 rounded-tl-md rounded-bl-md text-xs">
             ◀
           </ButtonBack>
           <Dot
@@ -56,7 +57,7 @@ const MonthMobile = <T extends GenericEvent>({
           >
             Today
           </Dot>
-          <ButtonNext className="text-gray-500 border-solid border border-gray-300 sm:px-1.5 sm:py-0.5 p-2 rounded-tr-md rounded-br-md text-xs">
+          <ButtonNext className="text-gray-500 border-solid border border-gray-300 sm:px-1.5 sm:py-0.5 px-3 py-2 rounded-tr-md rounded-br-md text-xs">
             ▶
           </ButtonNext>
         </section>
