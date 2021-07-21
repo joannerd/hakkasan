@@ -28,7 +28,7 @@ const Date = <T extends GenericEvent>({
     >
       {date}
     </h4>
-    <section className="flex flex-col max-h-16 overflow-scroll leading-snug w-full text-sm">
+    <section className="flex flex-col sm:max-h-16 overflow-scroll leading-snug w-full text-sm">
       {details.map(({ text, color }) => {
         const [hue, shade] = color.split('-');
         const darkColor = `${hue}-${parseInt(shade, 10) + 100}`;
