@@ -247,6 +247,7 @@ describe('getMonthPlaceholderDates({ year, month })', () => {
     };
     const expectedOutput = {
       lastDate: 31,
+      lastDay: 0,
       previousMonthPlaceholderDates: [27, 28, 29, 30, 31],
       nextMonthPlaceholderDates: [1, 2, 3, 4, 5, 6, 7],
     };
@@ -262,6 +263,7 @@ describe('getMonthPlaceholderDates({ year, month })', () => {
     };
     const expectedOutput = {
       lastDate: 28,
+      lastDay: 0,
       previousMonthPlaceholderDates: [31],
       nextMonthPlaceholderDates: [1, 2, 3, 4, 5, 6, 7],
     };
@@ -277,6 +279,7 @@ describe('getMonthPlaceholderDates({ year, month })', () => {
     };
     const expectedOutput = {
       lastDate: 31,
+      lastDay: 4,
       previousMonthPlaceholderDates: [29, 30],
       nextMonthPlaceholderDates: [1, 2, 3],
     };

@@ -10,18 +10,22 @@ export interface Props<T> {
   dayLabels?: string[];
 }
 
-const Month = <T extends GenericEvent>({
+const MonthDesktop = <T extends GenericEvent>({
   year,
   month,
   today,
   days,
   dayLabels,
 }: Props<T>): JSX.Element | null => {
-  const { lastDate, previousMonthPlaceholderDates, nextMonthPlaceholderDates } =
-    getMonthPlaceholderDates({ year, month });
+  const {
+    lastDate,
+    lastDay,
+    previousMonthPlaceholderDates,
+    nextMonthPlaceholderDates,
+  } = getMonthPlaceholderDates({ year, month });
 
   return (
-    <article className="grid grid-cols-7 gap-0" aria-label="month">
+    <article className="sm:grid hidden grid-cols-7 gap-0" aria-label="month">
       {dayLabels.map((label) => (
         <span key={label} className="text-right font-bold pr-2">
           {label}
@@ -46,20 +50,22 @@ const Month = <T extends GenericEvent>({
           />
         ) : null;
       })}
-      {nextMonthPlaceholderDates.map((placeholderDate) => (
-        <CalendarDate<T>
-          key={`placeholder-${placeholderDate}`}
-          date={placeholderDate}
-          isPlaceholder
-        />
-      ))}
+      {lastDay !== 6
+        ? nextMonthPlaceholderDates.map((placeholderDate) => (
+            <CalendarDate<T>
+              key={`placeholder-${placeholderDate}`}
+              date={placeholderDate}
+              isPlaceholder
+            />
+          ))
+        : null}
     </article>
   );
 };
 
-Month.defaultProps = {
+MonthDesktop.defaultProps = {
   days: [],
   dayLabels: ['SUN', 'MON', 'TUE', 'WED', 'THU', 'FRI', 'SAT'],
 };
 
-export default Month;
+export default MonthDesktop;

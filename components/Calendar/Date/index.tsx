@@ -19,7 +19,7 @@ const Date = <T extends GenericEvent>({
     aria-label={name}
     className={`${
       isPlaceholder ? 'opacity-20' : ''
-    } h-28 w-32 border-solid border border-gray-300 p-2 flex flex-col items-end`}
+    } h-80 sm:h-28 w-full border-solid border border-gray-300 p-2 flex flex-col items-end`}
   >
     <h4
       className={`${

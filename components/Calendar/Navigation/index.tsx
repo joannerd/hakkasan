@@ -9,7 +9,7 @@ const CalendarNavigation = ({
   onTodayClick,
   onNextClick,
 }: Props): JSX.Element => (
-  <section className="flex flex-row mb-4">
+  <section className="flex flex-row mb-1 sm:mb-4">
     <button
       type="button"
       onClick={onPreviousClick}
@@ -18,14 +18,15 @@ const CalendarNavigation = ({
         onPreviousClick
           ? ''
           : 'opacity-30 pointer-events-none focus:outline-none'
-      } text-gray-500 border-solid border border-gray-300 px-1.5 py-0.5 rounded-tl-md rounded-bl-md text-xs`}
+      } text-gray-500 border-solid border border-gray-300 sm:px-1.5 sm:py-0.5 p-2 rounded-tl-md rounded-bl-md text-xs`}
     >
-      ◀
+      <span className="hidden sm:block">◀</span>
+      <span className="sm:hidden block">Previous month</span>
     </button>
     <button
       type="button"
       onClick={onTodayClick}
-      className="text-gray-500 border-solid border border-gray-300 px-4 py-0.5 rounded-sm text-sm"
+      className="hidden sm:block text-gray-500 border-solid border border-gray-300 px-4 py-0.5 rounded-sm text-sm"
     >
       Today
     </button>
@@ -35,9 +36,10 @@ const CalendarNavigation = ({
       disabled={!onNextClick}
       className={`${
         onNextClick ? '' : 'opacity-30 pointer-events-none focus:outline-none'
-      } text-gray-500 border-solid border border-gray-300 px-1.5 py-0.5 rounded-tr-md rounded-br-md text-xs`}
+      } text-gray-500 border-solid border border-gray-300 sm:px-1.5 sm:py-0.5 p-2 rounded-tr-md rounded-br-md text-xs`}
     >
-      ▶
+      <span className="hidden sm:block">▶</span>
+      <span className="sm:hidden block">Next month</span>
     </button>
   </section>
 );

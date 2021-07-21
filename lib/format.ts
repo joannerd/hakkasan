@@ -81,6 +81,7 @@ export const getMonthPlaceholderDates = ({
   month: number;
 }): {
   lastDate: number;
+  lastDay: number;
   previousMonthPlaceholderDates: number[];
   nextMonthPlaceholderDates: number[];
 } => {
@@ -109,6 +110,7 @@ export const getMonthPlaceholderDates = ({
 
   return {
     lastDate: monthEnd.getDate(),
+    lastDay: monthEnd.getDay(),
     previousMonthPlaceholderDates,
     nextMonthPlaceholderDates,
   };

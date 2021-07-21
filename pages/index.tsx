@@ -3,7 +3,8 @@ import { useFetch } from 'hooks';
 import Layout from 'components/Layout';
 import Loading from 'components/Loading';
 import Filters from 'components/Filters';
-import CalendarMonth from 'components/Calendar/Month';
+import CalendarMonthDesktop from 'components/Calendar/Month/Desktop';
+import CalendarMonthMobile from 'components/Calendar/Month/Mobile';
 import CalendarNavigation from 'components/Calendar/Navigation';
 import { formatHakkasanDataIntoCalendar } from 'lib/format';
 import { MONTHS, LAS_VEGAS } from 'lib/constants';
@@ -111,15 +112,23 @@ const Home = (): JSX.Element => {
             onNextClick={isNextMonthValid() ? renderNextMonth : undefined}
           />
         </section>
-        <CalendarMonth<GenericEvent>
-          key={`${year}-${month}`}
+        <CalendarMonthDesktop<GenericEvent>
+          key={`${year}-${month}-desktop`}
           year={year}
           month={month}
           today={`${currentYear}-${currentMonth}-${currentDate}`}
           days={Object.values(events[year][month])}
         />
+        <CalendarMonthMobile<GenericEvent>
+          key={`${year}-${month}-mobile`}
+          year={year}
+          month={month}
+          today={`${currentYear}-${currentMonth}-${currentDate}`}
+          days={Object.values(events[year][month])}
+          onTodayClick={renderCurrentMonth}
+        />
       </section>
-      <div className="flex flex-col mt-10 ml-10">
+      <div className="md:flex-col md:justify-center flex flex-row mt-4 md:mt-12 md:ml-6 lg:ml-8">
         <Filters title="Venues" filters={venues} />
         <Filters title="Artists" filters={artists} />
       </div>

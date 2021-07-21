@@ -8,7 +8,7 @@ interface Props {
 }
 
 const Layout = ({ children }: Props): JSX.Element => (
-  <div className="h-screen">
+  <div className="h-screen w-screen">
     <Title
       pageTitle="Hakkasan Calendar"
       description="Navigate Hakkasan events."
@@ -16,15 +16,15 @@ const Layout = ({ children }: Props): JSX.Element => (
       keywords="hakkasan omnia las vegas"
     />
 
-    <header className="px-32 py-8 bg-black text-white">
+    <header className="lg:px-32 md:px-16 px-8 py-8 bg-black text-white">
       <Image alt="HAKKASAN CAL" src="/logo.svg" width="360px" height="34px" />
     </header>
 
-    <main className="flex flex-row justify-between items-start mx-32 my-8">
+    <main className="md:flex-row flex flex-col justify-center items-center md:justify-between md:items-start lg:mx-32 md:mx-16 mx-8 mt-12 mb-2">
       {children}
     </main>
 
-    <footer className="px-32 pb-8 flex flex-col items-center text-gray-300 text-xs">
+    <footer className="lg:px-32 md:px-16 px-8 pb-8 flex flex-col items-center text-gray-300 text-xs">
       <p>
         Hakkasan Cal not affiliated, associated, authorized, endorsed by, or in
         any way officially connected with Hakkasan Group. All product and

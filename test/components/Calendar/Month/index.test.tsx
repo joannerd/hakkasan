@@ -1,6 +1,6 @@
 import { render, screen, within } from '@testing-library/react';
 import '@testing-library/jest-dom/extend-expect';
-import CalendarMonth from 'components/Calendar/Month';
+import CalendarMonthDesktop from 'components/Calendar/Month/Desktop';
 import { LAS_VEGAS_EVENTS_2021 } from 'lib/constants';
 
 test('displays calendar with default calendar dayLabels', () => {
@@ -9,7 +9,7 @@ test('displays calendar with default calendar dayLabels', () => {
   const days = Object.values(LAS_VEGAS_EVENTS_2021[year][month]);
 
   render(
-    <CalendarMonth
+    <CalendarMonthDesktop
       year={year}
       month={month}
       today={`${year}-${month}-1`}
@@ -34,7 +34,7 @@ test('displays calendar without extra dates when the month is less than 31 days'
   const days = Object.values(LAS_VEGAS_EVENTS_2021[year][month]);
 
   render(
-    <CalendarMonth
+    <CalendarMonthDesktop
       year={year}
       month={month}
       today={`${year}-${month}-1`}
