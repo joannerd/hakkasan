@@ -1,4 +1,4 @@
-import { Cache } from 'lib/cache';
+import Cache from 'lib/cache';
 
 describe('Cache', () => {
   const key = 'Test';

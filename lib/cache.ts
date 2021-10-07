@@ -1,11 +1,9 @@
-import type { HakkasanByRefResponse } from './hakkasan';
-
 interface CacheValue<T> {
   value: T;
   updatedAt: number;
 }
 
-export class Cache<T = string> {
+class Cache<T = string> {
   cache: Map<string, CacheValue<T>>;
 
   maxLength: number;
@@ -76,4 +74,4 @@ export class Cache<T = string> {
   }
 }
 
-export default new Cache<HakkasanByRefResponse>();
+export default Cache;

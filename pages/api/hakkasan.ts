@@ -1,15 +1,12 @@
-import { NextApiResponse } from 'next';
 import withCache, { conditionallyUpdateCache } from 'lib/withCache';
 import { delay } from 'lib/utils';
 import artists from 'data/artists.json';
 import events from 'data/events.json';
 import venues from 'data/venues.json';
-import type { HakkasanRequest } from 'lib/withCache';
+import type { Handler } from 'lib/withCache';
+import type { HakkasanRef } from 'lib/types';
 
-const handler = async (
-  req: HakkasanRequest,
-  res: NextApiResponse
-): Promise<void> => {
+const handler: Handler = async (req, res): Promise<void> => {
   const {
     method,
     query: { ref: refParam },
@@ -17,6 +14,11 @@ const handler = async (
   switch (method) {
     case 'GET': {
       try {
+        const hakkasanRefs =
+          typeof refParam === 'string'
+            ? [refParam]
+            : [...new Set(refParam as HakkasanRef[])];
+
         if (process.env.NODE_ENV !== 'production') {
           await delay(1000);
           res.status(200).send({
@@ -27,8 +29,6 @@ const handler = async (
           break;
         }
 
-        const hakkasanRefs =
-          typeof refParam === 'string' ? [refParam] : [...new Set(refParam)];
         const promises = hakkasanRefs.map((ref) =>
           conditionallyUpdateCache(ref, req.cache)
         );

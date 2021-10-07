@@ -4,7 +4,7 @@ import { useFetch } from 'hooks';
 import artists from 'data/artists.json';
 import events from 'data/events.json';
 import venues from 'data/venues.json';
-import type { HakkasanResponse } from 'lib/hakkasan';
+import type { HakkasanResponse } from 'lib/types';
 
 describe('useFetch(endpoint)', () => {
   test('should fetch data from the Next.js proxy API', async () => {
