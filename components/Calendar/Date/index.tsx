@@ -30,14 +30,17 @@ const Date = <T extends GenericEvent>({
     </h4>
     <section className="flex flex-col sm:max-h-16 overflow-scroll leading-snug w-full text-sm">
       {details.map(({ text, color }) => {
-        const [hue, shade] = color.split('-');
-        const darkColor = `${hue}-${parseInt(shade, 10) + 100}`;
-        const lightColor = `${hue}-${parseInt(shade, 10) - 100}`;
+        const classes = {
+          blue: 'text-blue-700 bg-blue-200 border-blue-400 border-solid border-l-4 pl-1',
+          green:
+            'text-green-700 bg-green-300 border-green-500 border-solid border-l-4 pl-1',
+          purple:
+            'text-purple-700 bg-purple-200 border-purple-400 border-solid border-l-4 pl-1',
+          red: 'text-red-700 bg-red-200 border-red-400 border-solid border-l-4 pl-1',
+        };
+
         return (
-          <p
-            key={`${date}-${text}`}
-            className={`text-${darkColor} bg-${lightColor} border-${darkColor} border-solid border-l-4 pl-1`}
-          >
+          <p key={`${date}-${text}`} className={classes[color]}>
             {text}
           </p>
         );

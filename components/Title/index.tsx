@@ -16,7 +16,6 @@ const Title = ({
 }: Props): JSX.Element => (
   <Head>
     <title>{pageTitle}</title>
-    <title>{pageTitle}</title>
     <meta charSet="utf-8" />
     <meta property="og:title" content={pageTitle} key="og:title" />
     <meta property="og:site_name" content={pageTitle} key="og:site_name" />

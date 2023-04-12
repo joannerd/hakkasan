@@ -38,7 +38,7 @@ export const formatHakkasanDataIntoCalendar = ({
       artistsById[headliner] = {
         id: headliner,
         name: artistNamesByHeadlinerId[headliner],
-        color: 'gray-500',
+        color: 'gray',
       };
 
       return {

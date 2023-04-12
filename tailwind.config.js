@@ -1,7 +1,4 @@
 module.exports = {
-  darkMode: false, // or 'media' or 'class'
-  variants: {
-    extend: {},
-  },
+  content: ['./pages/**/*.tsx', './components/**/*.tsx'],
   plugins: [],
 };

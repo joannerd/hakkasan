@@ -55,10 +55,10 @@ const defaultMonth = {
 export const LAS_VEGAS = 'Las Vegas, NV';
 
 export const VENUE_COLORS = {
-  'Wet Republic': 'red-300',
-  'Hakkasan Nightclub': 'green-400',
-  'OMNIA Las Vegas': 'purple-300',
-  'Liquid Pool Lounge': 'blue-300',
+  'Wet Republic': 'red',
+  'Hakkasan Nightclub': 'green',
+  'OMNIA Las Vegas': 'purple',
+  'Liquid Pool Lounge': 'blue',
 };
 
 export const generateYear = (): {
