@@ -28,7 +28,7 @@
     "plugin:react/recommended",
     "airbnb",
     "prettier",
-    "plugin:@typescript-eslint/recommended",
+    "plugin:@typescript-eslint/recommended"
   ],
   "plugins": [
     "react",
@@ -41,6 +41,13 @@
   "rules": {
     "react/jsx-filename-extension": [2, { "extensions": [".js", ".jsx", ".ts", ".tsx"] }],
     "@typescript-eslint/no-unused-vars": "error",
+    "react/require-default-props": "off",
+    "react/function-component-definition": [
+      2,
+      {
+        "namedComponents": "arrow-function"
+      }
+    ],
     "import/extensions": [
       "error",
       "ignorePackages",

@@ -17,7 +17,7 @@ const Layout = ({ children }: Props): JSX.Element => (
     />
 
     <header className="lg:px-32 md:px-16 px-8 py-8 bg-black text-white">
-      <Image alt="HAKKASAN CAL" src="/logo.svg" width="360px" height="34px" />
+      <Image alt="HAKKASAN CAL" src="/logo.svg" width={360} height={34} />
     </header>
 
     <main className="md:flex-row flex flex-col justify-center items-center md:justify-between md:items-start lg:mx-32 md:mx-16 mx-8 mt-12 mb-2">
