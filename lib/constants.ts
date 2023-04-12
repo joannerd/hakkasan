@@ -1658,3 +1658,8 @@ export const BAJA_CALIFORNIA_SUR_EVENTS_2021 = {
     },
   },
 };
+
+export const KEYNAMES = {
+  ArrowLeft: 'ArrowLeft',
+  ArrowRight: 'ArrowRight',
+};
