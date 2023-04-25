@@ -29,7 +29,7 @@ const Filters = ({ title, filters }: Props): JSX.Element => {
       <ul className="flex flex-col overflow-y-scroll md:max-h-96 max-h-40">
         {filters.map(({ id, name, color }) => (
           <li key={`${id}-${name}`} className="flex items-start">
-            <div aria-hidden className={bgClasses[color]} />
+            <div aria-hidden className={title === 'Artists' ? 'd-none' : bgClasses[color]}/>
             <span className={textClasses[color]}>{name}</span>
           </li>
         ))}
